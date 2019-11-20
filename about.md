@@ -4,12 +4,42 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+![Trenton B. Bricken](../images/me.jpg){:style="width: 200px; float: right; padding-left: 20px"}
 
-### More Information
+Hi, I'm Trenton. I am very interested in applying machine learning to impactful problems in biology, particularly towards biosecurity (defined as the prevention of natural and man-made epidemics). I also like to read and think about neuroscience and reinforcement learning. 
+* I'm currently a senior at Duke University studying a self-made major in Biological and Artificial Intelligence. 
+* I've spent a year doing research in the Dr. Michael Lynch's Lab at Duke using machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. 
+* Since then, I have been working in Dr. Debora Marks's lab at Harvard Medical School, first as a summer intern and now through my Senior Thesis research. 
+* Post-graduation I'd like to keep learning and  work on exciting ideas that help the world, I think this is probably best achieved through getting a PhD. 
 
-A place to include any other types of information that you'd like to include about yourself.
+My favourite blogs include: <https://slatestarcodex.com> and <https://www.gwern.net> 
 
-### Contact me
+My favourite books include: Superintelligence by Nick Bostrom, Symbolic Species by Terrence Deacon and The Mote in God's Eye by Jerry Pournelle and Larry Niven. 
 
-[email@domain.com](mailto:email@domain.com)
+I am involved in the movement/philosphy/set of ideas that is Effective Altruism. 
+
+If the world was free of pathogens (and other global catastrophic risks) you'd find me backpacking around the world with my Grandfather’s vintage Leica M3 film camera taking mediocre photos. I still try to do this when I have tmie off and get the chance to travel somewhere cool. 
+
+## Current Projects 
+
+* Protein Generation and Optimization - Supervised by Dr. Debora Marks's Lab as my Senior Thesis - This research is motivated by the promise of recent developments in our ability to predict protein functionality and the problem of finding novel sequences that maximize this prediction. We are developing a new solution using invertible neural networks and variational inference to approximate the intractable distribution of any protein function predictor with reason to believe this will outperform Markov Chain Monte Carlo methods. Having approximated the underlying distribution, we hope to use Bayesian experimental design to efficiently explore the most promising discovered sequences.
+
+* Tail Free Sampling - Independent project, advice from many friends and mentors - Developing a new method to sample sequences from autoregressive neural networks for open-ended sequence generation. 
+
+* RL Learning BFT Consensus Protocols - Supervised by Dr. Kartik Nayak, Final Class Project turned research project - Investigating the ability for deep reinforcement learning agents to discover and prove Byzantine Fault Tolerant consensus protocols.
+
+* RL Implementations of Active Inference - Independent work with friends - Karl Friston's theory for what the objective function of all living beings is has only just started to enter the domain of reinforcement learning. We believe there are large opportunities to further investigate Active Inference and apply new developments in variational inference. 
+
+## Past Projects (see GitHub)
+
+* Primary and Tertiary Protein AutoEncoder - Final Class Project taken too far - seeing if a deep AutoEncoder can learn the relationship between protein sequence and tertiary structure in order to then do either sequence or structure optimization in the latent space. 
+
+* Facebook Chatbot for Spaced Repetition Learning - HackDuke 2016 - Space Repetition is wonderful and highly neglected <https://www.gwern.net/Spaced-repetition>. Can we make it more popular and easy to do routinely using a Facebook Chatbot to both harass and motivate us? 
+
+[My Resume (last updated on Nov. 20th 2019)](../documents/Trenton-Bricken-Resume.pdf)
+
+### Get in Touch
+
+If any of the things I have mentioned are interesting to you. I love meeting new people. 
+
+[brickentrenton@gmail.com](mailto:brickentrenton@gmail.com)
