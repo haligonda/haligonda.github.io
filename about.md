@@ -8,17 +8,17 @@ permalink: /about/
 
 Hi, I'm Trenton. I am very interested in applying machine learning to impactful problems in biology, particularly towards biosecurity (defined as the prevention of natural and man-made epidemics). I also like to read and think about neuroscience and reinforcement learning. 
 * I'm currently a senior at Duke University studying a self-made major in Biological and Artificial Intelligence. 
-* I've spent a year doing research in the Dr. Michael Lynch's Lab at Duke using machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. 
-* Since then, I have been working in Dr. Debora Marks's lab at Harvard Medical School, first as a summer intern and now through my Senior Thesis research. 
+* I've spent a year (June 2018 - May 2019) doing research in  [Dr. Michael Lynch's Lab](https://lynchlab.pratt.duke.edu) at Duke using machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. 
+* Since then, I have been working in [Dr. Debora Marks's Lab](https://marks.hms.harvard.edu) at Harvard Medical School, first as a summer intern and now through my Senior Thesis research. 
 * Post-graduation I'd like to keep learning and  work on exciting ideas that help the world, I think this is probably best achieved through getting a PhD. 
 
 My favourite blogs include: <https://slatestarcodex.com> and <https://www.gwern.net> 
 
 My favourite books include: Superintelligence by Nick Bostrom, Symbolic Species by Terrence Deacon and The Mote in God's Eye by Jerry Pournelle and Larry Niven. 
 
-I am involved in the movement/philosphy/set of ideas that is Effective Altruism. 
+I am involved in the movement/philosphy/set of ideas that is [Effective Altruism](https://www.effectivealtruism.org). 
 
-If the world was free of pathogens (and other global catastrophic risks) you'd find me backpacking around the world with my Grandfather’s vintage Leica M3 film camera taking mediocre photos. I still try to do this when I have tmie off and get the chance to travel somewhere cool. 
+If the world was free of pathogens (and other global catastrophic risks) you'd find me backpacking around the world with my Grandfather’s vintage Leica M3 film camera taking mediocre photos. I still try to do this when I have time off and get the chance to travel somewhere cool. 
 
 ## Current Projects 
 
