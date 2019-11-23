@@ -40,6 +40,12 @@ If the world was free of pathogens (and other global catastrophic risks) you'd f
 
 ### Get in Touch
 
-If any of the things I have mentioned are interesting to you. I love meeting new people. 
+If any of the things I have mentioned are interesting to you. I love to meet new people. 
 
 [brickentrenton@gmail.com](mailto:brickentrenton@gmail.com)
+
+### Anonymous Feedback
+
+Have any feedback for me? Please consider filling out this anonymous feedback form so that I can learn and grow as a human :) 
+
+<https://forms.gle/VcY3vQgkdf6c69dr7> 
