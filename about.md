@@ -10,15 +10,15 @@ Hi, I'm Trenton. I am very interested in applying machine learning to impactful 
 * I'm currently a senior at Duke University studying a self-made major in Biological and Artificial Intelligence. 
 * I've spent a year (June 2018 - May 2019) doing research in  [Dr. Michael Lynch's Lab](https://lynchlab.pratt.duke.edu) at Duke using machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. 
 * Since then, I have been working in [Dr. Debora Marks's Lab](https://marks.hms.harvard.edu) at Harvard Medical School, first as a summer intern and now through my Senior Thesis research. 
-* Post-graduation I'd like to keep learning and  work on exciting ideas that help the world, I think this is probably best achieved through getting a PhD. 
+* Post-graduation I'd like to keep learning and working on exciting ideas that help the world. I think this is probably best achieved through getting a PhD!
 
-My favourite blogs include: <https://slatestarcodex.com> and <https://www.gwern.net> 
+My favourite blogs include: <https://slatestarcodex.com> and <https://www.gwern.net> because of their very rigorous, in depth analysis of all sorts of interesting topics. 
 
 My favourite books include: Superintelligence by Nick Bostrom, Symbolic Species by Terrence Deacon and The Mote in God's Eye by Jerry Pournelle and Larry Niven. 
 
 I am involved in the movement/philosphy/set of ideas that is [Effective Altruism](https://www.effectivealtruism.org). 
 
-If the world was free of pathogens (and other global catastrophic risks) you'd find me backpacking around the world with my Grandfather’s vintage Leica M3 film camera taking mediocre photos. I still try to do this when I have time off and get the chance to travel somewhere cool. 
+If the world was free of pathogens (and other global catastrophic risks) you'd find me backpacking around the world with my grandfather’s vintage Leica M3 film camera taking mediocre photos. I still try to do this when I have time off and get the chance to travel somewhere cool. 
 
 ## Current Projects 
 
@@ -26,21 +26,21 @@ If the world was free of pathogens (and other global catastrophic risks) you'd f
 
 * Tail Free Sampling - Independent project, advice from many friends and mentors - Developing a new method to sample sequences from autoregressive neural networks for open-ended sequence generation. 
 
-* RL Learning BFT Consensus Protocols - Supervised by Dr. Kartik Nayak, Final Class Project turned research project - Investigating the ability for deep reinforcement learning agents to discover and prove Byzantine Fault Tolerant consensus protocols.
+* RL Learning Byzantine Fault Tolerant (BFT) Consensus Protocols - Supervised by Dr. Kartik Nayak, Final Class Project turned research project - Investigating the ability for deep reinforcement learning agents to discover and prove BFT consensus protocols.
 
-* RL Implementations of Active Inference - Independent work with friends - Karl Friston's theory for what the objective function of all living beings is has only just started to enter the domain of reinforcement learning. We believe there are large opportunities to further investigate Active Inference and apply new developments in variational inference. 
+* RL Implementations of Active Inference - Independent work with friends - Karl Friston's theory for what the objective function of all living beings is has only just started to influence reinforcement learning. We believe there are large opportunities to further investigate Active Inference and apply new developments in variational inference. 
 
 ## Past Projects (see GitHub)
 
 * Primary and Tertiary Protein AutoEncoder - Final Class Project taken too far - seeing if a deep AutoEncoder can learn the relationship between protein sequence and tertiary structure in order to then do either sequence or structure optimization in the latent space. 
 
-* Facebook Chatbot for Spaced Repetition Learning - HackDuke 2016 - Space Repetition is wonderful and highly neglected <https://www.gwern.net/Spaced-repetition>. Can we make it more popular and easy to do routinely using a Facebook Chatbot to both harass and motivate us? 
+* Facebook Chatbot for Spaced Repetition Learning - HackDuke 2016 - Space Repetition is wonderful and highly neglected (<https://www.gwern.net/Spaced-repetition>). Can we make it more popular and easy to do routinely using a Facebook Chatbot to both harass and motivate us? 
 
-[My Resume (last updated on Nov. 20th 2019)](../documents/Trenton-Bricken-Resume.pdf)
+[My Resume (last updated on Dec. 15th 2019)](../documents/Trenton-Bricken-Resume.pdf)
 
 ### Get in Touch
 
-If any of the things I have mentioned are interesting to you. I love to meet new people. 
+If any of the things I have mentioned are interesting to you please reach out! I love to meet new people. 
 
 [brickentrenton@gmail.com](mailto:brickentrenton@gmail.com)
 
