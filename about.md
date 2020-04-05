@@ -32,11 +32,11 @@ If the world was free of pathogens (and other global catastrophic risks) you'd f
 
 ## Past Projects (see [GitHub](https://github.com/TrentBrick))
 
-* [PyTorch Discrete Normalizing Flows](https://github.com/TrentBrick/PyTorchDiscreteFlows) - Winter Break 2019 - Learning about Discrete Normalizing Flows from "Discrete Flows: Invertible Generative Models of Discrete Data", by Dustin Tran et al. <https://arxiv.org/pdf/1905.10347.pdf>, I tried implementing them using the coded provided in [edward2](https://github.com/google/edward2/tree/master/edward2/tensorflow/layers#4-reversible-layers) but found that [none of it worked](https://github.com/google/edward2/issues/148). I ended up porting all of the code into PyTorch which required making a number of modifications and getting it working on a toy example. However, as of Jan 31st 2020 I have been unable to reproduce the figures in the paper...
+* [PyTorch Discrete Normalizing Flows](https://github.com/TrentBrick/PyTorchDiscreteFlows) - Winter Break 2019 - Learning about Discrete Normalizing Flows from "Discrete Flows: Invertible Generative Models of Discrete Data", by Dustin Tran et al. <https://arxiv.org/pdf/1905.10347.pdf>, I tried implementing them using the coded provided in [edward2](https://github.com/google/edward2/tree/master/edward2/tensorflow/layers#4-reversible-layers) but found that [none of it worked](https://github.com/google/edward2/issues/148). I ended up porting all of the code into PyTorch which required making a number of modifications and getting it working on a toy example. This remains a work in progress. 
 
-* [Primary and Tertiary Protein AutoEncoder](https://github.com/TrentBrick/PAE) - Final Class Project taken too far - seeing if a deep AutoEncoder can learn the relationship between protein sequence and tertiary structure in order to then do either sequence or structure optimization in the latent space.
+* [Primary and Tertiary Protein AutoEncoder](https://github.com/TrentBrick/PAE) - Final Class Project - seeing if a deep AutoEncoder can learn the relationship between protein sequence and tertiary structure in order to then do either sequence or structure optimization in the latent space.
 
-* [Facebook Chatbot for Spaced Repetition Learning](https://github.com/TrentBrick/MMRY) - HackDuke 2016 - Space Repetition is wonderful and highly neglected (<https://www.gwern.net/Spaced-repetition>). Can we make it more popular and easy to do routinely using a Facebook Chatbot to both harass and motivate us?
+* [Facebook Chatbot for Spaced Repetition Learning](https://github.com/TrentBrick/MMRY) - HackDuke 2016 - Spaced Repetition is wonderful and highly neglected (<https://www.gwern.net/Spaced-repetition>). Can we make it more popular and easy to do routinely using a Facebook Chatbot to both harass and motivate us?
 
 [My Resume (last updated on Jan. 31st 2020)](../documents/Trenton-Bricken-Resume.pdf)
 
