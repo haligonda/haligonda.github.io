@@ -4,17 +4,16 @@ title: About
 permalink: /about/
 ---
 
-![Trenton B. Bricken](../images/me.jpg){:style="width: 200px; float: right; padding-left: 20px"}
+![Trenton B. Bricken](../images/TrentonBricken.jpg){:style="width: 200px; float: right; padding-left: 20px"}
 
 Hi, I'm Trenton. I am very interested in applying machine learning to impactful problems in biology, particularly towards biosecurity (defined as the prevention of natural and man-made epidemics). I also like to read and think about neuroscience and reinforcement learning.
-* I'm currently a senior at Duke University studying a self-made major in Biological and Artificial Intelligence.
-* I've spent a year (June 2018 - May 2019) doing research in  [Dr. Michael Lynch's Lab](https://lynchlab.pratt.duke.edu) at Duke using machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. 
-* Since then, I have been working in [Dr. Debora Marks's Lab](https://marks.hms.harvard.edu) at Harvard Medical School, first as a summer intern and now through my Senior Thesis research.
-* Post-graduation I'd like to keep learning and working on exciting ideas that help the world. I think this is probably best achieved through getting a PhD!
+* I'm an incoming PhD student in the Systems, Synthetic and Quantitative Biology Program at Harvard. 
+* Graduated Duke University in 2020 with a self-made major in Biological and Artificial Intelligence.
+* During my time at Duke I spent a year (June 2018 - May 2019) doing research in  [Dr. Michael Lynch's Lab](https://lynchlab.pratt.duke.edu) at Duke using machine learning to design new CRISPR guide RNAs for safer, more effective genome editing.Afterwards, I was affiliated with [Dr. Debora Marks's Lab](https://marks.hms.harvard.edu) at Harvard Medical School, first as a summer intern and then through my Senior Thesis research.
 
 My favourite blogs include: <https://slatestarcodex.com> and <https://www.gwern.net> because of their very rigorous, in depth analysis of all sorts of interesting topics.
 
-My favourite books include: Superintelligence by Nick Bostrom, Symbolic Species by Terrence Deacon and The Mote in God's Eye by Jerry Pournelle and Larry Niven. 
+My favourite books include: Superintelligence by Nick Bostrom, Symbolic Species by Terrence Deacon and The Mote in God's Eye by Jerry Pournelle and Larry Niven.
 
 I am involved in the movement/philosphy/set of ideas that is [Effective Altruism](https://www.effectivealtruism.org).
 
@@ -24,15 +23,15 @@ If the world was free of pathogens (and other global catastrophic risks) you'd f
 
 * Protein Generation and Optimization - Supervised by Dr. Debora Marks's Lab as my Senior Thesis - This research is motivated by the promise of recent developments in our ability to predict protein functionality and the problem of finding novel sequences that maximize this prediction. We are developing a new solution using invertible neural networks and variational inference to approximate the intractable distribution of any protein function predictor with reason to believe this will outperform Markov Chain Monte Carlo methods. Having approximated the underlying distribution, we hope to use Bayesian experimental design to efficiently explore the most promising discovered sequences.
 
-* Tail Free Sampling - Independent project, advice from many friends and mentors - Developing a new method to sample sequences from autoregressive neural networks for open-ended sequence generation.
-
 * RL Learning Byzantine Fault Tolerant (BFT) Consensus Protocols - Supervised by Dr. Kartik Nayak, Final Class Project turned research project - Investigating the ability for deep reinforcement learning agents to discover and prove BFT consensus protocols.
 
 * RL Implementations of Active Inference - Independent work with friends - Karl Friston's theory for what the objective function of all living beings is has only just started to influence reinforcement learning. We believe there are large opportunities to further investigate Active Inference and apply new developments in variational inference.
 
 ## Past Projects (see [GitHub](https://github.com/TrentBrick))
 
-* [PyTorch Discrete Normalizing Flows](https://github.com/TrentBrick/PyTorchDiscreteFlows) - Winter Break 2019 - Learning about Discrete Normalizing Flows from "Discrete Flows: Invertible Generative Models of Discrete Data", by Dustin Tran et al. <https://arxiv.org/pdf/1905.10347.pdf>, I tried implementing them using the coded provided in [edward2](https://github.com/google/edward2/tree/master/edward2/tensorflow/layers#4-reversible-layers) but found that [none of it worked](https://github.com/google/edward2/issues/148). I ended up porting all of the code into PyTorch which required making a number of modifications and getting it working on a toy example. This remains a work in progress. 
+* [PyTorch Discrete Normalizing Flows](https://github.com/TrentBrick/PyTorchDiscreteFlows) - Winter Break 2019 - Learning about Discrete Normalizing Flows from "Discrete Flows: Invertible Generative Models of Discrete Data", by Dustin Tran et al. <https://arxiv.org/pdf/1905.10347.pdf>, I tried implementing them using the coded provided in [edward2](https://github.com/google/edward2/tree/master/edward2/tensorflow/layers#4-reversible-layers) but found that [none of it worked](https://github.com/google/edward2/issues/148). I ended up porting all of the code into PyTorch which required making a number of modifications and getting it working on a toy example. This remains a work in progress.
+
+* [Tail Free Sampling](https://trentbrick.github.io/Tail-Free-Sampling/) - Independent project, advice from many friends and mentors - Developing a new method to sample sequences from autoregressive neural networks for open-ended sequence generation.
 
 * [Primary and Tertiary Protein AutoEncoder](https://github.com/TrentBrick/PAE) - Final Class Project - seeing if a deep AutoEncoder can learn the relationship between protein sequence and tertiary structure in order to then do either sequence or structure optimization in the latent space.
 
