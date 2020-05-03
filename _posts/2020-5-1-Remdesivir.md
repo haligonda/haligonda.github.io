@@ -12,7 +12,7 @@ From the [NIH announcement](https://www.niaid.nih.gov/news-events/nih-clinical-t
 
 > Preliminary results indicate that patients who received remdesivir had a 31% faster time to recovery than those who received placebo (p<0.001). Specifically, the median time to recovery was 11 days for patients treated with remdesivir compared with 15 days for those who received placebo. Results also suggested a survival benefit, with a mortality rate of 8.0% for the group receiving remdesivir versus 11.6% for the placebo group (p=0.059).
 
-This is good news but no panacea. 
+This is good news but no panacea.
 
 On the same day as the NIH announcement, the Lancet published a [China based Remdesivir RCT](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31022-9/fulltext). This study was underpowered and failed to produce statistically significant results that Remdesivir was effective. However, independent of the sample being too small, the authors acknowledged and found evidence for  starting their treatment too late.
 
@@ -24,7 +24,7 @@ Figure 1. The inter quartile range for both treatment and placebo groups is (9-1
 
 ![Oxygen](../images/Remdesivir/Lancet_Oxygen.png)
 
-The columns here follow the same ordering as in Figure 1. Taken from Table 1 of [Wang et al.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31022-9/fulltext)
+The columns here follow the same ordering as in Figure 1. The 1st category (not shown) is hospital discharge. Taken from Table 1 of [Wang et al.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31022-9/fulltext)
 
 Clearly in these participants SARS-CoV-2 had already spread widely before treatment began. While the results were not statistically significant, the following is of particular note:
 
@@ -59,6 +59,8 @@ To end this piece on a more optimistic note, the probability of viral escape fro
 Figure 4. We can see the conservation of nsp12 which is the RNA-dependent RNA-polymerase across the coronavirus family. Taken from Figure 3 of [Sheahan et al.](https://stm.sciencemag.org/content/9/396/eaal3653)
 
 This result has also been backed up by the result that "coronaviruses partially resistant to inhibition by remdesivir (about six-times increased EC50) have been obtained after serial in vitro passage, but these viruses remain susceptible to higher remdesivir concentrations and show impaired fitness." (quote taken from [Wang et al.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31022-9/fulltext) in reference to [this paper](https://mbio.asm.org/content/9/2/e00221-18) )
+
+Thanks to Joe Choo-Choy for reviewing a draft of this piece.
 
 ### Footnotes
 * footnotes will be placed here. This line is necessary
