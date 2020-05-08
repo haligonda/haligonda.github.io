@@ -39,6 +39,10 @@ If the world was free of pathogens (and other global catastrophic risks) you'd f
 
 [My Resume (last updated on Jan. 31st 2020)](../documents/Trenton-Bricken-Resume.pdf)
 
+### Other Locations on the Interwebs
+
+I am pretty active on [Twitter](https://twitter.com/TrentonBricken) and sometimes upload my film photography to [Instagram](https://www.instagram.com/needs__exposure/?hl=en).
+
 ### Get in Touch
 
 If any of the things I have mentioned are interesting to you please reach out! I love to meet new people.
