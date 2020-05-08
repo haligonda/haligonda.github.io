@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PyTorch Discrete Normalizing Flows
-date: 2020-3-11 08:27:0 +0000
+#date: 2020-3-11 08:27:0 +0000
 comments: True
 categories: ML 
 ---

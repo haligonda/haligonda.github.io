@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Greatest Host
-date: 2020-6-1 14:02:0 +0000
+# date: 2020-6-1 14:02:0 +0000
 comments: True
 categories: COVID
 ---
@@ -12,7 +12,7 @@ However, a series of articles[^gwern] by [Stephen Hedrick](http://hedricklab.ucs
 
 These arguments, which I will be summarizing, present important considerations for immunology, epidemiological modelling, zoonotic spillovers, and viral ecology. More broadly, these pieces have reminded me the importance of first principles thinking and how crucial it is to account for evolution when thinking about systems, before getting lost in the minutiae. Even more broadly, these pieces are a reminder that we as humans remain stuck on the [evolutionary treadmill](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/). It is crucial that we deliberately take actions to hop off before it is too late. If our current rate of technological progress continues and we lack of caution about what we develop, humanity looks [en route to kill itself](https://nickbostrom.com/papers/vulnerable.pdf) and it is [somewhat of a miracle](https://www.amazon.co.uk/Command-Control-Eric-Schlosser/dp/0141037911?sa-no-redirect=1&pldnSite=1) that we haven't already.
 
-# The Red Queen
+## The Red Queen
 
 Dr. Hedrick in ["The Acquired Immune System: A Vantage from Beneath"](http://hedricklab.ucsd.edu/documents/Hedrick-Immunity-2004.pdf) argues that because of the sheer number and diversity of parasites, and the fact that no immune system is invincible to every threat[^newThreats], it is the parasites, not the immune system that are in the driver's seat. However, while the power is with the parasites, they lack the freedom to decide how to wield it. This is because of their fundamental dependence on the host, meaning they can only be so virulent or else cause their own extinct (is there a technical term for this?). As a result, the parasitic burden a population faces is calibrated to, and independent of, the sophistication of its immune system (on evolutionary timescales). The burden an individual host faces is only dependent on how strong their immune system is in relation to the rest of its population: "A zebra doesn't have to outrun the lion, just the slowest member of the herd." This is why immunocompromised people can succumb to parasites that those with a normal immune system combat or tolerate effortlessly. David Vetter, the [Bubble Boy](https://en.wikipedia.org/wiki/David_Vetter) died tragically because he lacked an adaptive immune system, but more fundamentally because human co-evolved parasites expected that he would have one.
 
@@ -22,7 +22,7 @@ Unfortunately, this race is also not without its consequences as the adaptive im
 
 It may be helpful in the future to know that this form of evolutionary lock in is often referred to as the "[Red Queen Hypothesis](https://en.wikipedia.org/wiki/Red_Queen_hypothesis)", a reference to Lewis Carroll's Red Queen in Alice in Wonderland: “Now, here, you see, it takes all the running you can do, to keep in the same place. If you want to get somewhere else, you must run at least twice as fast as that.” ([Van Valen, 1973](https://ebme.marine.rutgers.edu/HistoryEarthSystems/HistEarthSystems_Fall2010/VanValen%201973%20Evol%20%20Theor%20.pdf))
 
-# Invertebrate Immunity 
+## Invertebrate Immunity 
 
 Dr. Hedrick supports his argument with interesting examples of invertebrates that don't suffer a level of parasitic infection that would be expected if the sophistication of their immune system mattered. This is shown by exploring invertebrate lifespan, causes of death and invertebrate parasites.  
 
@@ -32,18 +32,18 @@ Performing direct comparisons between vertebrate and invertebrate lifespans he n
 
 > A species of subsocial dung beetles (Passalidae) has an average lifespan of greater than 2 years in the wild (hardly a clean environment!), and approximately 5 years in captivity (Cambefort and Hanski, 1991). This is not so different from our favorite species for studying acquired immunity, the house mouse, mus musculus, which has an average lifespan in the wild of approximately 1 year and a lifespan in captivity of 2–5 years. A second example is the lobster (Homarus americanus), which has been studied extensively due to its commercial importance. Lobsters reach sexual maturity at 5-8 years. Including predation, disease, and storm damage, the natural mortality rate of juveniles and adults (excluding human harvesting) is very low with estimates ranging from 2%–8% per year (Thomas, 1973; Ennis et al., 1986; Fogarty, 1995).
 
-Examples of parasites that change their virulence in response to their host are also abundant. For example, malaria ([(Nash, 2002](https://www.ncbi.nlm.nih.gov/pubmed/12643994)) and [trypansomes](https://www.who.int/trypanosomiasis_african/parasite/en/).
+Examples of parasites that change their virulence in response to their host are also abundant. For example, malaria ([Nash, 2002](https://www.ncbi.nlm.nih.gov/pubmed/12643994)) and [trypansomes](https://www.who.int/trypanosomiasis_african/parasite/en/).
 
-As a final example of parasitic co-evolution, a study on "invertebrate iridescent viruses" showed that infections were nonlethal and that "the frequency of infection was directly correlated with species proportion, a hallmark of frequency-dependent coevolution ((Hernandez et al., 2000)[https://www.ncbi.nlm.nih.gov/pubmed/11129714])."
+As a final example of parasitic co-evolution, a study on "invertebrate iridescent viruses" showed that infections were nonlethal and that "the frequency of infection was directly correlated with species proportion, a hallmark of frequency-dependent coevolution ([Hernandez et al., 2000](https://www.ncbi.nlm.nih.gov/pubmed/11129714))."
 
 In light of this evidence, Dr. Hedrick rightly raises the question: 
 > "Perhaps the question is not why invertebrates manage to succeed in the absence of an acquired immune system, but rather, why do we vertebrates have pathogens that necessitate acquired immunity?"
 
-# Parasitic Optimization
+## Parasitic Optimization
 
 What are the constraints and considerations of the parasites in their careful co-evolutionary balance with their hosts? The parasites are maximizing for reproduction. This is often called R0, the number of new infections caused by an infected host. The factors influencing reproduction are transmission rate and virulence:
 
-Transmission rate is "simply the rate at which a parasite is successfully spread from host to host, and transmission can occur over the length of infection that is determined by a combination of the host life span, the death rate due to infection, and the rate of parasite clearance." This is $$\frac{number of infections}{time}$$ and depends not only on the aforementioned features like host life span but also how mobile the host remains during infection and how often an interaction with a naive host leads to transmission (how contagious).
+Transmission rate is "simply the rate at which a parasite is successfully spread from host to host, and transmission can occur over the length of infection that is determined by a combination of the host life span, the death rate due to infection, and the rate of parasite clearance." This is $$\frac{\mathit{N_I}}{Time}$$ where $$N_I$$ is the number of infections and depends not only on the aforementioned features like host life span but also how mobile the host remains during infection and how often an interaction with a naive host leads to transmission (how contagious).
 
 Virulence is "the cost of infection to the host ... it is assumed to be associated with the rapidity and extent of in-host parasite replication." I like to think of this in abstract terms as the raw amount of energy the parasite is taking from its host in order to replicate.
 
@@ -53,7 +53,7 @@ Interesting exceptions to this interdependence between transmission rate and vir
 
 This balance betweeen transmissibility and virulence is referred to in the literature as trade-off theory ([Anderson and May, 1982](https://www.ncbi.nlm.nih.gov/pubmed/6755367)). Its predictions have been replicated in laboratory and natural experiments. In the lab, an incredible experiment started in the 1920s and lasting over 15 years involved between 100,000 and 200,000 mice, which were used to study the evolution of viral and bacterial virulence and mortality rates as the rate naive hosts were introduced was altered ([Greenwood et al., 1936](https://jamanetwork.com/journals/jama/article-abstract/274340); [Anderson and May, 1979](https://www.nature.com/articles/280361a0)). This evolution of virulence means that when a parasite encounters many naive hosts, there is a reduced fitness cost to high virulence and the most virulent, with the highest transmission rates, spreads the fastest. Meanwhile, with fewer naive hosts, the opposite is true ([Lively, 2006](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1461-0248.2006.00969.x)). In a similar fashion, bacteria that have acquired antibiotic resistance genes will lose them over time if they are not exposed to these antibiotics. This is because these genes are extra genetic baggage that require energy to replicate and variants free of them will outcompete those that remain encumbered ([Bingle and Thomas, 2001](https://www.ncbi.nlm.nih.gov/pubmed/11282476)). Applying this phenomemon to the ongoing SARS-CoV-2 pandemic, before global lockdown measures were introduced there was selection for more virulent strains of the virus. Now, with lockdown in place there is selection for less virulent, longer lived strains.
 
-# The Most Generous of Hosts
+## The Most Generous of Hosts
 
 After Dr. Hedrick undermined our anthropocentric belief of our immune system superiority, he goes further in  ["Understanding Immunity through the Lens of Disease Ecology"](http://hedricklab.ucsd.edu/documents/Hedrick-CellReviews-2017.pdf) by arguing that since the domestication of animals and the agricultural revolution, humans have likely been the best parasitic hosts on the planet.
 
@@ -68,7 +68,7 @@ An interesting consequence of these transient, acute infections is that people t
 A paragraph that really caught my attention on just how susceptible modern society is to acute, resolving infectious agents because of the distribution of its interconnectedness:
 
 > A second attribute of modern society is that the number of interactions that characterize each individual (the degree distribution) does not follow a normal distribution. Rather, the number of ‘friends’ or ‘connections’ possessed by each person is extremely heterogeneous and more closely follows a (truncated) power law (an example of a ‘heavy-tailed’ distribution). That is, most people have small number of connections, whereas some directly interact with many people
-[72,77]. A simplified way to looking at this is that for disease spread there would exist highly connected individuals who would be sure to propagate an epidemic [78–81]. Mathematical modeling indicates that no matter how inefficient the transmission of a disease, in a network with a heavy-tailed distribution, an epidemic is likely to permanently take hold. ([Hedrick, 2017](http://hedricklab.ucsd.edu/documents/Hedrick-CellReviews-2017.pdf))
+[72,77]. A simplified way to looking at this is that for disease spread there would exist highly connected individuals who would be sure to propagate an epidemic [78–81]. Mathematical modeling indicates that no matter how inefficient the transmission of a disease, in a network with a heavy-tailed distribution, an epidemic is likely to permanently take hold ([Hedrick, 2017](http://hedricklab.ucsd.edu/documents/Hedrick-CellReviews-2017.pdf)).
 
 In addition to these new infectious agents, close continual contact with wildlife has led to increased rates of zoonotic spillovers. These are the X Factor in that "rarely do different species experience the same infectious agent with exactly the same pathology". The parasite is calibrated to a different host and as a result the new infection can be incredibly deadly or totally unnoticed. Zoonoses can be deadly not only from a parasite that is too virulent and kills quickly, but also from immunopathology where, like in an allergic reaction, the immune system becomes over stimulated. This can cause death via cytokine storms or encephalitis. An interesting example of this variance in the effects of different zoonoses even within the same viral strain is:
 
@@ -78,7 +78,7 @@ There are a few consequences of these arguments. Firstly, in order to understand
 
 If an increase in technology is to blame for all of our infections, it must also be our solution. With vaccines and other treatments, our technology is now de facto part of the human immune system and we need to continue leveraging it to catch up in our parasitic disequilibrium and stay ahead. However, I believe it is helpful to remember that our technology is both the cause and solution to this problem. Yes, [sanitation has been wonderful for reducing infection rates dramatically](https://rootsofprogress.org/draining-the-swamp) but it was only necessary in the first place because of urbanization and the infectious agents that it created.
 
-# Conclusion
+## Conclusion
 
 I believe there is much to learn from an evolutionary and parasite oriented approach to immunology. Our adaptive immune system is no optimal solution, we should not expect to ever be truly free of parasites, some parasites will be far more difficult to eradicate than smallpox, and technological advancements have put us in a very precarious position with an entire new classes of infection both known, and yet to spillover.
 

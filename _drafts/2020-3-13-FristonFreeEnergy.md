@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Friston Free Energy Principle
-date: 2020-3-13 08:27:0 +0000
+#date: 2020-3-13 08:27:0 +0000
 comments: True
 categories: ML 
 ---
