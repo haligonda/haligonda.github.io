@@ -9,7 +9,7 @@ permalink: /about/
 Hi, I'm Trenton. I am very interested in applying machine learning to impactful problems in biology, particularly towards biosecurity (defined as the prevention of natural and man-made epidemics). I also like to read and think about neuroscience and reinforcement learning and, of course, Original Glazed Krispy Kreme Doughnuts (get 'em while they're hot!).
 
 Information about me:
-* I'm an incoming PhD student in the Systems, Synthetic and Quantitative Biology Program at Harvard. 
+* I'm an incoming PhD student in the Systems, Synthetic and Quantitative Biology (SSQB) Program at Harvard. 
 * I graduated from Duke University in 2020 with a self-made major in "Minds and Machines: Biological and Artificial Intelligence". I was lucky to attend as a [Robertson Scholar](https://robertsonscholars.org/) which provided full funding during all four years, including summer experiences.
 * During my time at Duke I spent a year (June 2018 - May 2019) doing research in [Dr. Michael Lynch's Lab](https://lynchlab.pratt.duke.edu) at Duke using machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. Afterwards, I was affiliated with [Dr. Debora Marks's Lab](https://marks.hms.harvard.edu) at Harvard Medical School, first as a summer intern and then through my Senior Thesis research.
 
@@ -25,7 +25,7 @@ If the world was free of pathogens (and other global catastrophic risks) you'd f
 
 **Computationally Optimized SARS-CoV-2 MHC Class I and II Vaccine Formulations Predicted to Target Human Haplotype Distributions.**<br>
 Ge Liu*, Brandon Carter*, ***Trenton Bricken***, Siddhartha Jain, Mathias Viard, Mary Carrington, David K Gifford<br>
-*(Joint first authors)<br>
+*(First authors)<br>
 *Cell Systems, July 2020*<br>
 [[paper](https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30238-6#%20)] [[code](https://github.com/gifford-lab/optivax)] [[preprint](https://www.biorxiv.org/content/10.1101/2020.05.16.088989v1)]
 
@@ -46,6 +46,12 @@ My Google Scholar profile can be found [here](https://scholar.google.com/citatio
 * RL Learning Byzantine Fault Tolerant (BFT) Consensus Protocols - Supervised by Dr. Kartik Nayak, Final Class Project turned research project - Investigating the ability for deep reinforcement learning agents to discover and prove BFT consensus protocols.
 
 ## Past Projects (see [GitHub](https://github.com/TrentBrick))
+
+* [SARS-CoV-2 mutation effects and 3D structure prediction from sequence covariation.](marks.hms.harvard.edu/sars-cov-2) - Summer 2020 - Collaborated with the Marks lab to help produce their SARS-CoV-2 mutation effects and 3D structure prediction using their EVCouplings analysis capabilities. <br>
+Citation: <br>
+Nathan Rollins*, Kelly Brock*, Joshua Rollins*, Judy Shen, Amy Tam, Ada Shaw, ***Trenton Bricken***, Augustin Luna, Nicholas Gauthier, Thomas Hopf, Chris Sander, Debora Marks<br>
+*(Equal contributors)<br>
+(2020) marks.hms.harvard.edu/sars-cov-2
 
 * [Tail Free Sampling](https://trentbrick.github.io/Tail-Free-Sampling/) - Independent project, advice from friends and mentors - Developing a new method to sample sequences from autoregressive neural networks for open-ended sequence generation.
 
