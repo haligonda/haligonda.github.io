@@ -9,8 +9,8 @@ permalink: /about/
 Hi, I'm Trenton. I am very interested in applying machine learning to impactful problems in biology, particularly towards biosecurity (defined as the prevention of natural and man-made epidemics). I also like to read and think about neuroscience and reinforcement learning and, of course, Original Glazed Krispy Kreme Doughnuts (get 'em while they're hot!).
 
 Information about me:
-* I'm an incoming PhD student in the Systems, Synthetic and Quantitative Biology (SSQB) Program at Harvard. 
-* I graduated from Duke University in 2020 with a self-made major in "Minds and Machines: Biological and Artificial Intelligence". I was lucky to attend as a [Robertson Scholar](https://robertsonscholars.org/) which provided full funding during all four years, including summer experiences.
+* I'm a PhD candidate in the Systems, Synthetic and Quantitative Biology (SSQB) Program at Harvard (started Sept. 2020). 
+* I graduated from Duke University in May 2020 with a self-made major in "Minds and Machines: Biological and Artificial Intelligence". I was lucky to attend as a [Robertson Scholar](https://robertsonscholars.org/) which provided full funding during all four years, including summer experiences.
 * During my time at Duke I spent a year (June 2018 - May 2019) doing research in [Dr. Michael Lynch's Lab](https://lynchlab.pratt.duke.edu) at Duke using machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. Afterwards, I was affiliated with [Dr. Debora Marks's Lab](https://marks.hms.harvard.edu) at Harvard Medical School, first as a summer intern and then through my Senior Thesis research.
 
 My favourite blogs include: <https://slatestarcodex.com> and <https://www.gwern.net> because of their very rigorous, in depth analysis of all sorts of interesting topics.
