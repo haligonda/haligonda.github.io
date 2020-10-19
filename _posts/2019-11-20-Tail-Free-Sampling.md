@@ -239,7 +239,7 @@ However, in the meantime, because neither Top-K or Nucleus Sampling have been em
 
 ### Acknowledgements
 
-I would like to thank Dr. David Banks, Miles Turpin, Nathan Rollins, Dr. Debora Marks, Elle Deich, Alexander Bricken and Gwern Branwen without whose feedback, support, or inspiration this work would not have happened.
+I would like to thank Dr. David Banks, Miles Turpin, Nathan Rollins, Dr. Debora Marks, Alexander Bricken and Gwern Branwen without whose feedback, support, or inspiration this work would not have happened.
 
 I would also like to thank all opensource contributors whose work has been invaluable. This includes but is not limited to: [Numpy](https://numpy.org); [Pandas](https://pandas.pydata.org); [SciPy](https://www.scipy.org); [Matplotlib](https://matplotlib.org); [Seaborn](https://seaborn.pydata.org); [Tensorflow](https://www.tensorflow.org); [Anaconda](https://www.anaconda.com/distribution/); [Jupyter Notebooks](https://jupyter.org)
 
