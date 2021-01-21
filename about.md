@@ -6,12 +6,12 @@ permalink: /about/
 
 ![Trenton B. Bricken](../images/TrentonBricken.jpg){:style="width: 200px; float: right; padding-left: 20px"}
 
-Hi, I'm Trenton. I am very interested in applying machine learning to impactful problems in biology, particularly towards biosecurity (defined as the prevention of natural and man-made epidemics). I also like to read and think about neuroscience and reinforcement learning and, of course, Original Glazed Krispy Kreme Doughnuts (get 'em while they're hot!).
+Hi, I'm Trenton. I am very interested in the interface between machine learning and neuroscience. This interest extends to thinking about evolutionary biology, reinforcement learning and, of course, Original Glazed Krispy Kreme Doughnuts (get 'em while they're hot!).
 
 Information about me:
 * I'm a PhD student in the Systems, Synthetic and Quantitative Biology (SSQB) Program at Harvard (started Sept. 2020). 
 * I graduated from Duke University in May 2020 with a self-made major in "Minds and Machines: Biological and Artificial Intelligence". I was lucky to attend as a [Robertson Scholar](https://robertsonscholars.org/) which provided full funding during all four years, including summer experiences.
-* During my time at Duke I spent a year (June 2018 - May 2019) doing research in [Dr. Michael Lynch's Lab](https://lynchlab.pratt.duke.edu) at Duke using machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. Afterwards, I was affiliated with [Dr. Debora Marks's Lab](https://marks.hms.harvard.edu) at Harvard Medical School, first as a summer intern and then through my Senior Thesis research.
+* During my time at Duke I spent a year (June 2018 - May 2019) doing research in [Dr. Michael Lynch's Lab](https://lynchlab.pratt.duke.edu) at Duke attempting to use machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. Afterwards, I was affiliated with [Dr. Debora Marks's Lab](https://marks.hms.harvard.edu) at Harvard Medical School, first as a summer intern and then through my Senior Thesis research.
 
 My favourite blogs include: <https://slatestarcodex.com> and <https://www.gwern.net> because of their very rigorous, in depth analysis of all sorts of interesting topics.
 
@@ -37,23 +37,23 @@ My Google Scholar profile can be found [here](https://scholar.google.com/citatio
 
 ## Current Projects
 
-* PhD Rotations. I am trying to figure out what lab I will join for the remainder of my PhD! 
+* PhD Rotations. I am trying to figure out what lab I will join for the remainder of my PhD!
 
-* RL Implementations of Active Inference - Summer 2020 - Karl Friston's theory for what the objective function of all living beings is has only just started to influence reinforcement learning. We believe there are large opportunities to further investigate Active Inference and apply new developments in variational inference.
-
-* RL Learning Byzantine Fault Tolerant (BFT) Consensus Protocols - Supervised by Dr. Kartik Nayak, Final Class Project turned research project - Investigating the ability for deep reinforcement learning agents to discover and prove BFT consensus protocols.
+* RL Implementations of Active Inference - Summer 2020 - Karl Friston's theory for what the objective function of all living beings is has only just started to influence reinforcement learning. I believe there are exciting opportunities to further investigate Active Inference and apply new developments in variational inference.
 
 ## Past Projects (see [GitHub](https://github.com/TrentBrick))
 
-* [RewardConditionedUDRL](https://github.com/TrentBrick/RewardConditionedUDRL) - Fall 2020 - Open source codebase combining implementations of Reward Conditioned Policies](https://arxiv.org/pdf/1912.13465.pdf) and [Training Agents using Upside-Down Reinforcement Learning](https://arxiv.org/abs/1912.02877). The former had no public implementation and the latter had a few implemented as Jupyter Notebooks but that had a number of issues I flagged eg [here](https://github.com/jscriptcoder/Upside-Down-Reinforcement-Learning/issues/1) and [here](https://github.com/BY571/Upside-Down-Reinforcement-Learning/issues/4#event-3624848392). I hope this open source codebase will serve to both fully replicate the aforementioned papers and be used as a starting point for further research in the exciting domain of supervised RL. 
+* [RewardConditionedUDRL](https://github.com/TrentBrick/RewardConditionedUDRL) - Fall 2020 - Open source codebase combining implementations of Reward Conditioned Policies](https://arxiv.org/pdf/1912.13465.pdf) and [Training Agents using Upside-Down Reinforcement Learning](https://arxiv.org/abs/1912.02877). The former had no public implementation and the latter had a few implemented as Jupyter Notebooks but that had a number of issues I flagged eg. [here](https://github.com/jscriptcoder/Upside-Down-Reinforcement-Learning/issues/1) and [here](https://github.com/BY571/Upside-Down-Reinforcement-Learning/issues/4#event-3624848392). I hope this open source codebase will serve to both fully replicate the aforementioned papers and be used as a starting point for further research in the exciting domain of supervised RL.
 
-* [SARS-CoV-2 mutation effects and 3D structure prediction from sequence covariation.](marks.hms.harvard.edu/sars-cov-2) - Summer 2020 - Collaborated with the Marks lab to help produce their SARS-CoV-2 mutation effects and 3D structure prediction using their EVCouplings analysis capabilities. <br>
+* [SARS-CoV-2 mutation effects and 3D structure prediction from sequence covariation.](marks.hms.harvard.edu/sars-cov-2) - Summer 2020 - Collaborated with the Marks lab to help produce their SARS-CoV-2 mutation effect and 3D structure predictions using EVCouplings. <br>
 Citation: <br>
 Nathan Rollins*, Kelly Brock*, Joshua Rollins*, Judy Shen, Amy Tam, Ada Shaw, ***Trenton Bricken***, Augustin Luna, Nicholas Gauthier, Thomas Hopf, Chris Sander, Debora Marks<br>
 *(Equal contributors)<br>
 (2020) marks.hms.harvard.edu/sars-cov-2
 
-* Protein Generation and Optimization - Supervised by Dr. Debora Marks's Lab as my Senior Thesis - This research is motivated by the promise of recent developments in our ability to predict protein functionality and the problem of finding novel sequences that maximize this prediction. We tried developing a new solution using invertible neural networks and variational inference to approximate the intractable distribution of any protein function predictor with reason to believe it would outperform Markov Chain Monte Carlo methods. Senior thesis paper writing up the work and where it seemed to work and fail forthcoming.
+* RL Learning Byzantine Fault Tolerant (BFT) Consensus Protocols - Supervised by Dr. Kartik Nayak, Final Class Project turned research project - Investigated the ability for deep reinforcement learning agents to discover and prove BFT consensus protocols.
+
+* Protein Generation and Optimization - Supervised by Dr. Debora Marks's Lab as my Senior Thesis - This research is motivated by the promise of recent developments in our ability to predict protein functionality and the problem of finding novel sequences that maximize this prediction. We tried developing a new solution using invertible neural networks and variational inference to approximate the intractable distribution of any protein function predictor with reason to believe it would outperform Markov Chain Monte Carlo methods. Senior thesis paper writing up the work and where it seemed to succeed and fail forthcoming.
 
 * [PyTorch Discrete Normalizing Flows](https://github.com/TrentBrick/PyTorchDiscreteFlows) - Winter Break 2019 - Learning about Discrete Normalizing Flows from "Discrete Flows: Invertible Generative Models of Discrete Data", by Dustin Tran et al. <https://arxiv.org/pdf/1905.10347.pdf>, I tried implementing them using the coded provided in [edward2](https://github.com/google/edward2/tree/master/edward2/tensorflow/layers#4-reversible-layers) but found that [none of it worked](https://github.com/google/edward2/issues/148). I ended up porting all of the code into PyTorch which required making a number of modifications and getting it working on a toy example. This repo as of Nov. 10th 2020 has 48 Github stars and I have had two collaborators help be replicate results. 
 
