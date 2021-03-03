@@ -21,13 +21,19 @@ I am involved in the movement/philosphy/set of ideas that is [Effective Altruism
 
 If the world was free of pathogens (and other global catastrophic risks) you'd find me backpacking around the world with my grandfather’s vintage Leica M3 film camera taking mediocre photos. I still try to do this when I have time off and get the chance to travel somewhere cool.
 
-## Publications
+## Publications (in reverse chronological order):
+
+**High-content screening of coronavirus genes for innate immune suppression reveals enhanced potency of SARS-CoV-2 proteins.**<br>
+Erika J Olson*, David M Brown*, Timothy Z Chang, Lin Ding, Tai L Ng, H. Sloane Weiss, Peter Koch, Yukiye Koide, Nathan Rollins, Pia Mach, Tobias Meisinger, ***Trenton Bricken***, Joshus Rollins, Yun Zhang, Colin Molloy, Yun Zhang, Briodget N Queenan, Timothy Mitchison, Debora Marks, Jeffrey C Way, John I Glass, Pamela A Silver<br>
+*(First authors)<br>
+*bioRxiv, March 2021*<br>
+[[preprint](https://www.biorxiv.org/content/10.1101/2021.03.02.433434v1)] [[tweet-thread](https://twitter.com/TrentonBricken/status/1367141915666317312?s=20)]
 
 **Computationally Optimized SARS-CoV-2 MHC Class I and II Vaccine Formulations Predicted to Target Human Haplotype Distributions.**<br>
 Ge Liu*, Brandon Carter*, ***Trenton Bricken***, Siddhartha Jain, Mathias Viard, Mary Carrington, David K Gifford<br>
 *(First authors)<br>
 *Cell Systems, July 2020*<br>
-[[paper](https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30238-6#%20)] [[code](https://github.com/gifford-lab/optivax)] [[preprint](https://www.biorxiv.org/content/10.1101/2020.05.16.088989v1)]
+[[paper](https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30238-6#%20)] [[code](https://github.com/gifford-lab/optivax)] [[preprint](https://www.biorxiv.org/content/10.1101/2020.05.16.088989v1)] [[tweet-thread](https://twitter.com/TrentonBricken/status/1262407888842170370?s=20)]
 
 My Google Scholar profile can be found [here](https://scholar.google.com/citations?user=CP6aLusAAAAJ&hl=en).
 
@@ -39,7 +45,7 @@ My Google Scholar profile can be found [here](https://scholar.google.com/citatio
 
 * PhD Rotations. I am trying to figure out what lab I will join for the remainder of my PhD!
 
-* RL Implementations of Active Inference - Summer 2020 - Karl Friston's theory for what the objective function of all living beings is has only just started to influence reinforcement learning. I believe there are exciting opportunities to further investigate Active Inference and apply new developments in variational inference.
+* Researching Associative Memory models and Vector Symbolic Architectures and their relations to SOTA Deep Learning models. .
 
 ## Past Projects (see [GitHub](https://github.com/TrentBrick))
 
