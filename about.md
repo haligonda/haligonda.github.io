@@ -9,7 +9,7 @@ permalink: /about/
 Hi, I'm Trenton. I am very interested in the interface between machine learning and neuroscience. This interest extends to thinking about evolutionary biology, reinforcement learning and, of course, Original Glazed Krispy Kreme Doughnuts (get 'em while they're hot!).
 
 Information about me:
-* I'm a PhD student in the Systems, Synthetic and Quantitative Biology (SSQB) Program at Harvard (started Sept. 2020). 
+* I'm a PhD student in the Systems, Synthetic and Quantitative Biology (SSQB) Program at Harvard (started Sept. 2020).
 * I graduated from Duke University in May 2020 with a self-made major in "Minds and Machines: Biological and Artificial Intelligence". I was lucky to attend as a [Robertson Scholar](https://robertsonscholars.org/) which provided full funding during all four years, including summer experiences.
 * During my time at Duke I spent a year (June 2018 - May 2019) doing research in [Dr. Michael Lynch's Lab](https://lynchlab.pratt.duke.edu) at Duke attempting to use machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. Afterwards, I was affiliated with [Dr. Debora Marks's Lab](https://marks.hms.harvard.edu) at Harvard Medical School, first as a summer intern and then through my Senior Thesis research.
 
@@ -17,9 +17,9 @@ My favourite blogs include: <https://slatestarcodex.com> and <https://www.gwern.
 
 My favourite books include: [Superintelligence](https://smile.amazon.co.uk/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111?sa-no-redirect=1) by Nick Bostrom, [Symbolic Species](https://smile.amazon.co.uk/Symbolic-Species-Co-evolution-Language-Brain/dp/0393317544?sa-no-redirect=1) by Terrence Deacon and [The Mote in God's Eye](https://smile.amazon.co.uk/Mote-Gods-Eye-Larry-Niven/dp/0586217460?sa-no-redirect=1) by Jerry Pournelle and Larry Niven.
 
-I am involved in the movement/philosphy/set of ideas that is [Effective Altruism](https://www.effectivealtruism.org).
+I am involved in the movement/philosophy/set of ideas that is [Effective Altruism](https://www.effectivealtruism.org).
 
-If the world was free of pathogens (and other global catastrophic risks) you'd find me backpacking around the world with my grandfather’s vintage Leica M3 film camera taking mediocre photos. I still try to do this when I have time off and get the chance to travel somewhere cool.
+If the world was free of pathogens (and other global catastrophic risks) you'd find me backpacking around the world with my film camera taking [mediocre photos](https://blitz-analog.github.io/). I still try to do this when I have time off and get the chance to travel somewhere cool.
 
 ## Publications (in reverse chronological order):
 
@@ -61,7 +61,7 @@ Nathan Rollins*, Kelly Brock*, Joshua Rollins*, Judy Shen, Amy Tam, Ada Shaw, **
 
 * Protein Generation and Optimization - Supervised by Dr. Debora Marks's Lab as my Senior Thesis - This research is motivated by the promise of recent developments in our ability to predict protein functionality and the problem of finding novel sequences that maximize this prediction. We tried developing a new solution using invertible neural networks and variational inference to approximate the intractable distribution of any protein function predictor with reason to believe it would outperform Markov Chain Monte Carlo methods. Senior thesis paper writing up the work and where it seemed to succeed and fail forthcoming.
 
-* [PyTorch Discrete Normalizing Flows](https://github.com/TrentBrick/PyTorchDiscreteFlows) - Winter Break 2019 - Learning about Discrete Normalizing Flows from "Discrete Flows: Invertible Generative Models of Discrete Data", by Dustin Tran et al. <https://arxiv.org/pdf/1905.10347.pdf>, I tried implementing them using the coded provided in [edward2](https://github.com/google/edward2/tree/master/edward2/tensorflow/layers#4-reversible-layers) but found that [none of it worked](https://github.com/google/edward2/issues/148). I ended up porting all of the code into PyTorch which required making a number of modifications and getting it working on a toy example. This repo as of Nov. 10th 2020 has 48 Github stars and I have had two collaborators help be replicate results. 
+* [PyTorch Discrete Normalizing Flows](https://github.com/TrentBrick/PyTorchDiscreteFlows) - Winter Break 2019 - Learning about Discrete Normalizing Flows from "Discrete Flows: Invertible Generative Models of Discrete Data", by Dustin Tran et al. <https://arxiv.org/pdf/1905.10347.pdf>, I tried implementing them using the coded provided in [edward2](https://github.com/google/edward2/tree/master/edward2/tensorflow/layers#4-reversible-layers) but found that [none of it worked](https://github.com/google/edward2/issues/148). I ended up porting all of the code into PyTorch which required making a number of modifications and getting it working on a toy example. This repo as of Nov. 10th 2020 has 48 Github stars and I have had two collaborators help be replicate results.
 
 * [Tail Free Sampling](https://trentbrick.github.io/Tail-Free-Sampling/) - Independent project, advice from friends and mentors - Developing a new method to sample sequences from autoregressive neural networks for open-ended sequence generation.
 
@@ -71,7 +71,7 @@ Nathan Rollins*, Kelly Brock*, Joshua Rollins*, Judy Shen, Amy Tam, Ada Shaw, **
 
 ### Other Locations on the Interwebs
 
-I am pretty active on [Twitter](https://twitter.com/TrentonBricken) and sometimes upload my film photography to [Instagram](https://www.instagram.com/needs__exposure/?hl=en).
+I am pretty active on [Twitter](https://twitter.com/TrentonBricken) and sometimes upload my film photography to [Instagram](https://www.instagram.com/blitz_analog) and to my [portfolio](https://blitz-analog.github.io/).
 
 ### Get in Touch
 
