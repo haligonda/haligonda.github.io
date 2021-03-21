@@ -19,7 +19,7 @@ My favourite books include: [Superintelligence](https://smile.amazon.co.uk/Super
 
 I am involved in the movement/philosophy/set of ideas that is [Effective Altruism](https://www.effectivealtruism.org).
 
-If the world was free of pathogens (and other global catastrophic risks) you'd find me backpacking around the world with my film camera taking [mediocre photos](https://blitz-analog.github.io/). I still try to do this when I have time off and get the chance to travel somewhere cool.
+If the world was free of pathogens (and other global catastrophic risks) you'd find me backpacking around the world with my film camera taking mediocre photos. I still try to do this when I have time off and get the chance to travel somewhere cool.
 
 ## Publications (in reverse chronological order):
 
