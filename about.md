@@ -13,11 +13,9 @@ Information about me:
 * I graduated from Duke University in May 2020 with a self-made major in "Minds and Machines: Biological and Artificial Intelligence". I was lucky to attend as a [Robertson Scholar](https://robertsonscholars.org/) which provided full funding during all four years, including summer experiences.
 * During my time at Duke I spent a year (June 2018 - May 2019) doing research in [Dr. Michael Lynch's Lab](https://lynchlab.pratt.duke.edu) at Duke attempting to use machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. Afterwards, I was affiliated with [Dr. Debora Marks's Lab](https://marks.hms.harvard.edu) at Harvard Medical School, first as a summer intern and then through my Senior Thesis research.
 
-
-
 I am involved in the movement/philosophy/set of ideas that is [Effective Altruism](https://www.effectivealtruism.org).
 
-If the world was free of pathogens (and other global catastrophic risks) you'd find me backpacking around the world with my film camera taking mediocre photos. I still try to do this when I have time off and get the chance to travel somewhere cool.
+If the world was void of both interesting research questions and global catastrophic risks(!), you'd find me backpacking around the world with my film camera taking mediocre photos. I still try to do this when I have time off and get the chance to travel somewhere cool.
 
 ## Publications (in reverse chronological order):
 
@@ -52,20 +50,19 @@ My Google Scholar profile can be found [here](https://scholar.google.com/citatio
 * [SARS-CoV-2 mutation effects and 3D structure prediction from sequence covariation.](marks.hms.harvard.edu/sars-cov-2) - Summer 2020 - Collaborated with the Marks lab to help produce their SARS-CoV-2 mutation effect and 3D structure predictions using EVCouplings. <br>
 Citation: <br>
 Nathan Rollins*, Kelly Brock*, Joshua Rollins*, Judy Shen, Amy Tam, Ada Shaw, ***Trenton Bricken***, Augustin Luna, Nicholas Gauthier, Thomas Hopf, Chris Sander, Debora Marks<br>
-*(Equal contributors)<br>
-(2020) marks.hms.harvard.edu/sars-cov-2
+(2020) <marks.hms.harvard.edu/sars-cov-2>
 
-* RL Learning Byzantine Fault Tolerant (BFT) Consensus Protocols - Supervised by Dr. Kartik Nayak, Final Class Project turned research project - Investigated the ability for deep reinforcement learning agents to discover and prove BFT consensus protocols.
+* RL Learning Byzantine Fault Tolerant (BFT) Consensus Protocols - Supervised by Dr. Kartik Nayak, final class project turned research project - Investigated the ability for deep reinforcement learning agents to discover and prove BFT consensus protocols.
 
-* Protein Generation and Optimization - Supervised by Dr. Debora Marks's Lab as my Senior Thesis - This research is motivated by the promise of recent developments in our ability to predict protein functionality and the problem of finding novel sequences that maximize this prediction. We tried developing a new solution using invertible neural networks and variational inference to approximate the intractable distribution of any protein function predictor with reason to believe it would outperform Markov Chain Monte Carlo methods. Senior thesis paper writing up the work and where it seemed to succeed and fail forthcoming.
+* Protein Generation and Optimization - Supervised by Dr. Debora Marks's Lab as my Senior Thesis - This research is motivated by the promise of recent developments in our ability to predict protein functionality and the problem of finding novel sequences that maximize this prediction. We tried developing a new solution using invertible neural networks and variational inference to approximate the intractable distribution of any protein function predictor with reason to believe it would outperform Markov Chain Monte Carlo methods. My senior thesis write up of the work and where it seemed to succeed and fail is forthcoming.
 
-* [PyTorch Discrete Normalizing Flows](https://github.com/TrentBrick/PyTorchDiscreteFlows) - Winter Break 2019 - Learning about Discrete Normalizing Flows from "Discrete Flows: Invertible Generative Models of Discrete Data", by Dustin Tran et al. <https://arxiv.org/pdf/1905.10347.pdf>, I tried implementing them using the coded provided in [edward2](https://github.com/google/edward2/tree/master/edward2/tensorflow/layers#4-reversible-layers) but found that [none of it worked](https://github.com/google/edward2/issues/148). I ended up porting all of the code into PyTorch which required making a number of modifications and getting it working on a toy example. This repo as of Nov. 10th 2020 has 48 Github stars and I have had two collaborators help be replicate results.
+* [PyTorch Discrete Normalizing Flows](https://github.com/TrentBrick/PyTorchDiscreteFlows) - Winter Break 2019 - Learning about Discrete Normalizing Flows from "Discrete Flows: Invertible Generative Models of Discrete Data", by Dustin Tran et al. <https://arxiv.org/pdf/1905.10347.pdf>, I tried implementing them using the coded provided in [edward2](https://github.com/google/edward2/tree/master/edward2/tensorflow/layers#4-reversible-layers) but found that [none of it worked](https://github.com/google/edward2/issues/148). I ended up porting all of the code into PyTorch which required making a number of modifications and getting it working on a toy example. This repo as of March 2021 has 59 Github stars and I have had two collaborators help me replicate the results.
 
-* [Tail Free Sampling](https://trentbrick.github.io/Tail-Free-Sampling/) - Independent project, advice from friends and mentors - Developing a new method to sample sequences from autoregressive neural networks for open-ended sequence generation.
+* [Tail Free Sampling](https://trentbrick.github.io/Tail-Free-Sampling/) - Independent project, advice from friends and mentors - Developed a new method to sample sequences from autoregressive neural networks for open-ended sequence generation.
 
-* [Primary and Tertiary Protein AutoEncoder](https://github.com/TrentBrick/PAE) - Final Class Project - seeing if a deep AutoEncoder can learn the relationship between protein sequence and tertiary structure in order to then do either sequence or structure optimization in the latent space.
+* [Primary and Tertiary Protein AutoEncoder](https://github.com/TrentBrick/PAE) - Final Class Project - investigated if a deep AutoEncoder could learn the relationship between protein sequence and tertiary structure in order to then do either sequence or structure optimization in the latent space. It didn't work very well but I learned a lot!
 
-* [Facebook Chatbot for Spaced Repetition Learning](https://github.com/TrentBrick/MMRY) - HackDuke 2016 - Spaced Repetition is wonderful and highly neglected (<https://www.gwern.net/Spaced-repetition>). Can we make it more popular and easy to do routinely using a Facebook Chatbot to both harass and motivate us?
+* [Facebook Chatbot for Spaced Repetition Learning](https://github.com/TrentBrick/MMRY) - HackDuke 2016 - Spaced Repetition is [wonderful and highly neglected](https://www.gwern.net/Spaced-repetition). Can we make it more popular and easy to do routinely using a Facebook Chatbot to both harass and motivate us? Got everything working! But there were always more bugs and this didn't solve the fundamental problem of spaced repetition learning still taking a huge amount of motivation. You could argue that presenting the cards over Messenger just created more distractions.  
 
 ### Other Locations on the Interwebs
 
