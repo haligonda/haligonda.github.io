@@ -13,9 +13,7 @@ Information about me:
 * I graduated from Duke University in May 2020 with a self-made major in "Minds and Machines: Biological and Artificial Intelligence". I was lucky to attend as a [Robertson Scholar](https://robertsonscholars.org/) which provided full funding during all four years, including summer experiences.
 * During my time at Duke I spent a year (June 2018 - May 2019) doing research in [Dr. Michael Lynch's Lab](https://lynchlab.pratt.duke.edu) at Duke attempting to use machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. Afterwards, I was affiliated with [Dr. Debora Marks's Lab](https://marks.hms.harvard.edu) at Harvard Medical School, first as a summer intern and then through my Senior Thesis research.
 
-My favourite blogs include: <https://slatestarcodex.com> and <https://www.gwern.net> because of their very rigorous, in depth analysis of all sorts of interesting topics.
 
-My favourite books include: [Superintelligence](https://smile.amazon.co.uk/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111?sa-no-redirect=1) by Nick Bostrom, [Symbolic Species](https://smile.amazon.co.uk/Symbolic-Species-Co-evolution-Language-Brain/dp/0393317544?sa-no-redirect=1) by Terrence Deacon and [The Mote in God's Eye](https://smile.amazon.co.uk/Mote-Gods-Eye-Larry-Niven/dp/0586217460?sa-no-redirect=1) by Jerry Pournelle and Larry Niven.
 
 I am involved in the movement/philosophy/set of ideas that is [Effective Altruism](https://www.effectivealtruism.org).
 
@@ -33,7 +31,7 @@ Erika J Olson*, David M Brown*, Timothy Z Chang, Lin Ding, Tai L Ng, H. Sloane W
 Ge Liu*, Brandon Carter*, ***Trenton Bricken***, Siddhartha Jain, Mathias Viard, Mary Carrington, David K Gifford<br>
 *(First authors)<br>
 *Cell Systems, July 2020*<br>
-[[paper](https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30238-6#%20)] [[code](https://github.com/gifford-lab/optivax)] [[preprint](https://www.biorxiv.org/content/10.1101/2020.05.16.088989v1)] [[tweet-thread](https://twitter.com/TrentonBricken/status/1262407888842170370?s=20)]
+[[paper](https://www.cell.com/cell-systems/fulltext/S2405-4712%2820%2930238-6#%20)] [[code](https://github.com/gifford-lab/optivax)] [[preprint](https://www.biorxiv.org/content/10.1101/2020.05.16.088989v1)] [[tweet-thread](https://twitter.com/TrentonBricken/status/1262407888842170370?s=20)]
 
 My Google Scholar profile can be found [here](https://scholar.google.com/citations?user=CP6aLusAAAAJ&hl=en).
 
@@ -43,9 +41,9 @@ My Google Scholar profile can be found [here](https://scholar.google.com/citatio
 
 ## Current Projects
 
-* PhD Rotations. I am trying to figure out what lab I will join for the remainder of my PhD!
+* I am trying to figure out what lab I will join for the remainder of my PhD by doing rotations!
 
-* Researching Associative Memory models and Vector Symbolic Architectures and their relations to SOTA Deep Learning models. .
+* My current research is focused around Associative Memory models and Vector Symbolic Architectures with their relations to SOTA Deep Learning models.
 
 ## Past Projects (see [GitHub](https://github.com/TrentBrick))
 
