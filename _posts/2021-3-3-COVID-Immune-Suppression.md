@@ -28,6 +28,7 @@ Viruses are cleared from the body unless they counter the innate immune system. 
 What are these immune responses? In humans, there are a number of intracellular signaling pathways responsible for detecting if the cell is infected. These pathways do things like tell the cell to kill itself (apoptosis) and warn other cells there is an infection.
 
 This figure shows highly simplified IRF3, STAT1 and NFkB pathways. All of these are transcription factors that translocate from the cytoplasm into the nucleus to express the proteins necessary to respond to infection.
+
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTrentonIdeas%2FgETIiAkgXK.png?alt=media&token=e6ce4768-434c-4ddc-bc10-257d73d813b5)
 
 The first assay developed uses high throughput fluorescent microscopy to identify if a specific gene prevents translocation of the aforementioned transcription factors into the nucleus.
