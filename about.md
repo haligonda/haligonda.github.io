@@ -49,10 +49,9 @@ My Google Scholar profile can be found [here](https://scholar.google.com/citatio
 
 * [SARS-CoV-2 mutation effects and 3D structure prediction from sequence covariation.](https://marks.hms.harvard.edu/sars-cov-2) - Summer 2020 - Collaborated with the Marks lab to help produce their SARS-CoV-2 mutation effect and 3D structure predictions using EVCouplings. <br>
 Citation: <br>
-Nathan Rollins*, Kelly Brock*, Joshua Rollins*, Judy Shen, Amy Tam, Ada Shaw, ***Trenton Bricken***, Augustin Luna, Nicholas Gauthier, Thomas Hopf, Chris Sander, Debora Marks<br>
-(2020) <https://marks.hms.harvard.edu/sars-cov-2>
+Nathan Rollins*, Kelly Brock*, Joshua Rollins*, Judy Shen, Amy Tam, Ada Shaw, ***Trenton Bricken***, Augustin Luna, Nicholas Gauthier, Thomas Hopf, Chris Sander, Debora Marks. (2020) Website: <https://marks.hms.harvard.edu/sars-cov-2>
 
-* RL Learning Byzantine Fault Tolerant (BFT) Consensus Protocols - Supervised by Dr. Kartik Nayak, final class project turned research project - Investigated the ability for deep reinforcement learning agents to discover and prove BFT consensus protocols.
+* RL Learning Byzantine Fault Tolerant (BFT) Consensus Protocols - Senior Year - Supervised by Dr. Kartik Nayak, final class project turned research project. Investigated the ability for deep reinforcement learning agents to discover and prove BFT consensus protocols.
 
 * Protein Generation and Optimization - Supervised by Dr. Debora Marks's Lab as my Senior Thesis - This research is motivated by the promise of recent developments in our ability to predict protein functionality and the problem of finding novel sequences that maximize this prediction. We tried developing a new solution using invertible neural networks and variational inference to approximate the intractable distribution of any protein function predictor with reason to believe it would outperform Markov Chain Monte Carlo methods. My senior thesis write up of the work and where it seemed to succeed and fail is forthcoming.
 
