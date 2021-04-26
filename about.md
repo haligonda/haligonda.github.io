@@ -49,7 +49,7 @@ My Google Scholar profile can be found [here](https://scholar.google.com/citatio
 
 * [SARS-CoV-2 mutation effects and 3D structure prediction from sequence covariation.](https://marks.hms.harvard.edu/sars-cov-2) - Summer 2020 - Collaborated with the Marks lab to help produce their SARS-CoV-2 mutation effect and 3D structure predictions using EVCouplings. <br>
 Citation: <br>
-Nathan Rollins*, Kelly Brock*, Joshua Rollins*, Judy Shen, Amy Tam, Ada Shaw, ***Trenton Bricken***, Augustin Luna, Nicholas Gauthier, Thomas Hopf, Chris Sander, Debora Marks. (2020) Website: <https://marks.hms.harvard.edu/sars-cov-2>
+Nathan Rollins, Kelly Brock, Joshua Rollins, Judy Shen, Amy Tam, Ada Shaw, ***Trenton Bricken***, Augustin Luna, Nicholas Gauthier, Thomas Hopf, Chris Sander, Debora Marks. (2020) Website: <https://marks.hms.harvard.edu/sars-cov-2>
 
 * RL Learning Byzantine Fault Tolerant (BFT) Consensus Protocols - Senior Year - Supervised by Dr. Kartik Nayak, final class project turned research project. Investigated the ability for deep reinforcement learning agents to discover and prove BFT consensus protocols.
 
