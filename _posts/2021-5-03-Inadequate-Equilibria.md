@@ -104,7 +104,7 @@ It is far easier to pick amongst experts and existing opinions than it is to bec
 
 In the book [Superforecasting](https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock/dp/0804136718) the strongest predictor of success, 3x more influence than intelligence, was the belief that you could improve and do better than the experts.
 
-*Thanks to [David Rein](https://twitter.com/idavidrein?lang=en) for reading a draft of this piece and providing useful edits and discussion! All errors and confusions that remain are mine and mine alone.*
+*Thanks to [David Rein](https://twitter.com/idavidrein?lang=en) and [Miles Turpin](https://twitter.com/milesaturpin) for reading a draft of this piece and providing useful edits and discussion! All errors and confusions that remain are mine and mine alone.*
 
 ### Footnotes
 * footnotes will be placed here. This line is necessary
