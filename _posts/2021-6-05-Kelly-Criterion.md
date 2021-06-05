@@ -6,7 +6,7 @@ comments: True
 categories: [Epistemics, Misc]
 ---
 
-*I made a tool that allows you to optimally size your bets/investments, utilizing the Kelly criterion.*
+*I made a tool that tries to help you to optimally size your bets/investments, utilizing the Kelly criterion.*
 
 Adding to the list of dope things that have come out of [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs ) is the Kelly criterion -- an equation for optimal bet sizing. You are playing a game with probability $$p$$ of winning $$x$$ dollars and probability $$1-p$$ of losing $$y$$ dollars. The Kelly criterion tells you how much of your wealth you should bet such that, in expectation, you will maximize returns over the long run.
 
