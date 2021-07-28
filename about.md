@@ -9,7 +9,7 @@ permalink: /about/
 Hi, I'm Trenton. I am very interested in the interface between machine learning and neuroscience. This interest extends to thinking about evolutionary biology, reinforcement learning and, of course, Original Glazed Krispy Kreme Doughnuts (get 'em while they're hot!).
 
 Information about me:
-* I'm a PhD student in the Systems, Synthetic and Quantitative Biology (SSQB) Program at Harvard (started Sept. 2020).
+* I'm a PhD student in the Systems, Synthetic and Quantitative Biology (SSQB) Program at Harvard in the [Kreiman Lab](http://klab.tch.harvard.edu/publications/publications.html#sthash.dUJc7Kpv.dpbs) (started Sept. 2020).
 * I graduated from Duke University in May 2020 with a self-made major in "Minds and Machines: Biological and Artificial Intelligence". I was lucky to attend as a [Robertson Scholar](https://robertsonscholars.org/) which provided full funding during all four years, including summer experiences.
 * During my time at Duke I spent a year (June 2018 - May 2019) doing research in [Dr. Michael Lynch's Lab](https://lynchlab.pratt.duke.edu) at Duke attempting to use machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. Afterwards, I was affiliated with [Dr. Debora Marks's Lab](https://marks.hms.harvard.edu) at Harvard Medical School, first as a summer intern and then through my Senior Thesis research.
 
@@ -39,9 +39,7 @@ My Google Scholar profile can be found [here](https://scholar.google.com/citatio
 
 ## Current Projects
 
-* I am trying to figure out what lab I will join for the remainder of my PhD by doing rotations!
-
-* My current research is focused around Associative Memory models and Vector Symbolic Architectures with their relations to SOTA Deep Learning models.
+* My current research is focused around Associative Memory models, Vector Symbolic Architectures and relations to Deep Learning models.
 
 ## Past Projects (see [GitHub](https://github.com/TrentBrick))
 
