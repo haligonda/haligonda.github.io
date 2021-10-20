@@ -19,6 +19,14 @@ If the world was void of both interesting research questions and global catastro
 
 ## Publications (in reverse chronological order):
 
+**Attention Approximates Sparse Distributed Memory**<br>
+***Trenton Bricken***\*, Cengiz Pehlevan
+\*(First author)<br>
+NeurIPS, December 2021<br><br>
+MIT Center for Brains Minds+ Machines Talk:<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/THIIk7LR9_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **High-content screening of coronavirus genes for innate immune suppression reveals enhanced potency of SARS-CoV-2 proteins.**<br>
 Erika J Olson\*, David M Brown\*, Timothy Z Chang, Lin Ding, Tai L Ng, H. Sloane Weiss, Peter Koch, Yukiye Koide, Nathan Rollins, Pia Mach, Tobias Meisinger, ***Trenton Bricken***, Joshus Rollins, Yun Zhang, Colin Molloy, Yun Zhang, Briodget N Queenan, Timothy Mitchison, Debora Marks, Jeffrey C Way, John I Glass, Pamela A Silver<br>
 \*(First authors)<br>
