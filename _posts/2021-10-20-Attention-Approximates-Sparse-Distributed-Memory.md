@@ -12,7 +12,7 @@ categories: [ML, Neuroscience, Publications]
 
 Work done in collaboration with [Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/).
 
-**Paper Link:** (coming by the end of October 2021!)
+**[Link to Paper](https://openreview.net/forum?id=WVYzd7GvaOM&noteId=l-hU8Fav3x#all)**
 
 **MIT Center for Brains Minds+ Machines Talk and [Slides](https://docs.google.com/presentation/d/1gGErBUIDM5SQCroovgTGmwgaz61EZ6RdN-eg8niCb0w/edit?usp=sharing):**<br>
 
@@ -20,6 +20,6 @@ Work done in collaboration with [Cengiz Pehlevan](https://pehlevan.seas.harvard.
 
 
 
-*Thanks to Alex Cuozzo, Pentti Kanerva, Joe Choo-Choy, Beren Millidge, Jacob Zavatone-Veth, Blake Bordelon, Nathan Rollins, Alan Amin, Max Farrens, David Rein, Sam Eure, Grace Bricken, and Davis Brown for providing invaluable inspiration, discussions and feedback. Special thanks to Miles Turpin for help working with the Transformer model experiments.*
+*Thanks to Dr. Gabriel Kreiman, Alex Cuozzo, Miles Turpin, Dr. Pentti Kanerva, Joe Choo-Choy, Dr. Beren Millidge, Jacob Zavatone-Veth, Blake Bordelon, Nathan Rollins, Alan Amin, Max Farrens, David Rein, Sam Eure, Grace Bricken, and Davis Brown for providing invaluable inspiration, discussions and feedback. Special thanks to Miles Turpin for help working with the Transformer model experiments.*
 
 *I would also like to thank the open source software contributors that helped make this research possible, including but not limited to: Numpy, Pandas, Scipy, Matplotlib, PyTorch, HuggingFace, and Anaconda.*
