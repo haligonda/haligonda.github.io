@@ -23,7 +23,8 @@ If the world was void of both interesting research questions and global catastro
 ***Trenton Bricken***\*, Cengiz Pehlevan
 \*(First author)<br>
 NeurIPS, December 2021<br><br>
-[[paper](https://openreview.net/forum?id=WVYzd7GvaOM&noteId=l-hU8Fav3x#all)] [[blog-post](https://www.trentonbricken.com/Attention-Approximates-Sparse-Distributed-Memory/)] [[tweet-thread](https://twitter.com/TrentonBricken/status/1458465726503784449?s=20)]
+[[paper](https://openreview.net/forum?id=WVYzd7GvaOM&noteId=l-hU8Fav3x#all)] [[blog-post](https://www.trentonbricken.com/Attention-Approximates-Sparse-Distributed-Memory/)] [[tweet-thread](https://twitter.com/TrentonBricken/status/1458465726503784449?s=20)]<br>
+
 MIT Center for Brains Minds+ Machines Talk:<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/THIIk7LR9_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -48,7 +49,7 @@ My Google Scholar profile can be found [here](https://scholar.google.com/citatio
 
 ## Current Projects
 
-* My current research is on the extent to which Deep Learning and the brain are convergent. I am using Sparse Distributed Memory, a biologically plausible associative memory model, to investigate these connections. 
+* My current research is on the extent to which Deep Learning and the brain are convergent. I am using Sparse Distributed Memory, a biologically plausible associative memory model, to investigate these connections.
 
 ## Past Projects (see [GitHub](https://github.com/TrentBrick))
 
