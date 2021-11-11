@@ -23,7 +23,7 @@ If the world was void of both interesting research questions and global catastro
 ***Trenton Bricken***\*, Cengiz Pehlevan
 \*(First author)<br>
 NeurIPS, December 2021<br>
-[[paper](https://openreview.net/forum?id=WVYzd7GvaOM&noteId=l-hU8Fav3x#all)] [[blog-post](https://www.trentonbricken.com/Attention-Approximates-Sparse-Distributed-Memory/)] [[tweet-thread](https://twitter.com/TrentonBricken/status/1458465726503784449?s=20)]<br>
+[[paper](https://arxiv.org/abs/2111.05498)] [[blog-post](https://www.trentonbricken.com/Attention-Approximates-Sparse-Distributed-Memory/)] [[tweet-thread](https://twitter.com/TrentonBricken/status/1458465726503784449?s=20)]<br>
 
 MIT Center for Brains Minds+ Machines Talk:<br>
 
