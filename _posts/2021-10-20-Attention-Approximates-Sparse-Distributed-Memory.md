@@ -14,7 +14,7 @@ Work supervised by [Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/).
 
 This paper has been my first, first author paper and not only defined my first year of graduate school but also set the scene for the rest of my PhD. I am working on a number of follow up projects seeing to what extent SDM can explain fundamentals of cognition and deep learning.
 
-**[Link to Paper](https://openreview.net/forum?id=WVYzd7GvaOM&noteId=l-hU8Fav3x#all)**
+**[Link to Paper](https://arxiv.org/abs/2111.05498)**
 
 **[Tweet Thread](https://twitter.com/TrentonBricken/status/1458465726503784449?s=20)**
 
