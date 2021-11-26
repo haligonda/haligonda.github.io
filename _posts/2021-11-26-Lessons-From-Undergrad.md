@@ -53,7 +53,7 @@ There is already so much self help on the internet and everyone’s mileage will
   <b>5. Learn frameworks for thinking.</b>
 </div>
 
-  Many of the neuroscience students I met were ~~premeds~~ smart and very hard working yet struck me as graduating without knowing much other than the names for every brain region. The [Cardi B neural pathway](https://youtu.be/QkXeMoBPSDk?t=600) anyone?
+  A number of the neuroscience students I met were smart and hard working but seemed to graduate having spent a lot of time being taught the name of every brain region. The [Cardi B neural pathway](https://youtu.be/QkXeMoBPSDk?t=600) anyone?
 
   Along the recurring theme of there being finite time to learn, I wish I had better prioritized  classes to teach me completely different mental models. Learning more about human rationality and cognitive biases. How to think probabilistically and in high dimensional spaces. Seeing the world through information theory and statistical mechanics. Learning about historical trends that have shaped societies and may do so again. Physics, biology and chemistry for the fundamental levers and constraints of our reality. I feel like all of these skills have outsized returns no matter the specific problem or textbook facts of the day. [Feynman](https://smile.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041?sa-no-redirect=1) has made very similar arguments and [this post](https://www.lesswrong.com/posts/bjjbp5i5G8bekJuxv/study-guide) is a great example of this sort of framework based learning centered around being able to understand any system.
 
@@ -68,3 +68,7 @@ Other advice that is more general but I’d love to signal boost is Sam Altman's
 3) How to succeed: pick the right thing to do (this is critical and usually ignored), focus, believe in yourself (especially when others tell you it’s not going to work), develop personal connections with people that will help you, learn to identify talented people, and work hard.  It’s hard to identify what to work on because original thought is hard.
 >
 4) On work: it’s difficult to do a great job on work you don’t care about.  And it’s hard to be totally happy/fulfilled in life if you don’t like what you do for your work.  Work very hard—a surprising number of people will be offended that you choose to work hard—but not so hard that the rest of your life passes you by.  Aim to be the best in the world at whatever you do professionally.  Even if you miss, you’ll probably end up in a pretty good place.  Figure out your own productivity system—don’t waste time being unorganized, working at suboptimal times, etc.  Don’t be afraid to take some career risks, especially early on.  Most people pick their career fairly randomly—really think hard about what you like, what fields are going to be successful, and try to talk to people in those fields.
+
+---
+
+*Thanks to [Miles Turpin](milesaturpin) and [Max Farrens](lord_applebee) for reading drafts of these piece. All remaining errors are mine and mine alone.*
