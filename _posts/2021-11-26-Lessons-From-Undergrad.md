@@ -53,7 +53,7 @@ There is already so much self help on the internet and everyone’s mileage will
   <b>5. Learn frameworks for thinking.</b>
 </div>
 
-  A number of the neuroscience students I met were smart and hard working but seemed to graduate having spent a lot of time being taught the name of every brain region. The [Cardi B neural pathway](https://youtu.be/QkXeMoBPSDk?t=600) anyone?
+  A number of the neuroscience students I met were smart and hard working but seemed to graduate having spent a lot of time being taught the name of every brain region.
 
   Along the recurring theme of there being finite time to learn, I wish I had better prioritized  classes to teach me completely different mental models. Learning more about human rationality and cognitive biases. How to think probabilistically and in high dimensional spaces. Seeing the world through information theory and statistical mechanics. Learning about historical trends that have shaped societies and may do so again. Physics, biology and chemistry for the fundamental levers and constraints of our reality. I feel like all of these skills have outsized returns no matter the specific problem or textbook facts of the day. [Feynman](https://smile.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041?sa-no-redirect=1) has made very similar arguments and [this post](https://www.lesswrong.com/posts/bjjbp5i5G8bekJuxv/study-guide) is a great example of this sort of framework based learning centered around being able to understand any system.
 
