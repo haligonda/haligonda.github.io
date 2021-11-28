@@ -13,10 +13,12 @@ categories: [Neuroscience, Misc]
 I will try to keep this post up to date as more questions come up or are resolved. Last updated: November 28th, 2021.
 
 ---
+<br>
+<div style="margin-left:20px">
+  <b>1. The effects of neuron number on cognition.</b>
+</div>
 
-1. The effects of neuron number on cognition.
-
-Something doesn't add up with the evidence that I am aware of here. Having more neurons is known to boost intelligence with two examples given below. However, missing neurons or entire brain regions seems not to matter so much in two cases given. One additional case has fortuantely been disproven. I have not researched this space as much as I would like but am flagging it as a current area of interest and confusion:
+Something doesn't add up with the evidence that I am aware of here. Having more neurons is known to boost intelligence with two examples given below. However, missing neurons or entire brain regions seems not to matter so much in two other cases given. One additional case has fortunately been disproven. I have not researched this space as much as I would like but am flagging it as a current area of interest and confusion:
 
 More neurons increase intelligence/task performance:
 
@@ -35,8 +37,10 @@ Fewer neurons don't decrease intelligence/task performance?!:
 * Missing 95% of brain volume in hydrocephalus patients was claimed to not have any effect on cognitive function with an examlpe of a 126 IQ patient. This result was disproven by Gwern [here](https://www.gwern.net/Hydrocephalus).
 
 ---
-
-2. What is the metabolic cost of a neuron in proportion to its size?
+<br>
+<div style="margin-left:20px">
+  <b>2. What is the metabolic cost of a neuron in proportion to its size?</b>
+</div>
 
 Granule cells in the cerebellum make up [80% of all neurons in the brain](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2776484/). This is an incredible amount for a brain region that has been given far less attention than the neocortex or hippocampus and until recently was thought to only help with fine motor coordination. While these granule cells are small, they must require a huge metabolic cost. This leads to the question of what is the metabolic cost of a neuron in proportion to its size? In other words, how expensive and by proxy significant is this concentration of granule cells?
   - A bonus question is what is the metabolic cost of neuron maintenance versus firing of action potentials? Maybe there is a large fixed cost during development to create and wire up these granule cells but a low variable cost as action potentials are cheap or sparse activations mean they don't fire often?
