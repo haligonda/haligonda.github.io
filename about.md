@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-![Trenton B. Bricken](../images/TrentonBricken.jpg){:style="width: 200px; float: right; padding-left: 20px"}
+<!--- ![Trenton B. Bricken](../images/TrentonBricken.jpg){:style="width: 200px; float: right; padding-left: 20px"}-->
 
-Hi, I'm Trenton. I am very interested in the interface between machine learning and neuroscience. This interest extends to thinking about evolutionary biology, reinforcement learning and, of course, Original Glazed Krispy Kreme Doughnuts (get 'em while they're hot!).
+Hi, I'm Trenton. I am very interested in convergences between machine learning and neuroscience. I am using associative memory models, particularly Sparse Distributed Memory, to investigate these convergences.
 
 Information about me:
 * I'm a PhD student in the Systems, Synthetic and Quantitative Biology (SSQB) Program at Harvard in the [Kreiman Lab](http://klab.tch.harvard.edu/publications/publications.html#sthash.dUJc7Kpv.dpbs) (started Sept. 2020).
@@ -15,7 +15,7 @@ Information about me:
 
 I am involved in the movement/philosophy/set of ideas that is [Effective Altruism](https://www.effectivealtruism.org).
 
-If the world was void of both interesting research questions and global catastrophic risks(!), you'd find me backpacking around the world with my film camera taking [mediocre photos](https://blitz-analog.github.io/). I still try to do this when I have time off and get the chance to travel somewhere cool.
+If the world was void of both interesting research questions and global catastrophic risks(!), you'd find me backpacking around the world with my [film camera](https://blitz-analog.github.io/). I still try to do this when I have time off and get the chance to travel somewhere cool.
 
 ## Publications (in reverse chronological order):
 
