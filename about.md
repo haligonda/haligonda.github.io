@@ -6,7 +6,7 @@ permalink: /about/
 
 <!--- ![Trenton B. Bricken](../images/TrentonBricken.jpg){:style="width: 200px; float: right; padding-left: 20px"}-->
 
-Hi, I'm Trenton. I am very interested in convergences between machine learning and neuroscience. I am currently using associative memory models, particularly Sparse Distributed Memory, to investigate potential convergences.
+Hi, I'm Trenton. I am very interested in to what extent there is convergence between machine learning and neuroscience. I am currently using associative memory models, particularly Sparse Distributed Memory, to investigate this question.
 
 Information about me:
 * I'm a PhD student in the Systems, Synthetic and Quantitative Biology (SSQB) Program at Harvard in the [Kreiman Lab](http://klab.tch.harvard.edu/publications/publications.html#sthash.dUJc7Kpv.dpbs) (started Sept. 2020).
