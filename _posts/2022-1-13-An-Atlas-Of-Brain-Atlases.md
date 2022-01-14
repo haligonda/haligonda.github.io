@@ -6,14 +6,14 @@ comments: True
 categories: [Neuroscience]
 ---
 
-*Notes from exploring the current state of Brain Atlases*
+*Notes from exploring the current state of Brain Atlases.*
 
 ---
 
 <div align="center">
   <img width="800"  src="../images/BrainAtlas/MicronsCool.png">
   <br>
-  <em> Pyramidal Neurons in the Mouse visual cortex. | <a href="https://www.microns-explorer.org/phase1">Source</a></em>
+  <em> Pyramidal Neurons in the Mouse visual cortex.  <a href="https://www.microns-explorer.org/phase1">Source</a></em>
 </div>
 
 The amount of data we are collecting from the brain is awe inspiring. I knew that we had a map of the 302 neurons in the [C. Elegans brain](https://wormatlas.org/MoW_built0.92/MoW.html), we almost have a full map of the [Drosophila](https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html) (fruit fly) brain, and progress was being made on whole brain maps for [mice and humans](https://portal.brain-map.org/), but I had never tried to dive into the data and mess around with state of the art visualization tools. I've now spent a day doing so and will share some notes on what is out there.
@@ -23,7 +23,7 @@ Hopefully this is just generally cool and interesting, (I have tried to add some
 <div align="center">
   <img width="800"  src="../images/BrainAtlas/MicronsFunny.png">
   <br>
-  <em> Who knew Brain Atlases could be so fun? <a href="https://ngl.microns-explorer.org/#!%7B%22dimensions%22:%7B%22x%22:%5B4e-9%2C%22m%22%5D%2C%22y%22:%5B4e-9%2C%22m%22%5D%2C%22z%22:%5B4e-8%2C%22m%22%5D%7D%2C%22position%22:%5B328983.5%2C117353.5%2C19709.5%5D%2C%22crossSectionScale%22:8.166169912567627%2C%22projectionOrientation%22:%5B-0.5617428421974182%2C0.44370320439338684%2C-0.02653450332581997%2C0.6977595090866089%5D%2C%22projectionScale%22:23095.594292315585%2C%22projectionDepth%22:-9.918776942798441%2C%22layers%22:%5B%7B%22type%22:%22image%22%2C%22source%22:%7B%22url%22:%22precomputed://https://bossdb-open-data.s3.amazonaws.com/iarpa_microns/minnie/minnie65/em%22%2C%22subsources%22:%7B%22default%22:true%7D%2C%22enableDefaultSubsources%22:false%7D%2C%22tab%22:%22source%22%2C%22annotationColor%22:%22#7d7d7d%22%2C%22shaderControls%22:%7B%22normalized%22:%7B%22range%22:%5B86%2C172%5D%7D%7D%2C%22name%22:%22img%22%7D%2C%7B%22type%22:%22segmentation%22%2C%22source%22:%22precomputed://gs://iarpa_microns/minnie/minnie65/seg%22%2C%22tab%22:%22segments%22%2C%22annotationColor%22:%22#949494%22%2C%22selectedAlpha%22:0.3%2C%22segments%22:%5B%22864691135269913253%22%2C%22864691135920699395%22%5D%2C%22segmentQuery%22:%22864691135269913253%2C%20864691135590002187%2C%20864691136100014453%2C%20864691136105679065%22%2C%22colorSeed%22:1416464799%2C%22name%22:%22seg%22%7D%5D%2C%22showSlices%22:false%2C%22selectedLayer%22:%7B%22visible%22:true%2C%22layer%22:%22seg%22%7D%2C%22layout%22:%7B%22type%22:%22xy-3d%22%2C%22orthographicProjection%22:true%7D%7D">See it for yourself here</a> | <a href="https://www.microns-explorer.org/gallery-mm3 ">Source</a> </em>
+  <em> Who knew Brain Atlases could be so fun? <a href="https://ngl.microns-explorer.org/#!%7B%22dimensions%22:%7B%22x%22:%5B4e-9%2C%22m%22%5D%2C%22y%22:%5B4e-9%2C%22m%22%5D%2C%22z%22:%5B4e-8%2C%22m%22%5D%7D%2C%22position%22:%5B328983.5%2C117353.5%2C19709.5%5D%2C%22crossSectionScale%22:8.166169912567627%2C%22projectionOrientation%22:%5B-0.5617428421974182%2C0.44370320439338684%2C-0.02653450332581997%2C0.6977595090866089%5D%2C%22projectionScale%22:23095.594292315585%2C%22projectionDepth%22:-9.918776942798441%2C%22layers%22:%5B%7B%22type%22:%22image%22%2C%22source%22:%7B%22url%22:%22precomputed://https://bossdb-open-data.s3.amazonaws.com/iarpa_microns/minnie/minnie65/em%22%2C%22subsources%22:%7B%22default%22:true%7D%2C%22enableDefaultSubsources%22:false%7D%2C%22tab%22:%22source%22%2C%22annotationColor%22:%22#7d7d7d%22%2C%22shaderControls%22:%7B%22normalized%22:%7B%22range%22:%5B86%2C172%5D%7D%7D%2C%22name%22:%22img%22%7D%2C%7B%22type%22:%22segmentation%22%2C%22source%22:%22precomputed://gs://iarpa_microns/minnie/minnie65/seg%22%2C%22tab%22:%22segments%22%2C%22annotationColor%22:%22#949494%22%2C%22selectedAlpha%22:0.3%2C%22segments%22:%5B%22864691135269913253%22%2C%22864691135920699395%22%5D%2C%22segmentQuery%22:%22864691135269913253%2C%20864691135590002187%2C%20864691136100014453%2C%20864691136105679065%22%2C%22colorSeed%22:1416464799%2C%22name%22:%22seg%22%7D%5D%2C%22showSlices%22:false%2C%22selectedLayer%22:%7B%22visible%22:true%2C%22layer%22:%22seg%22%7D%2C%22layout%22:%7B%22type%22:%22xy-3d%22%2C%22orthographicProjection%22:true%7D%7D">See it for yourself here</a>  <a href="https://www.microns-explorer.org/gallery-mm3 ">Source</a> </em>
 </div>
 
 **Summary of what follows:**
@@ -43,7 +43,7 @@ Here is a summary of all their different datasets.
 <div align="center">
   <img width="800"  src="../images/BrainAtlas/AllenSummary.png">
   <br>
-  <em> It's Atlases all the way down... | <a href="https://portal.brain-map.org/">Source</a></em>
+  <em> It's Atlases all the way down...  <a href="https://portal.brain-map.org/">Source</a></em>
 </div>
 
 A big strength of the Allen datasets is their gene expression maps across the whole brain (and spinal cord and across development).
@@ -54,13 +54,13 @@ Their gene expression data is overwhelming in its detail. The high resolution mi
 <div align="center">
   <img width="800"  src="../images/BrainAtlas/AllenNeuronData.png">
   <br>
-  <em> The human cells were recorded from donors within 30 hours post death and their cause of death and brain needed to satisfy a number of criteria (outlined on the website) | <a href="https://celltypes.brain-map.org/">Source</a></em>
+  <em> The human cells were recorded from donors within 30 hours post death and their cause of death and brain needed to satisfy a number of criteria (outlined on the website). <a href="https://celltypes.brain-map.org/">Source</a></em>
 </div>
 
 <div align="center">
   <img width="800"  src="../images/BrainAtlas/AllenNeuronData2.png">
   <br>
-  <em> I thought this degree of detail and data was very impressive | <a href="https://celltypes.brain-map.org/data?donor__species=Homo%20Sapiens&nr__reconstruction_type=%5Bfull,dendrite-only%5D">Source</a></em>
+  <em> I thought this degree of detail and data was very impressive. <a href="https://celltypes.brain-map.org/data?donor__species=Homo%20Sapiens&nr__reconstruction_type=%5Bfull,dendrite-only%5D">Source</a></em>
 </div>
 
 [Here](https://www.youtube.com/watch?v=PBRmR4hNoRM&ab_channel=AllenInstitute) is the best walkthrough of the functionally of their viewer that I came across.
@@ -70,7 +70,7 @@ Their axon tracing is cool but not particularly spatially precise picking up man
 <div align="center">
   <img width="800"  src="../images/BrainAtlas/AllenTracers.png">
   <br>
-  <em> 2994 different tracer experiments with blobs in the top left panel showing each of their injection sites. Clicking on any of them brings up the other panels. Clicking the button in the top right where my cursor is hovering will open up their brain explorer software to do additional visualizations. The button just to the right of it is for high res imagery of the scan that is so beautiful (see next image). | <a href="https://connectivity.brain-map.org/">Source</a></em>
+  <em> 2994 different tracer experiments with blobs in the top left panel showing each of their injection sites. Clicking on any of them brings up the other panels. Clicking the button in the top right where my cursor is hovering will open up their brain explorer software to do additional visualizations. The button just to the right of it is for high res imagery of the scan that is so beautiful (see next image).  <a href="https://connectivity.brain-map.org/">Source</a></em>
 </div>
 
 <br>
@@ -78,7 +78,7 @@ Their axon tracing is cool but not particularly spatially precise picking up man
 <div align="center">
   <img width="800"  src="../images/BrainAtlas/AllenHighRes.png">
   <br>
-  <em> High res microscopy showing in more detail the tracing experiment done in the above image. There are 140 brain slices from this particular experiment you can explore though the panel bottom center. | <a href="https://connectivity.brain-map.org/projection/experiment/siv/126188607?imageId=126189090&imageType=TWO_PHOTON,SEGMENTATION&initImage=TWO_PHOTON&x=17883&y=17260&z=3">Source</a></em>
+  <em> High res microscopy showing in more detail the tracing experiment done in the above image. There are 140 brain slices from this particular experiment you can explore though the panel bottom center. <a href="https://connectivity.brain-map.org/projection/experiment/siv/126188607?imageId=126189090&imageType=TWO_PHOTON,SEGMENTATION&initImage=TWO_PHOTON&x=17883&y=17260&z=3">Source</a></em>
 </div>
 
 <br>
@@ -86,7 +86,7 @@ Their axon tracing is cool but not particularly spatially precise picking up man
 <div align="center">
   <img width="800"  src="../images/BrainAtlas/AllenBrainExplorer.png">
   <br>
-  <em> Brain explorer showing the tracer fluoresence with different brain regions overlayed in 3D. Gene expression experiments can also be visualized in this way. | <a href="https://connectivity.brain-map.org/projection/experiment/siv/126188607?imageId=126189090&imageType=TWO_PHOTON,SEGMENTATION&initImage=TWO_PHOTON&x=17883&y=17260&z=3">Source</a></em>
+  <em> Brain explorer showing the tracer fluoresence with different brain regions overlayed in 3D. Gene expression experiments can also be visualized in this way. <a href="https://connectivity.brain-map.org/projection/experiment/siv/126188607?imageId=126189090&imageType=TWO_PHOTON,SEGMENTATION&initImage=TWO_PHOTON&x=17883&y=17260&z=3">Source</a></em>
 </div>
 
 
@@ -104,7 +104,7 @@ You can download their brain explorer software [here](https://human.brain-map.or
 <div align="center">
   <img width="800"  src="../images/BrainAtlas/MicronsSummary.png">
   <br>
-  <em> Overwhelmed yet? | <a href="https://www.microns-explorer.org/cortical-mm3">Source</a></em>
+  <em> Overwhelmed yet? <a href="https://www.microns-explorer.org/cortical-mm3">Source</a></em>
 </div>
 
 Funded by IARPA, this is a collaboration between the Allen Brain Institute (see previous section), the [Seung](https://seunglab.org/) lab at Princeton,and [Tolias](https://toliaslab.org/) lab at Baylor College of Medicine to create automated large scale connectivity maps.
@@ -118,7 +118,7 @@ Take a look at their [Gallery](https://www.microns-explorer.org/gallery-mm3) whe
 <div align="center">
   <img width="800"  src="../images/BrainAtlas/NeuroGlancer.png">
   <br>
-  <em> An example of the Neuroglancer platform | <a href="https://www.microns-explorer.org/cortical-mm3">Source</a></em>
+  <em> An example of the Neuroglancer platform. <a href="https://www.microns-explorer.org/cortical-mm3">Source</a></em>
 </div>
 
 Here is an alright tutorial to [Neuroglancer](https://www.youtube.com/watch?v=YTbu6vMljuE&ab_channel=ForrestCollman). If you want to see more neurons double click them on the EM image on the left.  
@@ -142,7 +142,7 @@ Here are their main projects:
 <div align="center">
   <img width="800"  src="../images/BrainAtlas/JaneliaMainProjects.png">
   <br>
-  <em> Janelia Main Projects | <a href="https://www.janelia.org/our-research/overview/project-teams">Source</a></em>
+  <em> Janelia Main Projects. <a href="https://www.janelia.org/our-research/overview/project-teams">Source</a></em>
 </div>
 
 As far as I know, FlyEM is their most ambitious project by far. To date they have a full map of the entire drosophila hemibrain which is everything below:
