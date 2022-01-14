@@ -71,4 +71,4 @@ Other advice that is more general but I’d love to signal boost is Sam Altman's
 
 ---
 
-*Thanks to [Miles Turpin](milesaturpin) and [Max Farrens](lord_applebee) for reading drafts of these piece. All remaining errors are mine and mine alone.*
+*Thanks to [Miles Turpin](milesaturpin) and [Max Farrens](lord_applebee) for reading drafts of this piece. All remaining errors are mine and mine alone.*
