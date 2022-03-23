@@ -6,11 +6,11 @@ comments: True
 categories: [Neuroscience, Misc]
 ---
 
-*Research Questions I am interested in/confused by.*
+*Research Questions I am interested in/confused by but am not actively researching.*
 
 ---
 
-I will try to keep this post up to date as more questions come up or are resolved. Last updated: November 28th, 2021.
+I will try to keep this post up to date as more questions come up or are resolved. I'm really trying to not let perfect be the enemy of good here. Last updated: March 23rd, 2021.
 
 ---
 <br>
@@ -32,10 +32,6 @@ Fewer neurons don't decrease intelligence/task performance?!:
 
   - One important nuance here that is different from the next case study is that it is suspected the left temporal lobe atrophied due to a micro-stroke very early in development. This gave the brain more time to adapt? But there are still fewer neurons for processing.
 
-* Removing an entire hemisphere from epileptic patients doesn't diminish their cognitive abilities? On [Twitter](https://twitter.com/roboso/status/1465061418735222784?s=20) it has been mentioned that the hemispheres removed were already damaged by the seizures. Moreover, these patients are not neuro-typical in having severe enough seizures to justify such an invasive surgery at such a young age. Paper [here](https://academic.oup.com/brain/article/126/3/556/321214).
-
-* Missing 95% of brain volume in hydrocephalus patients was claimed to not have any effect on cognitive function with an examlpe of a 126 IQ patient. This result was disproven by Gwern [here](https://www.gwern.net/Hydrocephalus).
-
 ---
 <br>
 <div style="margin-left:20px">
@@ -45,3 +41,22 @@ Fewer neurons don't decrease intelligence/task performance?!:
 Granule cells in the cerebellum make up [80% of all neurons in the brain](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2776484/). This is an incredible amount for a brain region that has been given far less attention than the neocortex or hippocampus and until recently was thought to only help with fine motor coordination. While these granule cells are small, they must require a huge metabolic cost. This leads to the question of what is the metabolic cost of a neuron in proportion to its size? In other words, how expensive and by proxy significant is this concentration of granule cells?
   - A bonus question is what is the metabolic cost of neuron maintenance versus firing of action potentials? Maybe there is a large fixed cost during development to create and wire up these granule cells but a low variable cost as action potentials are cheap or sparse activations mean they don't fire often?
   - Shameless plug: see my [recent paper](https://arxiv.org/abs/2111.05498) for an overview of Sparse Distributed Memory and its relation to the Transformer Deep Learning model for a hypothesis on why these granule cells may be so important...
+
+  ---
+  <br>
+  <div style="margin-left:20px">
+    <b>3. Why do SSRIs take so long to start working?</b>
+  </div>
+
+Selective Serotonin Reuptake Inhibitors (SSRIs) take weeks or months to start working when used to treat depression. This is weird because their known mechanism of action -- keeping more serotonin in synaptic juctions -- starts working immediately. More info on them and the question of how much better they are than placebos [here](https://slatestarcodex.com/2014/07/07/ssris-much-more-than-you-wanted-to-know/) and [here](https://slatestarcodex.com/2018/11/07/ssris-an-update/).
+
+---
+
+  **Other weird/fun/interesting facts that may hint at something more:**
+* Elephants have [20 copies of p53 which may be why they never get cancer](https://www.nature.com/articles/nature.2015.18534). More than half of human cancers have a mutation to P53 and almost all cancers have functional inactivation of it. This is because it is the main controller protein for if a cell should replicate or repair itself.  
+
+* The brain may have such[ redundant and Byzantine control mechanisms partly to fight off parasitic control](https://slatestarcodex.com/2019/08/19/maybe-your-zoloft-stopped-working-because-a-liver-fluke-tried-to-turn-your-nth-great-grandmother-into-a-zombie/). Rabies and toxoplasma are the two most impressive parasites for controlling complex mammalian brains. Rabies is capable of inducing a fear of water while toxoplasma makes rats attracted to cats and even sexually aroused by their urine. Meanwhile in ants the parasitic fungus [Ophiocordyceps](https://www.theatlantic.com/science/archive/2017/11/how-the-zombie-fungus-takes-over-ants-bodies-to-control-their-minds/545864/) turns them into "zombies" where they will find the nearest tree, climb to the top, lock their jaws onto a branch and dangle from it. This is all to allow the fungus to sprout a fruiting body from its head releasing its spores from on high to more victims.
+
+* The vagus nerve (connecting your brain to your gut) is in constant war with your microbiome. We have enzymes to break down bacterially produced dopamine and serotonin. We have antibodies to target bacterially produced neuropeptides. The microbiome can influence mood, make babies cry, direct our food cravings, and help us break down lactic acid so we can [run farther and longer](https://www.nature.com/articles/s41591-019-0485-4#:~:text=atypica%20improves%20run%20time%20via,process%20that%20enhances%20athletic%20performance.). ([Source](https://onlinelibrary-wiley-com.ezp-prod1.hul.harvard.edu/doi/10.1002/bies.201400071))
+
+* Infectious diseases may be the cause of neuro-degeneration and disorder. After long suspicions, Epstein Barr virus (EBV) was recently validated as causing multiple sclerosis by inducing an autoimmune response. ["In the United States, about half of all five-year-old children and about 90% of adults have evidence of previous infection."](https://en.wikipedia.org/wiki/Epstein%E2%80%93Barr_virus). Meanwhile, there is growing evidence that [strep throat](https://ajp.psychiatryonline.org/doi/full/10.1176/appi.ajp.2020.20111598) can cause OCD and [herpes virus is correlated with Alzheimers](https://twitter.com/TrentonBricken/status/1483482760522215425). And remember that viruses persisting throughout your life is the [normal way of things](https://www.trentonbricken.com/GreatestHost/) (it is only with the advent of high density cities that short lived, hard hitting viruses like the flu or common cold are viable).

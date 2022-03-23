@@ -35,7 +35,7 @@ I am biased because of my research but can point to sparsity as not only increas
 
 ---
 
-*Thanks to ... for reading drafts of this piece. All remaining errors are mine and mine alone.*
+*Thanks to [Joey Velez-Ginorio](https://twitter.com/joeyginorio) and [Davis Brown](https://twitter.com/davisbrownr) for influential discussions and reading drafts of this piece. All remaining errors are mine and mine alone.*
 
 ---
 
