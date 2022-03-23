@@ -3,7 +3,7 @@ layout: post
 title: Path Dependencies in Compute
 date: 2022-03-23 09:37:0 +0000
 comments: True
-categories: [Deep Learning]
+categories: [ML]
 ---
 
 *Computer hardware and the cruciality of fast iteration cycles.*

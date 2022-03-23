@@ -52,6 +52,15 @@ Selective Serotonin Reuptake Inhibitors (SSRIs) take weeks or months to start wo
 
 ---
 
+<br>
+<div style="margin-left:20px">
+  <b>4. Why/how does pulsing light into eyes at a Gamma frequency help with cognition and even Alzheimers?!</b>
+</div>
+
+There are a number of papers by Ed Boyden and Li-Huei Tsai like [Gamma frequency entrainment attenuates amyloid load and modifies microglia](https://www.nature.com/articles/nature20587) that have a number of wild results mentioned. How could this relate to clock cycles in the brain and what are the computational implications of entrainment more broadly? 
+
+---
+
   **Other weird/fun/interesting facts that may hint at something more:**
 * Elephants have [20 copies of p53 which may be why they never get cancer](https://www.nature.com/articles/nature.2015.18534). More than half of human cancers have a mutation to P53 and almost all cancers have functional inactivation of it. This is because it is the main controller protein for if a cell should replicate or repair itself.  
 
