@@ -9,7 +9,7 @@ permalink: /about/
 Hi, I'm Trenton. I am very interested in to what extent there is convergence between machine learning and neuroscience. I am currently using associative memory models, particularly Sparse Distributed Memory, to investigate this question.
 
 Information about me:
-* I'm a PhD student in the Systems, Synthetic and Quantitative Biology (SSQB) Program at Harvard in the [Kreiman Lab](http://klab.tch.harvard.edu/publications/publications.html#sthash.dUJc7Kpv.dpbs) (started Sept. 2020).
+* I'm a PhD student in the Systems, Synthetic and Quantitative Biology (SSQB) Program at Harvard in the [Kreiman Lab](http://klab.tch.harvard.edu/publications/publications.html#sthash.dUJc7Kpv.dpbs) (started Sept. 2020). I am supported by the NSF Graduate Research Fellowship.
 * I graduated from Duke University in May 2020 with a self-made major in "Minds and Machines: Biological and Artificial Intelligence". I was lucky to attend as a [Robertson Scholar](https://robertsonscholars.org/) which provided full funding during all four years, including summer experiences.
 * During my time at Duke I spent a year (June 2018 - May 2019) doing research in [Dr. Michael Lynch's Lab](https://lynchlab.pratt.duke.edu) at Duke attempting to use machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. Afterwards, I was affiliated with [Dr. Debora Marks's Lab](https://marks.hms.harvard.edu) at Harvard Medical School, first as a summer intern and then through my Senior Thesis research.
 
