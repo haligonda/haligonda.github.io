@@ -110,7 +110,7 @@ We humans are surprisingly optimal and the tasks that we are trying to solve are
 
 ---
 
-*Thanks to ... for reading drafts of this piece. All remaining errors are mine and mine alone.*
+*Thanks to [Joe Choo-Choy](https://twitter.com/joechoochoy) for reading drafts of this piece. All remaining errors are mine and mine alone.*
 
 ---
 
@@ -170,13 +170,13 @@ We humans are surprisingly optimal and the tasks that we are trying to solve are
 
 * Overfitting to a dataset and thinking too hard. There are stories of “police officers who find themselves, for instance, taking time out during a gunfight to put their spent casings in their pockets -- good etiquette on a firing range.”
 
-* “Similarly the FBI was forced to change its training after agents were found reflexively firing two shots and then holstering their weapon -- a standard cadence in training -- regardless of whether their shots had hit the target and whether there was still a threat. Mistakes like these are known in law enforcement and the military as “training scaress”. “ In a particularly dramatic case, an officer instinctively grabbed the gun out of the hands of an assailant and then instinctively handed it right back -- just as he had done time and time agains with his trainers in practice.”
+* “Similarly the FBI was forced to change its training after agents were found reflexively firing two shots and then holstering their weapon -- a standard cadence in training -- regardless of whether their shots had hit the target and whether there was still a threat. Mistakes like these are known in law enforcement and the military as “training scars”. “ In a particularly dramatic case, an officer instinctively grabbed the gun out of the hands of an assailant and then instinctively handed it right back -- just as he had done time and time agains with his trainers in practice.”
 
 * Idea of Jason Fried and David Heinemeir Hansson, of using larger pens like a sharpie when brainstorming to make it impossible to drill into the details of an idea. Forced to just think about the big picture.
 
 * Darwin had his famous pros cons lists like in deciding whether or not to get married. He forced himself to decide by the end of the page. These spatial constraints on thinking are kind of like the hardware determinism in research [Path Dependencies in Compute](https://www.trentonbricken.com/ComputingPathDependencies/).
 
-* The perfect is the enemy of the good - Voltaire.
+* "The perfect is the enemy of the good" - Voltaire.
 
 * Random method to test polynomial identity. Algorithm for finding primes that is random in whether or not it is telling the truth. Core result is that it is faster to validate than it is to search.
 
@@ -189,7 +189,7 @@ We humans are surprisingly optimal and the tasks that we are trying to solve are
 * Additive Increase, Multiplicative Decrease (AIMD) sawtooth. To be at max capacity need to fail, but want to do so in an effective way. Peter Principle. The best halfway house between being stuck and firing people is to have dynamic policy where you use AIMD. “pushing things to the point of failure is indeed sometimes the veset (or the only) way to use all the resources to their fullest.”
 “No one is long anxious about being overtaxed, nor long resentful about a missed promotion; both are temporary and frequent correctives, and the system hovers near its equilibrium despite everything changing all the time”.
 
-* Better never than late.
+* Better never than late. (The idea that it can be better to clearly communicate that something wont happen rather than saying it will and creating a very long lag time. They explore this idea for emails where rather than saying you are out of town and having a huge backlog of messages that were allowed to go through, you prevent the message from being sent so only the important ones are then sent later!)
 
 * Networking problem with queues. Being used in the wrong way. Only emerged with having queues that are longer than the processing speed of the modems. The ACKs were getting clogged in and messing up the whole system.
 
@@ -199,7 +199,7 @@ We humans are surprisingly optimal and the tasks that we are trying to solve are
 
 * Emotions are prosocial for society. Eg anger. Same with love.
 
-*  “Morality is herd instinct in the individual” - Nietzsche.
+* “Morality is herd instinct in the individual” - Nietzsche.
 
 * Along the lines of the Vickrey auction and the “revelation principle”, Kind algorithms and incentive design. If you find coordination problems interesting then do read one of my all time favourite pieces by Scott Alexander: [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/).
 
