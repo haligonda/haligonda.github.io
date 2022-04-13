@@ -10,6 +10,9 @@ categories: []
 
 ---
 
+
+THIS PIECE IS STILL IN DRAFT FORM
+
 I see a number of blog posts and books like [this](https://www.benkuhn.net/outliers/), [this](https://applieddivinitystudies.com/career-timing/), and [this](https://www.trentonbricken.com/Algorithms-To-Live-By/) that will develop an interesting theory and then relate it to the dating problem but in a cursory fashion, as a subset of a more abstract problem. Here I try to aggregate these pieces together into a series of considerations that may be useful?
 
 **The TLDR;** is just to go on lots of dates, exploring more serious relationships when they are great but don't be afraid to end them, and be biased towards meeting more people rather than committing at least until your late 20s.
