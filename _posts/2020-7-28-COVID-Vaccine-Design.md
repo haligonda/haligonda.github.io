@@ -6,6 +6,10 @@ comments: True
 categories: [COVID, Publications]
 ---
 
+*Designing a COVID Vaccine with the Gifford Lab at MIT CSAIL*
+
+---
+
 For posterity's sake I am sharing a Tweet thread for the paper I was involved with [Computationally Optimized SARS-CoV-2 MHC Class I and II Vaccine Formulations Predicted to Target Human Haplotype Distributions](https://www.cell.com/cell-systems/fulltext/S2405-4712%2820%2930238-6#%20):
 
 These tweets are for the publication of the paper in Cell Systems and for the bioRxiv preprint:

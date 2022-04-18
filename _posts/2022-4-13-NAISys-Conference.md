@@ -6,7 +6,7 @@ comments: True
 categories: [ML, Neuroscience]
 ---
 
-*Notes and themes from NAISys 2022 - Neuroscience to Artificially Intelligent Systems Conference*
+*Notes and themes from NAISys 2022 - Neuroscience to Artificially Intelligent Systems Conference.*
 
 ---
 

@@ -6,6 +6,10 @@ comments: True
 categories: COVID
 ---
 
+*Why humans are likely to be the most diseased organisms on the planet with entire classes of parasites that few other organisms face.*
+
+---
+
 I recently finished the excellent introduction to immunology: [How the Immune System Works](https://www.amazon.co.uk/How-Immune-System-Works/dp/111954212X/ref=dp_ob_title_bk?sa-no-redirect=1&pldnSite=1), by Lauren Sompayrac. A major part of the human immune system (and that of all vertebrates) is the adaptive system, which unlike the innate system, is able to mount a defense against almost any parasite[^parasiteDef]. While "How the Immune System Works" does talk about some of the disadvantages of having such a powerful system, the big one being autoimmune disorders, it paints an awe inspiring picture of a highly sophisticated and versatile system crucial to keeping us alive.
 
 However, a series of articles[^gwern] by [Stephen Hedrick](http://hedricklab.ucsd.edu/) leverage evolution and viral ecology to make a fascinating argument that, while our immune system is indeed sophisticated, it doesn't keep us any more protected from parasites than the more simple immune system of an ant, oak tree or lobster. Moreover, because of the agricultural revolution, domestication of animals, and urbanisation, humans are in fact likely to be the most diseased organisms on the planet with entire classes of parasites that few other organisms face.
@@ -22,7 +26,7 @@ Unfortunately, this race is also not without its consequences as the adaptive im
 
 It may be helpful to know that this form of evolutionary lock-in is often referred to as the "[Red Queen Hypothesis](https://en.wikipedia.org/wiki/Red_Queen_hypothesis)", a reference to Lewis Carroll's Red Queen in Alice in Wonderland: “Now, here, you see, it takes all the running you can do, to keep in the same place. If you want to get somewhere else, you must run at least twice as fast as that.” ([Van Valen, 1973](https://ebme.marine.rutgers.edu/HistoryEarthSystems/HistEarthSystems_Fall2010/VanValen%201973%20Evol%20%20Theor%20.pdf)).
 
-## Invertebrate Immunity 
+## Invertebrate Immunity
 
 Dr. Hedrick supports his argument with interesting examples of invertebrates that don't suffer a level of parasitic infection that would be expected if the sophistication of their immune system mattered. This is shown by exploring invertebrate lifespan, causes of death and invertebrate parasites.  
 
@@ -36,7 +40,7 @@ Examples of parasites that change their virulence in response to their host are 
 
 As a final example of parasitic co-evolution, a study on "invertebrate iridescent viruses" showed that infections were nonlethal and that "the frequency of infection was directly correlated with species proportion, a hallmark of frequency-dependent coevolution." ([Hernandez et al., 2000](https://www.ncbi.nlm.nih.gov/pubmed/11129714)).
 
-In light of this evidence, Dr. Hedrick rightly raises the question: 
+In light of this evidence, Dr. Hedrick rightly raises the question:
 > "Perhaps the question is not why invertebrates manage to succeed in the absence of an acquired immune system, but rather, why do we vertebrates have pathogens that necessitate acquired immunity?"
 
 I believe that the underlying evolutionary theory behind our adaptive immunity not protecting us any better from co-evolved parasites is compelling and the above evidence is helpful. However, since the writing of ["The Acquired Immune System: A Vantage from Beneath"](http://hedricklab.ucsd.edu/documents/Hedrick-Immunity-2004.pdf) in 2004, I am curious what additional evidence has been discovered on both parasitic infection and excess mortality due to parasites compared across organisms with different immune systems. Progress in metagenomic sequencing should be helpful with this.
@@ -51,7 +55,7 @@ Virulence is "the cost of infection to the host ... it is assumed to be associat
 
 With a few exceptions, transmission rate depends upon virulence. Without sufficiently high virulence, there cannot be transmission. However, if virulence is too high then it is likely the host will no longer have interactions with naive hosts (because of incapacitation or death) and the immune system will try to clear the parasite, both lowering transmission rate and, by proxy, parasitic fitness.
 
-Interesting exceptions to this interdependence between transmission rate and virulence occur when the parasite transmits via third party vectors. This includes malaria (mosquitoes), cholera (water supply) and anthrax (incredibly hardy spores). For malaria, host incapacitation due to high virulence is in fact likely to be advantageous because it makes them an easier target for mosquito bites. 
+Interesting exceptions to this interdependence between transmission rate and virulence occur when the parasite transmits via third party vectors. This includes malaria (mosquitoes), cholera (water supply) and anthrax (incredibly hardy spores). For malaria, host incapacitation due to high virulence is in fact likely to be advantageous because it makes them an easier target for mosquito bites.
 
 This balance between transmissibility and virulence is referred to in the literature as trade-off theory ([Anderson and May, 1982](https://www.ncbi.nlm.nih.gov/pubmed/6755367)). Its predictions have been replicated in laboratory and natural experiments. In the lab, an incredible experiment started in the 1920s and lasting over 15 years involved between 100,000 and 200,000 mice, which were used to study the evolution of viral and bacterial virulence and mortality rates as the rate at which naive hosts were introduced was altered ([Greenwood et al., 1936](https://jamanetwork.com/journals/jama/article-abstract/274340); [Anderson and May, 1979](https://www.nature.com/articles/280361a0)). This evolution of virulence means that when a parasite encounters many naive hosts, there is a reduced fitness cost to high virulence and the most virulent, with the highest transmission rates, spreads the fastest. Meanwhile, with fewer naive hosts available, the opposite is true ([Lively, 2006](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1461-0248.2006.00969.x)). In a similar fashion, bacteria that have acquired antibiotic resistance genes will lose them over time if they are not exposed to the antibiotics. This is because these genes are extra genetic baggage that require energy to replicate and variants free of them will outcompete those that remain encumbered ([Bingle and Thomas, 2001](https://www.ncbi.nlm.nih.gov/pubmed/11282476)). Applying this phenomenon to the ongoing SARS-CoV-2 pandemic, before global lockdown measures were introduced there was selection for more virulent strains of the virus. Now, with lockdown in place there is selection for less virulent, longer lived strains.
 
@@ -92,7 +96,7 @@ As a society, we must acknowledge that we are on the evolutionary treadmill and 
 
 If my summary of Dr. Hedrick's ideas has resonated, I encourage you to [read his work](http://hedricklab.ucsd.edu/) which is far more eloquent and provides many interesting citations. If the general enslavement to evolution I have spoken about interests you then [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) is one of my favourite pieces from my favourite blog. If you are into sci-fi, [The Mote in God’s Eye](https://www.amazon.co.uk/Mote-Gods-Eye-Larry-Niven/dp/0586217460?sa-no-redirect=1&pldnSite=1) is the most accurate depiction of evolution and aliens in any book I've read.
 
-## Open Questions: 
+## Open Questions:
 * Do vertebrates have pathogens that necessitate acquired immunity?
 * What additional evidence since Dr. Hedrick’s pieces has been discovered on both parasitic infection and excess mortality due to parasites compared across organisms with different immune systems?
 * Where do non-parasitic, commensal viruses and bacteria fit into trade-off theory?  How do they transmit well enough without being virulent?
@@ -103,7 +107,7 @@ If my summary of Dr. Hedrick's ideas has resonated, I encourage you to [read his
 * Relating the above question to SARS-CoV-2, We know from biochemistry that the receptor binding domain of Spike protein (necessary for viral entry) binds ~10 to 20x tighter to human ACE2 ([Wrapp et al., 2020](https://science.sciencemag.org/content/sci/367/6483/1260.full.pdf)). How does this affect virulence vs transmissibility? Why does this still make SARS ~10x more lethal and MERS ~30x more lethal ([Ruan, 2020](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30257-7/fulltext))? Especially as these coronaviruses are all from the same family with the same tradeoff theory? Surely they also aren't too far away on the fitness landscape, clearly SARS-CoV-2 is much closer to the local maxima for R0 but why?
 * Also can bats sustain the "acute, resolving infectious agents" that we have made ourselves so susceptible to because of their high and dense populations that are mostly stationary inside caves? If so, then what other species also have modern human like population dynamics? Aside from being fellow vertebrates and mammals, what is it about bats that make them such [zoonotic threats](https://www.sciencemag.org/news/2017/06/bats-really-do-harbor-more-dangerous-viruses-other-species#)?
 
-Thanks to Andrew Liu, Alexander Bricken, Joe Choo-Choy and Michael McLaren, for the helpful edits, comments and suggestions. 
+Thanks to Andrew Liu, Alexander Bricken, Joe Choo-Choy and Michael McLaren, for the helpful edits, comments and suggestions.
 
 ### Footnotes
 * footnotes will be placed here. This line is necessary

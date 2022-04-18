@@ -6,6 +6,10 @@ comments: True
 categories: ML
 ---
 
+*My favourite questions from David MacKay's [Information Theory, Inference and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf).*
+
+---
+
 This post is still growing and I need to write answers to more of the questions but in an effort to not let good be the enemy of perfect and to motivate me to get back to this textbook I am making this post live now!
 
 I am really enjoying reading David MacKay's [Information Theory, Inference and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf) which is available to read online for free.

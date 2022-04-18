@@ -6,6 +6,10 @@ comments: True
 categories: [COVID, Publications]
 ---
 
+*Developing a new platform to identify viral genes responsible for immune suppression/invasion and applying it to COVID.*
+
+---
+
 For posterity's sake I am sharing a Tweet thread for the paper I was involved with [High-content screening of coronavirus genes for innate immune suppression reveals enhanced potency of SARS-CoV-2 proteins](https://www.biorxiv.org/content/10.1101/2021.03.02.433434v1):
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Very excited to have been involved in this SARS-CoV-2 research that introduces new assays to detect viral gene immune suppression capabilities and even discovers a potential new gene overlapping with Spike.<br><br>Read the pre-print here: <a href="https://t.co/8NAGIEgoAk">https://t.co/8NAGIEgoAk</a><br><br>Thread 🧵 1/n</p>&mdash; Trenton Bricken (@TrentonBricken) <a href="https://twitter.com/TrentonBricken/status/1367141915666317312?ref_src=twsrc%5Etfw">March 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
