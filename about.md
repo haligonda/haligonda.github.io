@@ -14,12 +14,12 @@ Information about me:
 * During my time at Duke I spent a year (June 2018 - May 2019) doing research in [Dr. Michael Lynch's Lab](https://lynchlab.pratt.duke.edu) at Duke attempting to use machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. Afterwards, I was affiliated with [Dr. Debora Marks's Lab](https://marks.hms.harvard.edu) at Harvard Medical School, first as a summer intern and then through my Senior Thesis research.
 
 I am involved in the movement/philosophy/set of ideas that is [Effective Altruism](https://www.effectivealtruism.org). I am also a fan of prediction markets and make public forecasts on [Metaculus](https://www.metaculus.com/) [here](https://www.metaculus.com/accounts/profile/118139/).
-If the world was void of both interesting research questions and global catastrophic risks(!), you'd find me backpacking around the world with my [film camera](https://blitz-analog.github.io/). I still try to do this when I have time off and get the chance to travel somewhere cool.
+If the world was void of both interesting research questions and global catastrophic risks(!), you'd find me backpacking around the world with my [film camera](https://blitz-analog.github.io/). I still try to do this when I have time off and get the chance to travel somewhere cool. Have any feedback for me? Please consider filling out [this](https://forms.gle/VcY3vQgkdf6c69dr7) anonymous feedback form so I can learn and grow.
 
 ## Publications (in reverse chronological order):
 
 **Attention Approximates Sparse Distributed Memory**<br>
-***Trenton Bricken***\*, Cengiz Pehlevan
+***Trenton Bricken***\*, Cengiz Pehlevan<br>
 \*(First author)<br>
 NeurIPS, December 2021<br>
 [[paper](https://arxiv.org/abs/2111.05498)] [[blog-post](https://www.trentonbricken.com/Attention-Approximates-Sparse-Distributed-Memory/)] [[tweet-thread](https://twitter.com/TrentonBricken/status/1458465726503784449?s=20)]<br>
@@ -59,10 +59,6 @@ My Google Scholar profile can be found [here](https://scholar.google.com/citatio
 * [RewardConditionedUDRL](https://github.com/TrentBrick/RewardConditionedUDRL) - Fall 2020 - Open source codebase combining implementations of [Reward Conditioned Policies](https://arxiv.org/pdf/1912.13465.pdf) and [Training Agents using Upside-Down Reinforcement Learning](https://arxiv.org/abs/1912.02877). The former had no public implementation and the latter had a few implemented as Jupyter Notebooks but that had a number of issues I flagged eg. [here](https://github.com/jscriptcoder/Upside-Down-Reinforcement-Learning/issues/1) and [here](https://github.com/BY571/Upside-Down-Reinforcement-Learning/issues/4#event-3624848392). I hope this open source codebase will serve to both fully replicate the aforementioned papers and be used as a starting point for further research in the exciting domain of supervised RL.
 
 * [SARS-CoV-2 mutation effects and 3D structure prediction from sequence covariation.](https://marks.hms.harvard.edu/sars-cov-2) - Summer 2020 - Collaborated with the Marks lab to help produce their SARS-CoV-2 mutation effect and 3D structure predictions using EVCouplings. <br>
-<br>
-Citation: <br>
-Nathan Rollins\*, Kelly Brock\*, Joshua Rollins\*, Judy Shen, Amy Tam, Ada Shaw, ***Trenton Bricken***, Augustin Luna, Nicholas Gauthier, Thomas Hopf, Chris Sander, Debora Marks. (2020)
-<br>
 Website: <https://marks.hms.harvard.edu/sars-cov-2>
 
 * [RL Learning Byzantine Fault Tolerant (BFT) Consensus Protocols](https://github.com/TrentBrick/LearningConsensus) - Senior Year - Supervised by Dr. Kartik Nayak, final class project turned research project. Investigated the ability for deep reinforcement learning agents to discover and prove BFT consensus protocols. This was a great way to learn more about reinforcement learning but the tasks were too difficult for the agents to learn given the algorithms we were attempting to use. A write up of the project and uncleaned version of the codebase is available [here](https://github.com/TrentBrick/LearningConsensus).
@@ -85,10 +81,4 @@ I am pretty active on [Twitter](https://twitter.com/TrentonBricken) and sometime
 
 If any of the things I have mentioned are interesting to you please reach out! I love to meet new people.
 
-[brickentrenton@gmail.com](mailto:brickentrenton@gmail.com)
-
-### Anonymous Feedback
-
-Have any feedback for me? Please consider filling out this anonymous feedback form so that I can learn and grow :)
-
-<https://forms.gle/VcY3vQgkdf6c69dr7>
+My email is: lastname firstname at gmail dot com
