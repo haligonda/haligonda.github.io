@@ -6,7 +6,9 @@ comments: True
 categories: [Book Review, Epistemics]
 ---
 
-*Stop reading this piece now and read [this review by Slate Star Codex](https://slatestarcodex.com/2017/11/30/book-review-inadequate-equilibria/) that is far superior! I am selfishly writing and posting this review only to help think through and internalize a number of the book’s ideas.*
+*If your idea is so good, why hasn’t it already been done before?*
+
+---
 
 You come up with a new idea: a startup; a policy to reshape the medical system; a solution to science’s replication crisis; the reason why Apple stock is undervalued. But if your idea is so good, why hasn’t it already been done before? Is everyone else blind/stupid? Are you a genius? Did you just get lucky to be in the right place at the right time? Or is there a fundamental reason why others have thought up or even tried your idea but decided not to do it[^cFence]?
 
@@ -103,6 +105,8 @@ It is far easier to pick amongst experts and existing opinions than it is to bec
 "If you never fail, you're only trying things that are too easy and playing far below your level."
 
 In the book [Superforecasting](https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock/dp/0804136718) the strongest predictor of success, 3x more influence than intelligence, was the belief that you could improve and do better than the experts.
+
+If you liked this review consider reading [this review by Slate Star Codex](https://slatestarcodex.com/2017/11/30/book-review-inadequate-equilibria/) that is far superior!
 
 *Thanks to [David Rein](https://twitter.com/idavidrein?lang=en) and [Miles Turpin](https://twitter.com/milesaturpin) for reading a draft of this piece and providing useful edits and discussion! All errors and confusions that remain are mine and mine alone.*
 
