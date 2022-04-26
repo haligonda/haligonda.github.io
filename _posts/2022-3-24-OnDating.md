@@ -46,7 +46,7 @@ The next two sections address difficulties with ending a current relationship an
 
 > The difference between, say, a 90th and 99th-percentile relationship is relatively easy to observe: it only requires considering 100 candidates, many of whom you can immediately rule out. What’s harder to observe is the difference between the 99th and 99.9th, or 99.9th and 99.99th percentile, but these are likely to be equally large. Given the stakes involved, it’s probably a bad idea to stop at the 99th percentile of compatibility.
 
-And the distribution of possible outcomes is huge and average outcomes are bad[^divorceNuance]:
+This assumes that all of these candidates are interested in dating you of course. And the distribution of possible outcomes is huge and average outcomes are bad[^divorceNuance]:
 > In the US today, almost 50% of partnerships end in divorce, whereas the 99th percentile probably involves the couple being (on average) extremely happy with each other for 50+ years. In other contexts, this seems likely to be even more true; for example, in some low-income countries with regressive gender norms, over 25% of women who have ever had a partner experience domestic violence each year, which probably makes the average partnership extremely bad.
 
 
@@ -54,7 +54,7 @@ And the distribution of possible outcomes is huge and average outcomes are bad[^
 
 **Micromarriages**
 
-Finding a life partner is a binary event. It is also very difficult. This means most attempts like deciding whether or not to go on another date or to a party will almost always fail and feel disheartening. [Chris Olah](https://colah.github.io/personal/micromarriages/) introduces the idea of "micromarriages" as a motivational tool to help handle this despair. You should imagine that every action you take to expose yourself to your life partner wins you "micromarriage" points and that in expectation, if you acquire enough of them, you will find a (marriage) partner.
+Finding a life partner is a binary event. It is also very difficult. This means most attempts like deciding whether or not to go on another date or to a party will almost always fail and feel disheartening. [Chris Olah](https://colah.github.io/personal/micromarriages/) introduces the idea of "micromarriages" as a motivational tool to help handle this despair. You should imagine that every action you take to expose yourself to your potential life partner wins you "micromarriage" points and that in expectation, if you acquire enough of them, you will find a (marriage) partner.
 
 ---
 
@@ -132,7 +132,7 @@ Second, any relationship worth being in -- where at some point you come to genui
 
 ---
 
-*Thanks to [Max Farrens](https://twitter.com/lord_applebee), [Miles Turpin](https://twitter.com/milesaturpin), and [Joe Choo-Choy](https://twitter.com/joechoochoy) for influential discussions and reading drafts of this piece. All remaining errors are mine and mine alone.*
+*Thanks to [Max Farrens](https://twitter.com/lord_applebee), [Miles Turpin](https://twitter.com/milesaturpin), [Joe Choo-Choy](https://twitter.com/joechoochoy), and [Alexander Bricken](https://twitter.com/abrickand?lang=en) for influential discussions and reading drafts of this piece. All remaining errors are mine and mine alone.*
 
 ### Footnotes
 * footnotes will be placed here. This line is necessary

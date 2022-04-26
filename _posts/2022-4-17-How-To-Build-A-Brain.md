@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Book Review - How to Build a Brain
-date: 2022-04-17 19:25:0 +0000
+date: 2022-04-26 14:25:0 +0000
 comments: True
 categories: [Neuroscience, ML]
 ---
@@ -60,8 +60,10 @@ If you have read the book or have opinions please comment as I am curious to get
 
 ---
 
-*Thanks to [Max Farrens](https://twitter.com/lord_applebee), [Miles Turpin](https://twitter.com/milesaturpin), and [Joe Choo-Choy](https://twitter.com/joechoochoy) for influential discussions and reading drafts of this piece. All remaining errors are mine and mine alone.*
+*Thanks to [Joe Choo-Choy](https://twitter.com/joechoochoy) for influential discussions and reading drafts of this piece. All remaining errors are mine and mine alone.*
 
+---
+---
 ---
 
 I will now transition from providing commentary to summarizing each chapter of the book by sharing the notes that I took for each. I’m not sure how useful this is to readers but maybe treat it as a “Table of Contents” for the book?
@@ -121,7 +123,7 @@ I also tried to answer this question myself and would be very interested in comm
     - expansion microscopy
     - many others I am unaware of...
 - Novel data:
-    - the amount of data we have on conditioned learning is incredible cite eye blink results
+    - the amount of data we have on conditioned learning is incredible e.g. [here](http://learnmem.cshlp.org/content/10/6/427)
 
 Obviously we have a long way to go but a great deal has been accomplished.
 
@@ -151,7 +153,12 @@ This chapter introduces the NEF, which I will skip as I have already written abo
 - Inputs to a neuron in the cortex are on average 10K inputs and outputs. Can range from 500 (retina) to 200,000 (Purkinje).
 - There are 72 kilometers (~45 miles) of fiber in the brain. This is equivalent to the height of 9 Mt. Everests...
 - There are hundreds of different neurotransmitters and neuronal types.
-- As an example of evolution being stuck in a local optima, giraffes have a neuron that runs from its toe to its neck. (Another example of local minima is the human retina where all of our rods and cones are flipped the wrong way. This is why we have a blind spot for all the wires to enter through it.)
+- As an example of evolution being stuck in a local optima, giraffes have the [laryngeal nerve](https://timpanogos.blog/2011/10/08/evidence-of-evolution-giraffes-laryngeal-nerve/):
+> The laryngeal nerve of the giraffe, linking larynx to brain, a few inches away — but because of evolutionary developments, instead dropping from the brain all the way down the neck to the heart, and then back up to the larynx.  In giraffes the nerve can be as much as 15 feet long, to make a connection a few inches away.
+
+![](../images/HowToBuildABrain/LaryngealNerve.png)
+
+- Another example of local minima is the human retina where all of our rods and cones are [flipped the wrong way](https://theconversation.com/look-your-eyes-are-wired-backwards-heres-why-38319). This is why we have a blind spot for all the wires to enter through it.
 - Human motor neurons are up to a meter long.
 
 The next 4 Chapters outline: Semantics; Syntax; Control; Memory & Learning. These are then all combined into Spaun, the system that is meant to emulate a brain solving a number of tasks.
