@@ -25,13 +25,13 @@ There is already so much self help on the internet and everyone’s mileage will
 
   Finally, by the time you are about to graduate and taking that required spanish class in a room full of freshmen, you won’t have to care or waste as much time on the busy-work. You’ll be more mature, your GPA is basically locked in, and your future employer has likely already accepted you so it shouldn't matter anyways.
 
-  I realize that for some, the general education requirements can be a source of direction and inspiration. If you don’t have any idea what you want to pursue then by all means take these classes. But for those who have an idea of what they want to pursue should go forth and do it!
+  I realize that for some, the general education requirements can be a source of direction and inspiration. If you don’t have any idea what you want to pursue then by all means take these classes. But those who have an idea of what they want to pursue should go forth and do it!
 
 <div style="margin-left:20px">
   <b>2. Take graduate classes as soon as possible.</b>
 </div>
 
-  It is easy to assume that graduate classes are for graduate students. Not only are they often surprisingly accessible but have fewer bull**** assignments and are smaller so you get more contact time with the professor. If you care about things like your GPA, I also found they were generously graded. You can also meet lots of interesting graduate students and smart fellow undergrads here.  
+  It is easy to assume that graduate classes are for graduate students. Not only are they often surprisingly accessible but have fewer bull\*\*\*\* assignments and are smaller so you get more contact time with the professor. If you care about things like your GPA, I also found they were generously graded. You can also meet lots of interesting graduate students and smart fellow undergrads here.  
 
   A friend had a general education requirement to take a small seminar class that had to be fulfilled in his first year. Instead of taking a "101" class in some subject he didn't care about, he took a "700" level graduate seminar on meta ethics. He was very interested in the subject, held his own and got a lot out of the class. But this sort of opportunity is totally off most people’s radar.
 
@@ -39,7 +39,7 @@ There is already so much self help on the internet and everyone’s mileage will
   <b>3. Independent studies are the best.</b>
 </div>
 
-  At Duke you could get a professor to sign off on an independent study as one of your courses. It was up to you and the professor to decide on weekly objectives and the final deliverable. In one case, I did research on nutritional interventions for brain development and wrote a paper at the end, meeting each week to discuss what I had read and learnt. In another case a group of four friends read [this](https://www.deeplearningbook.org/) Deep Learning textbook and met with the professor each week summarizing what we had learnt with slides. These slides became the foundation for a [new Deep Learning class](https://www2.stat.duke.edu/~banks/790-stat.html) the professor taught the following semester.
+  At Duke you could get a professor to sign off on an independent study as one of your courses. It was up to you and the professor to decide on weekly objectives and the final deliverable. In one case, I did research on nutritional interventions for brain development and wrote a paper at the end, meeting each week to discuss what I had read and learnt. In another case, a group of four friends read [this](https://www.deeplearningbook.org/) Deep Learning textbook and met with the professor each week summarizing what we had learnt with slides. These slides became the foundation for a [new Deep Learning class](https://www2.stat.duke.edu/~banks/790-stat.html) the professor taught the following semester.
 
   If you have a topic in mind then nothing beats the total freedom and mentorship possible through an independent study.
 
@@ -55,7 +55,7 @@ There is already so much self help on the internet and everyone’s mileage will
 
   A number of the neuroscience students I met were smart and hard working but seemed to graduate having spent a lot of time being taught the name of every brain region.
 
-  Along the recurring theme of there being finite time to learn, I wish I had better prioritized  classes to teach me completely different mental models. Learning more about human rationality and cognitive biases. How to think probabilistically and in high dimensional spaces. Seeing the world through information theory and statistical mechanics. Learning about historical trends that have shaped societies and may do so again. Physics, biology and chemistry for the fundamental levers and constraints of our reality. I feel like all of these skills have outsized returns no matter the specific problem or textbook facts of the day. [Feynman](https://smile.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041?sa-no-redirect=1) has made very similar arguments and [this post](https://www.lesswrong.com/posts/bjjbp5i5G8bekJuxv/study-guide) is a great example of this sort of framework based learning centered around being able to understand any system.
+  Along the recurring theme of there being finite time to learn, I wish I had better prioritized classes to teach me completely different mental models. Learning more about human rationality and cognitive biases; How to think probabilistically and in high dimensional spaces; Seeing the world through information theory and statistical mechanics; Learning about historical trends that have shaped societies and may do so again; Physics, biology and chemistry for the fundamental levers and constraints of our reality. I feel like all of these skills have outsized returns no matter the specific problem or textbook facts of the day. [Feynman](https://smile.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041?sa-no-redirect=1) has made very similar arguments and [this post](https://www.lesswrong.com/posts/bjjbp5i5G8bekJuxv/study-guide) is a great example of this sort of framework based learning centered around being able to understand any system.
 
 ---
 
@@ -71,4 +71,4 @@ Other advice that is more general but I’d love to signal boost is Sam Altman's
 
 ---
 
-*Thanks to [Miles Turpin](milesaturpin) and [Max Farrens](lord_applebee) for reading drafts of this piece. All remaining errors are mine and mine alone.*
+*Thanks to [Miles Turpin](https://twitter.com/milesaturpin) and [Max Farrens](https://twitter.com/lord_applebee) for reading drafts of this piece. All remaining errors are mine and mine alone.*
