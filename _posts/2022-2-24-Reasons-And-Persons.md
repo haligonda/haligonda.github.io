@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Review - Beginning of Infinity
+title: Book Review - Reasons and Persons - Draft
 date: 2022-02-23 09:31:0 +0000
 comments: True
 categories: [Book Review]
@@ -10,7 +10,7 @@ categories: [Book Review]
 
 ---
 
-Derek Parfitt is a bastion of the Effective Altruism community and I was told that this was the book of his that I should most read. I believe the summary of the back of the book sums it up excellently so share it wholesale:
+Derek Parfitt is a bastion of the Effective Altruism community and I was told that this was the book of his I should most read. I believe the summary of the back of the book sums it up excellently so share it wholesale:
 
 >
 

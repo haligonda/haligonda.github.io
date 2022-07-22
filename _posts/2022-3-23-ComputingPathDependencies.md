@@ -6,11 +6,11 @@ comments: True
 categories: [ML]
 ---
 
-*Computer hardware and the cruciality of fast iteration cycles.*
+*Computer hardware and the need for fast iteration cycles.*
 
 ---
 
-I think often about the paper [The Hardware Lottery](https://arxiv.org/abs/2009.06489) which argues that much of the Deep Learning research agenda has been set by the research tools at our disposal. LISP being the dominant coding language until the 1990s majorly biased researchers towards symbolic approaches to AI. GPUs today bias us towards backpropagation and dense neural networks that fail to take advantage of sparsity.
+I think somewhat often about the paper [The Hardware Lottery](https://arxiv.org/abs/2009.06489) which argues that much of the Deep Learning research agenda has been set by the research tools at our disposal. LISP being the dominant coding language until the 1990s majorly biased researchers towards symbolic approaches to AI. GPUs today bias us towards backpropagation and dense neural networks that fail to take advantage of sparsity.
 
 > A striking example of this jump in efficiency
 is a comparison of the now famous 2012
