@@ -49,3 +49,7 @@ I have been asked a few times for resources that relate to the flavour of comput
 [Looking at the cerebellar circuitry and trying to relate its exact combination of excitation, inhbition and learning rules to different functions it can perform. Very well written](https://www.nature.com/articles/s41583-020-00392-x)
 
 [Theories of the circuitry and computational capabilities of the Basal Ganglia circuitry](https://www.sciencedirect.com/science/article/abs/pii/S0166223613001574)
+
+**Metabolics**
+
+[Principles of Neural Design](http://cognet.mit.edu/book/principles-of-neural-design)

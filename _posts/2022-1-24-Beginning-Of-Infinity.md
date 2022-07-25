@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Review - Reasons and Persons
+title: Book Review - Beginning of Infinity
 date: 2022-02-14 09:32:0 +0000
 comments: True
 categories: [Book Review]
