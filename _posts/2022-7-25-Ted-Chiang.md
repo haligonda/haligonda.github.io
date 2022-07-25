@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Book Review - Ted Chiang Short Stories
-date: 2022-07-22 15:32:0 +0000
+date: 2022-07-25 10:32:0 +0000
 comments: True
 categories: [Book Review]
 ---
