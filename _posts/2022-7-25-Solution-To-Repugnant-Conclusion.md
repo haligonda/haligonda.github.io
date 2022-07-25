@@ -3,7 +3,7 @@ layout: post
 title: A Solution to the Repugnant Conclusion?
 date: 2022-07-25 12:15:0 +0000
 comments: True
-categories: [Book Review]
+categories: [Epistemics]
 ---
 
 *Having a non-linear uptick in utility avoids the Repugnant Conclusion.*
