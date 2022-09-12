@@ -62,3 +62,7 @@ Oh and if you haven’t read [You and Your Research](https://www.cs.virginia.edu
 * Have a good answer to the Tyler Cowen question: “What form of routine practice do you do that is analogous to the way a pianist practices the scales?”
 * Share my research more openly via blog posts and get things on ArXiV more frequently.
 * Get better at accepting how the world actually is. There is something really powerful about seeing the world not as it should be or could have been but how it is right now. You’re in the cockpit, everything that has happened has happened, what is going to happen next. I feel this most acutely with investment decisions, ok yes I should have sold before the market crash. But what should I be doing right now? Yet I think this generalizes to accepting that I am two years into grad school and turning 25 soon. What projects are sunk costs and what do I want to change going forwards? Meditation and journaling are two ways that I think can really help with this “world acceptance” and future planning.
+
+---
+
+*Thanks to [Max Farrens](https://twitter.com/lord_applebee) for reading drafts of this piece. All remaining errors are mine and mine alone.*
