@@ -46,7 +46,7 @@ My Google Scholar profile can be found [here](https://scholar.google.com/citatio
 
 ## Resume
 
-[My CV (last updated on Nov. 10 2021)](../documents/Trenton-Bricken-CV.pdf)
+[My CV (last updated on Sept. 30, 2022)](../documents/Trenton-Bricken-CV.pdf)
 
 ## Current Projects
 
