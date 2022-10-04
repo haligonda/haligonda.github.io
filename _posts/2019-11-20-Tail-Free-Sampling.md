@@ -251,7 +251,7 @@ However, in the meantime, because neither Top-K or Nucleus Sampling have been em
 This research and code has no license. However, if you found it useful please cite this post:
 ```
 @misc{TailFreeSampling-Bricken-2019,
-  title={TailFreeSampling},
+  title={Tail Free Sampling},
   url={https://www.trentonbricken.com/Tail-Free-Sampling/},
   journal={trentonbricken.com},
   author={Trenton Bricken},

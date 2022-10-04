@@ -55,9 +55,7 @@ While running the Hugging Face GPT2 we get 27.5Gb.
 
 If our batch size is 1 then we undershoot again where memory is predicted to be 5.1Gb but in reality it is 6.1Gb.
 
-For the medium sized 345M parameter model and a batch size of 1 our equation predicts that there it will use 12.5Gb while empirically it is: 13.4Gb. The 1Gb gap remains.
-
-Let me know if you can think of where the missing 1Gb is coming from. There may be additional tensors in memory from for example by not doing in place operations for the activation function? It may also be due to memory used from concatenating the Attention head outputs or splitting them up?
+For the medium sized 345M parameter model and a batch size of 1 our equation predicts that there it will use 12.5Gb while empirically it is: 13.4Gb. The 1Gb gap remains. I learned that this 1Gb gap comes from loading the GPU kernels into memory! See [here](https://huggingface.co/docs/transformers/perf_train_gpu_one).
 
 The model parameter equation comes from:
 ```
@@ -70,7 +68,7 @@ The activation parameter equation comes from:
 B[batch]*T[seq. length]*(2*TOKS [one hot vectors at input and output]+L[number of blocks]*(3E [K,Q,V projections] + N*T [Attention Heads softmax weightings] + E [value vector] + E [linear projection] + E [residual connection] + E [LayerNorm] +4E [MLP activation]+E [MLP projection down]+E[residual]+E[LayerNorm] ))
 ```
 
-Aside from the 1Gb gap in my memory calculations, when I turn on floating point 16 the memory for 1 batch only drops from 6.1Gb to 5.8Gb. Meanwhile for a model with a batch of 8, it goes from 27.5 to  21.8Gb. Why are there not larger memory savings? Is this because it is mixed precision and the model decides that it needs high precision for many of its components?
+When I turn on floating point 16 the memory for 1 batch only drops from 6.1Gb to 5.8Gb. Meanwhile for a model with a batch of 8, it goes from 27.5 to 21.8Gb. Why are there not larger memory savings? Is this because it is mixed precision and the model decides that it needs high precision for many of its components?
 
 
 ---
