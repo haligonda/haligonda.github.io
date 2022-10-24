@@ -28,10 +28,10 @@ Overall I am super happy and feel very lucky to be in my PhD program. On an aver
 * Be explicit about taking time off. Flexible hours can be great until you feel like you can and should be working all the time. This drains the enjoyment from time not spent working unless you are explicit about actually taking it off.
 * Think for longer, act more hesitantly. In hindsight there are a number of results that I could have foreseen if I had just thought for a bit longer and more deeply about the problem first. There are no hard deadlines in research (unlike in school). Use this to your advantage.
 * But if something is cheap to test then don’t theorize about it, just actually go and test it, immediately. Right now.
-Most insights come unconsciously but you need to support their appearance. Read widely, go on deep dives into topics, ramble on and on in your notebook about ideas and see where it goes.
+* Most insights come unconsciously but you need to support their appearance. Read widely, go on deep dives into topics, ramble on and on in your notebook about ideas and see where it goes.
 * Life is cyclical. Moods, motivation levels, the type of work needed to drive a project forwards. Accept this rather than pretending the cycles aren’t there.
 * If you do ignore them… you might work at really suboptimal times and try to take shortcuts that hurt in the long run (see the bullet point about solving problems now rather than when they actually become problems).
-* But don’t let perfect be the enemy of good. It is too easy to decide not to start something that seems hard because you don’t feel at your absolute peak right now. E.g. starting to write that paper or read that publication. Everything is iterative and you will probably need to read it again or re-write it to get it perfect anyways, but you can still capture a lot of the variance the first time around.
+* But don’t let perfect be the enemy of good. It is too easy to decide not to start something that seems hard because you don’t feel at your absolute peak right now. E.g. starting to write that paper or reading that publication. Everything is iterative and you will probably need to read it again or re-write it to get it perfect anyways, but you can still capture a lot of the variance the first time around.
 * The publication itself and the main text in particular hide an incredible number of details, this makes talking to the paper authors really overpowered.
 * Working alone can have its advantages. Collaboration is great but if you never work alone and never force yourself to come up with your own research ideas then those muscles will never grow. They certainly didn’t in school where there is always a right answer and a very small number of inductive leaps are required to solve any problem.
 * However well you think you understand something, you certainly don’t until you go through the process of re-creating it for yourself.
@@ -45,8 +45,8 @@ Most insights come unconsciously but you need to support their appearance. Read 
 </div>
 
 * Everyone is naked. This is a dramatization of the phrase “the emperor has no clothes”. The more I climb ivory towers the more I realize that the people who you assumed knew everything and had everything under control often don’t. They are humans too. This is both terrifying because nobody is in control but also highly motivating because you can make a difference.
-* Just because you can work on something doesn’t mean you should. Taking an idea all the way to a publication is incredibly time consuming. And there are fixed costs to the endeavor that don’t scale and aren’t particularly educational, e.g. making Figure 4 for the 30th time with a slightly different color scheme this time.
-* Think about if this project went perfectly according to plan, what comes of it. If the outcome in this unrealistic scenario isn’t all that great then look further.
+* Just because you *can* work on something doesn’t mean you should. Taking an idea all the way to a publication is incredibly time consuming. And there are fixed costs to the endeavor that don’t scale and aren’t particularly educational, e.g. making Figure 4 for the 30th time with a slightly different color scheme this time.
+* When deciding if a project is worth pursuing think "if this went perfectly according to plan, what comes of it?" If the outcome in this unrealistic scenario isn’t all that great then look further.
 
 My favourite science quote:
 
@@ -60,8 +60,8 @@ Oh and if you haven’t read [You and Your Research](https://www.cs.virginia.edu
 * Do more theory and less engineering.
 * Spend more time on [maintenance](https://www.worksinprogress.co/issue/the-maintenance-race/). Unit tests, refactoring code, etc.
 * Have a good answer to the Tyler Cowen question: “What form of routine practice do you do that is analogous to the way a pianist practices the scales?”
-* Share my research more openly via blog posts and get things on ArXiV more frequently.
-* Get better at accepting how the world actually is. There is something really powerful about seeing the world not as it should be or could have been but how it is right now. You’re in the cockpit, everything that has happened has happened, what is going to happen next. I feel this most acutely with investment decisions, ok yes I should have sold before the market crash. But what should I be doing right now? Yet I think this generalizes to accepting that I am two years into grad school and turning 25 soon. What projects are sunk costs and what do I want to change going forwards? Meditation and journaling are two ways that I think can really help with this “world acceptance” and future planning.
+* Share my research more openly via blog posts and get things on ArXiv more frequently.
+* Get better at accepting how the world actually is. There is something really powerful about seeing the world not as it should be or could have been but how it is right now. You’re in the cockpit, everything that has happened has happened, now what is going to happen next? I feel this most acutely with investment decisions, "ok yes I should have sold before the market crash. But what should I be doing right now?" Yet I think this generalizes to accepting that I am two years into grad school and turning 25 soon. What projects are sunk costs and what do I want to change going forwards? Meditation and journaling are two ways that I think can really help with this “world acceptance” and future planning.
 
 ---
 
