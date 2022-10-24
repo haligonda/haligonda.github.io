@@ -6,7 +6,9 @@ comments: True
 categories: Education
 ---
 
-*This essay was written for the Benedictus Young Scholar’s Essay Prize on the topic of education reform. With this essay I was one of the three winners of the competition which provided me with the incredible opportunity to travel to Blackfriars Hall at Oxford University. There I had the chance to present my ideas before a research forum of 30 academics and distinguished individuals in the education sphere which was followed by a productive discussion.*
+*This essay was written for the Benedictus Young Scholar’s Essay Prize on the topic of education reform.*
+
+*With this essay I was one of the three winners of the competition which provided me with the incredible opportunity to travel to Blackfriars Hall at Oxford University. There I had the chance to present my ideas before a research forum of 30 academics and distinguished individuals in the education sphere which was followed by a productive discussion.*
 
 *While I am no longer actively researching education, I still believe these ideas have some truth to them and would like to see more charter schools and other educational vehicles implement them. [AltSchool](https://www.newyorker.com/magazine/2016/03/07/altschools-disrupted-education), [Khan Lab School](https://www.khanlabschool.org/), and Elon Musk's [Ad Astra](https://interestingengineering.com/astra-nova-school-following-elon-musks-ad-astra-school-experiment-leads-the-future-of-education) seem like great starting points for these ideas but there are likely new and exciting ideas that have emerged since 2016.*
 
