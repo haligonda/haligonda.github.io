@@ -203,7 +203,7 @@ If you found this post useful for your research please use this citation:
 * footnotes will be placed here. This line is necessary
 {:footnotes}
 
-[^HopfieldAutoAssoc]::The Hopfield Network is almost always autoassociative so $$P_v=P_a=X_a=X_v$$  ([citation](https://arxiv.org/abs/2111.05498), [citation](https://www.sciencedirect.com/science/article/abs/pii/0364021388900262)).
+[^HopfieldAutoAssoc]:The Hopfield Network is almost always autoassociative so $$P_v=P_a=X_a=X_v$$  ([citation](https://arxiv.org/abs/2111.05498), [citation](https://www.sciencedirect.com/science/article/abs/pii/0364021388900262)).
 
 ---
 
