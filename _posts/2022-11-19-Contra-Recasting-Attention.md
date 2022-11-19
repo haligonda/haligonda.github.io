@@ -10,7 +10,7 @@ categories: [ML, Neuroscience]
 
 ---
 
-A [paper](https://kdd-milets.github.io/milets2022/papers/MILETS_2022_paper_5942.pdf) was recently posted that claims to use the Holographic Reduced Representations to "recast" Transformer Self Attention. While the paper shows some interesting empirical results, I explain why I think the work is flawed in its theoretical underpinnings.
+A paper "[Recasting Self-Attention with Holographic Reduced Representations](https://kdd-milets.github.io/milets2022/papers/MILETS_2022_paper_5942.pdf)" was recently posted that claims to use the Holographic Reduced Representations to "recast" Transformer Self Attention. While the paper shows some interesting empirical results, I explain why I think the work is flawed in its theoretical underpinnings.
 
 I'm taking the time to write this critique because I believe it is a critical period for Vector Symbolic Architectures (VSAs) to interface with Deep Learning and that this work represents VSAs poorly.  
 
