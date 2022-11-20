@@ -24,7 +24,7 @@ Taking a excerpt from a [recent paper](https://pubmed.ncbi.nlm.nih.gov/22047489/
 > A broad range of neuropsychological deficits has also been documented following localized cerebellar pathology, with deficits across tasks of attention, working memory, language and naming, counting, visuospatial processing, planning, and abstract reasoning reported (Kalashnikova, Zveva, Pugacheva, & Korsakova, 2005).
 
 <div align="center">
-  <img width="500"  src="../images/cerebellumIsAwesome/SamWang.png">
+  <img width="500"  src="../images/CerebellumIsAwesome/SamWang.png">
   <br>
   <em>Neural tracers have recently found closed loop circuits between the cerebellum and almost every other brain region. Graphical abstract of <a href="https://pubmed.ncbi.nlm.nih.gov/34551311/">Pisano et al. (2021)</a>.</em>
 </div>
@@ -32,7 +32,7 @@ Taking a excerpt from a [recent paper](https://pubmed.ncbi.nlm.nih.gov/22047489/
 **Cerebellar ubiquity** -- The cerebellum-like structure found in many insects including [fruit flies](https://www.annualreviews.org/doi/abs/10.1146/annurev-neuro-080317-0621333), [ants](https://pubmed.ncbi.nlm.nih.gov/11240291/), and [bees](https://royalsocietypublishing.org/doi/10.1098/rstb.1982.0086) is the Mushroom Body (MB). The MB is responsible for associative learning and is the primary region of the Drosophila brain that is not genetically pre-wired, instead containing many [random connections that undergo learning](https://elifesciences.org/articles/04577). Cerebellar equivalents have also been discovered in families of [crustaceans and flatworms](https://royalsocietypublishing.org/doi/10.1098/rstb.2015.0055) through likely shared ancestral inheritance and [cephalopods](https://www.sciencedirect.com/science/article/pii/S096098221101013X) through potentially convergent evolution.[^Cephalopods]
 
 <div align="center">
-  <img width="700"  src="../images/cerebellumIsAwesome/MB_Cerebellum.png">
+  <img width="700"  src="../images/CerebellumIsAwesome/MBCerebellum.png">
   <br>
   <em>The shared circuitry between the cerebellum and Mushroom Body. Image taken from Figure 1 of <a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-neuro-080317-0621333">Modi et al. (2020)</a>.</em>
 </div>
@@ -42,7 +42,7 @@ Taking a excerpt from a [recent paper](https://pubmed.ncbi.nlm.nih.gov/22047489/
 **Sans cerebellum** -- Another critique of cerebellar importance is that people can live being born without one. This phenomenon is not unique to the cerebellum, where people can be born without entire cortical lobes and show no phenotypic deficits. For example, [patient EG](https://www.wired.com/story/she-was-missing-a-chunk-of-her-brain-it-didnt-matter/), a highly intelligent lawyer who taught herself Russian later in life and scored 98th percentile for vocabulary, was only found at the age of 25 to be missing her entire left temporal lobe -- the canonical center of language processing! Her right temporal lobe was found to have entirely [compensated](https://evlab.mit.edu/assets/papers/Tuckute%20et%20al%202022%20Nplogia.pdf).[^LostEinstein]
 
 <div align="center">
-  <img width="500"  src="../images/cerebellumIsAwesome/PatientEG.png">
+  <img width="500"  src="../images/CerebellumIsAwesome/PatientEG.png">
   <br>
   <em>Patient EG missing her left temporal lobe, which is the the seat of language processing in normal brains (containing both Broca's and Wernicke's areas). <a href="https://evlab.mit.edu/assets/papers/Tuckute%20et%20al%202022%20Nplogia.pdf">Source</a></em>
 </div>
