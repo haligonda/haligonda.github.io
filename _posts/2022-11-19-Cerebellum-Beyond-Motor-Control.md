@@ -12,7 +12,15 @@ categories: [Neuroscience]
 
 > A policeman sees a drunk man searching for something under a streetlight and asks what the drunk has lost. He says he lost his keys and they both look under the streetlight together. After a few minutes the policeman asks if he is sure he lost them here, and the drunk replies, no, and that he lost them in the park. The policeman asks why he is searching here, and the drunk replies, "this is where the light is". -- [Source](https://en.wikipedia.org/wiki/Streetlight_effect)
 
-**Beyond the Streetlight** -- I believe this same phenomenon has occurred for our understanding of the cerebellum. Deficits in fine motor function are very easy to spot and were the simplest function to attribute to cerebellar lesions. This is still what is taught in most textbooks. However, it is less well known that the cerebellum contains [~70%](https://academic.oup.com/book/25657) of all neurons in the brain and is ubiquitous across organisms as varied as [humans, fruit flies, and electric fish](https://www.annualreviews.org/doi/abs/10.1146/annurev-neuro-080317-0621333). Over the last ~20 years in particular, evidence has been accumulating that the cerebellum, first [named by Leonardo da Vinci](https://link.springer.com/article/10.1007/s12311-020-01133-7) for "little brain" is more important than its size may suggest.
+**Beyond the Streetlight** -- I believe this same phenomenon has occurred for our understanding of the cerebellum. Deficits in fine motor function are very easy to spot and were the simplest function to attribute to cerebellar lesions. This is still what is taught in most textbooks.
+
+However, it is less well known that the cerebellum contains [~70%](https://academic.oup.com/book/25657) of all neurons in the brain and is ubiquitous across organisms as varied as [humans, fruit flies, and electric fish](https://www.annualreviews.org/doi/abs/10.1146/annurev-neuro-080317-0621333). Over the last ~20 years in particular, evidence has been accumulating that the cerebellum, first [named by Leonardo da Vinci](https://link.springer.com/article/10.1007/s12311-020-01133-7) for "little brain" is more important than its size may suggest.
+
+<div align="center">
+  <img width="200"  src="../images/CerebellumIsAwesome/CerebellumIntro.png">
+  <br>
+  <em>This is the cerebellum. It is important for lots of things.</em>
+</div>
 
 A prominent neuroscience once said to me:
 > A dirty little secret in cognitive science is that the cerebellum lights up for almost every task.
