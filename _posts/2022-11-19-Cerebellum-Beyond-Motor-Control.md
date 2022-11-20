@@ -67,5 +67,20 @@ Being familiar with cases like patient EG, it is reasonable to assume the same c
 
 [^Cephalopods]: Note that the extent to which the cephalopod vertical lobe approximates the cerebellum is contested ([pro convergence](https://royalsocietypublishing.org/doi/10.1098/rstb.2015.0055); [contra convergence](https://pubmed.ncbi.nlm.nih.gov/25644267/)).
 
+---
+
+## Citation
+
+If you found this post useful for your research please use this citation:
+```
+@misc{CerebellumBeyondMotorControl,
+  title={The Cerebellum Beyond Motor Control},
+  url={https://www.trentonbricken.com/Cerebellum-Beyond-Motor-Control/},
+  journal={Blog Post, trentonbricken.com},
+  author={Trenton Bricken},
+  year={2022}, month={November}}
+```
+
+
 [comment]: <> ---
 [comment]: <> *Thanks to the NSF Foundation and the Kreiman Lab for making this research possible. Also to [Dmitry Krotov](https://twitter.com/DimaKrotov) and [Beren Millidge](https://twitter.com/BerenMillidge) for useful conversations. All remaining errors are mine and mine alone.*

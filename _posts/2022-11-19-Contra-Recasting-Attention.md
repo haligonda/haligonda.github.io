@@ -79,7 +79,7 @@ Please reach out if I am missing something about this paper as I am happy to dis
 
 If you found this post useful for your research please use this citation:
 ```
-@misc{SDMHopfieldNetworks,
+@misc{HHRsRecastingAttention,
   title={HRRs Can't Recast Self Attention},
   url={https://www.trentonbricken.com/Contra-Recasting-Attention/},
   journal={Blog Post, trentonbricken.com},
