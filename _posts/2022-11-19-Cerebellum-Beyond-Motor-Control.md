@@ -22,7 +22,7 @@ However, it is less well known that the cerebellum contains [~70%](https://acade
   <em>This is the cerebellum. It is important for lots of things.</em>
 </div>
 
-A prominent neuroscience once said to me:
+A prominent neuroscientist once said to me:
 > A dirty little secret in cognitive science is that the cerebellum lights up for almost every task.
 
 Taking a excerpt from a [recent paper](https://pubmed.ncbi.nlm.nih.gov/22047489/):
