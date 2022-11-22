@@ -56,7 +56,7 @@ $$
 $$
 \begin{align}
  \mathbf{\tilde{a}}_t &= [ \text{CS}(\mathbf{v}_1, \mathbf{z}), \dots,  \text{CS}(\mathbf{v}_T, \mathbf{z})  ]^T \\
- &= [ \mathbf{k}_1 \otimes \sum_i^T \mathbf{q}_i^{-1} +\epsilon, \dots, \mathbf{k}_T \otimes \sum_i^T \mathbf{q}_i^{-1} +\epsilon  ]^T \\
+ &= [ CS(\mathbf{v}_1, \mathbf{v}_1 \otimes \mathbf{k}_1 \otimes \sum_i^T \mathbf{q}_i^{-1} +\epsilon ), \dots, CS(\mathbf{v}_T, \mathbf{v}_T \otimes \mathbf{k}_T \otimes \sum_i^T \mathbf{q}_i^{-1} +\epsilon)  ]^T \\
  &\approx [ \sum_i^T \mathbf{k}_1^T \mathbf{q}_i +\epsilon, \dots, \sum_i^T \mathbf{k}_T^T \mathbf{q}_i+\epsilon  ]^T \\
 \end{align}
 $$
@@ -75,7 +75,16 @@ To conclude, while I share with the paper authors the desire to integrate VSAs i
 
 Please reach out if I am missing something about this paper as I am happy to discuss it and revise this blog post.
 
-## Citation
+---
+
+*Thanks to the [Denis Kleyko](https://redwood.berkeley.edu/people/denis-kleyko/) for helpful comments and discussion. All remaining errors are mine and mine alone.*
+
+### Footnotes
+* footnotes will be placed here. This line is necessary
+{:footnotes}
+[^Masking]: I am concerned that the results in the paper that beat benchmarks are the result of incorrect masking.
+
+### Citation
 
 If you found this post useful for your research please use this citation:
 ```
@@ -86,10 +95,5 @@ If you found this post useful for your research please use this citation:
   author={Trenton Bricken},
   year={2022}, month={November}}
 ```
-
-### Footnotes
-* footnotes will be placed here. This line is necessary
-{:footnotes}
-[^Masking]: I am concerned that the results in the paper that beat benchmarks are the result of incorrect masking.
 
 ---
