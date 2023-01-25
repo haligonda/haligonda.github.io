@@ -6,13 +6,13 @@ permalink: /about/
 
 <!--- ![Trenton B. Bricken](../images/TrentonBricken.jpg){:style="width: 200px; float: right; padding-left: 20px"}-->
 
-Hi, I'm Trenton. I am very interested in to what extent there is convergence between machine learning and neuroscience. I am currently using theoretical memory models, particularly [Sparse Distributed Memory](https://redwood.berkeley.edu/wp-content/uploads/2020/08/KanervaP_SDMrelated_models1993.pdf) and [Vector Symbolic Architectures](https://arxiv.org/pdf/2106.05268.pdf) to investigate this question.
+Hi, I'm Trenton. I'm very interested in the extent to which there is convergence between machine learning and neuroscience. My PhD research uses theoretical memory models, particularly [Sparse Distributed Memory](https://redwood.berkeley.edu/wp-content/uploads/2020/08/KanervaP_SDMrelated_models1993.pdf) and [Vector Symbolic Architectures](https://arxiv.org/pdf/2106.05268.pdf) to investigate this question.
 
 Information about me:
 * I've currently paused my PhD to join the Mechanistic Interpretability team at [Anthropic](https://www.anthropic.com/) as [Tristan Hume](https://thume.ca/)'s Resident.
-* Otherwise, I'm a PhD student in the Systems, Synthetic and Quantitative Biology (SSQB) Program at Harvard in the [Kreiman Lab](http://klab.tch.harvard.edu/publications/publications.html#sthash.dUJc7Kpv.dpbs) where I'm supported by the NSF Graduate Research Fellowship.
+* Otherwise, I'm a PhD student in the "Systems, Synthetic and Quantitative Biology" Program at Harvard in the [Kreiman Lab](http://klab.tch.harvard.edu/publications/publications.html#sthash.dUJc7Kpv.dpbs). I also spend time at the Berekeley [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/) as a visiting researcher with ongoing collaborations. I'm supported by the NSF Graduate Research Fellowship.
 * I graduated from Duke University in May 2020 with a self-made major in "Minds and Machines: Biological and Artificial Intelligence". I was lucky to attend as a [Robertson Scholar](https://robertsonscholars.org/profiles/trenton-bricken/), which provided full funding during all four years, including summer experiences.
-* During my time at Duke, I spent a year (June 2018 - May 2019) doing research in [Dr. Michael Lynch's Lab](https://lynchlab.pratt.duke.edu) at Duke attempting to use machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. Afterwards, I was affiliated with [Dr. Debora Marks's Lab](https://marks.hms.harvard.edu) at Harvard Medical School, first as a summer intern and then throughout my Senior year including my [Senior Thesis](https://github.com/TrentBrick/learning-protein-landscapes) research.
+* During my time at Duke, I spent a year (June 2018 - May 2019) doing research in [Dr. Michael Lynch's Lab](https://lynchlab.pratt.duke.edu) attempting to use machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. Afterwards, I was affiliated with [Dr. Debora Marks's Lab](https://marks.hms.harvard.edu) at Harvard Medical School, first as a summer intern and then throughout my Senior year including my [Senior Thesis](https://github.com/TrentBrick/learning-protein-landscapes) research.
 
 I am involved in the movement/philosophy/set of ideas that is [Effective Altruism](https://www.effectivealtruism.org). I am also a fan of prediction markets and make public forecasts on Metaculus [here](https://www.metaculus.com/accounts/profile/118139/).
 If the world was void of both interesting research questions and global catastrophic risks(!), you'd find me backpacking around the world with my [film camera](https://blitz-analog.github.io/). I still try to do this when I have time off and get the chance to travel somewhere cool.
@@ -24,13 +24,13 @@ Have any feedback for me? Please consider filling out [this](https://forms.gle/V
 **Noise Transforms Feed-Forward Networks into Sparse Coding Networks**<br>
 ***Trenton Bricken***\*, Bruno Olshausen, Gabriel Kreiman
 \*(First author)<br>
-ICLR, Submission under Review, September 2022<br>
+Pre-print, September 2022<br>
 [[paper](https://openreview.net/forum?id=P9yXPbfqbvC)]
 
 **Sparse Distributed Memory is a Continual Learner**<br>
 ***Trenton Bricken***\*, Xander Davies, Deepak Singh, Dmitry Krotov, Gabriel Kreiman
 \*(First author)<br>
-ICLR, Submission under Review, September 2022<br>
+ICLR, September 2022<br>
 [[paper](https://openreview.net/forum?id=JknGeelZJpHP)]
 
 **Attention Approximates Sparse Distributed Memory**<br>
