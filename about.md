@@ -9,8 +9,8 @@ permalink: /about/
 Hi, I'm Trenton. I am very interested in to what extent there is convergence between machine learning and neuroscience. I am currently using theoretical memory models, particularly [Sparse Distributed Memory](https://redwood.berkeley.edu/wp-content/uploads/2020/08/KanervaP_SDMrelated_models1993.pdf) and [Vector Symbolic Architectures](https://arxiv.org/pdf/2106.05268.pdf) to investigate this question.
 
 Information about me:
-* I'm a PhD student in the Systems, Synthetic and Quantitative Biology (SSQB) Program at Harvard in the [Kreiman Lab](http://klab.tch.harvard.edu/publications/publications.html#sthash.dUJc7Kpv.dpbs) where I'm supported by the NSF Graduate Research Fellowship.
-* I'm currently doing my PhD as a visiting researcher with the [Redwood Theoretical Neuroscience Institute](https://redwood.berkeley.edu/) at Berkeley.
+* I've currently paused my PhD to join the Mechanistic Interpretability team at [Anthropic](https://www.anthropic.com/) as [Tristan Hume](https://thume.ca/)'s Resident.
+* Otherwise, I'm a PhD student in the Systems, Synthetic and Quantitative Biology (SSQB) Program at Harvard in the [Kreiman Lab](http://klab.tch.harvard.edu/publications/publications.html#sthash.dUJc7Kpv.dpbs) where I'm supported by the NSF Graduate Research Fellowship.
 * I graduated from Duke University in May 2020 with a self-made major in "Minds and Machines: Biological and Artificial Intelligence". I was lucky to attend as a [Robertson Scholar](https://robertsonscholars.org/profiles/trenton-bricken/), which provided full funding during all four years, including summer experiences.
 * During my time at Duke, I spent a year (June 2018 - May 2019) doing research in [Dr. Michael Lynch's Lab](https://lynchlab.pratt.duke.edu) at Duke attempting to use machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. Afterwards, I was affiliated with [Dr. Debora Marks's Lab](https://marks.hms.harvard.edu) at Harvard Medical School, first as a summer intern and then throughout my Senior year including my [Senior Thesis](https://github.com/TrentBrick/learning-protein-landscapes) research.
 
