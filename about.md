@@ -21,7 +21,7 @@ Have any feedback for me? Please consider filling out [this](https://forms.gle/V
 
 ## Publications (in reverse chronological order):
 
-**Noise Transforms Feed-Forward Networks into Sparse Coding Networks**<br>
+**Emergence of Sparse Representations from Noise**<br>
 ***Trenton Bricken***\*, Rylan Schaeffer, Bruno Olshausen, Gabriel Kreiman
 \*(First author)<br>
 ICML, May 2023<br>
@@ -31,7 +31,7 @@ ICML, May 2023<br>
 ***Trenton Bricken***\*, Xander Davies, Deepak Singh, Dmitry Krotov, Gabriel Kreiman
 \*(First author)<br>
 ICLR, September 2022<br>
-[[paper](https://openreview.net/forum?id=JknGeelZJpHP) [[tweet-thread](https://twitter.com/TrentonBricken/status/1639302453295476737?s=20)]]
+[[paper](https://arxiv.org/abs/2303.11934) [[tweet-thread](https://twitter.com/TrentonBricken/status/1639302453295476737?s=20)]]
 
 **Attention Approximates Sparse Distributed Memory**<br>
 ***Trenton Bricken***\*, Cengiz Pehlevan<br>
