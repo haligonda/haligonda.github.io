@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About
+title: Hi, I'm Trenton.
 permalink: /about/
 ---
 
 <!--- ![Trenton B. Bricken](../images/TrentonBricken.jpg){:style="width: 200px; float: right; padding-left: 20px"}-->
 
-Hi, I'm Trenton. I'm very interested in the extent to which there is convergence between machine learning and neuroscience. My PhD research uses theoretical memory models, particularly [Sparse Distributed Memory](https://redwood.berkeley.edu/wp-content/uploads/2020/08/KanervaP_SDMrelated_models1993.pdf) and [Vector Symbolic Architectures](https://arxiv.org/pdf/2106.05268.pdf) to investigate this question.
+ I'm a Member of Technical Staff on the Mechanistic Interpretability team at [Anthropic](https://www.anthropic.com/). A nice overview of our mission can be found [here](https://transformer-circuits.pub/2023/interpretability-dreams/index.html). I'm currently working on [using dictionary learning to disentangle superposition in deep neural networks](https://transformer-circuits.pub/2023/may-update/index.html#superposition-dictionary).
 
 Information about me:
-* I've currently paused my PhD to join the Mechanistic Interpretability team at [Anthropic](https://www.anthropic.com/) as [Tristan Hume](https://thume.ca/)'s Resident.
-* Otherwise, I'm a PhD student in the "Systems, Synthetic and Quantitative Biology" Program at Harvard in the [Kreiman Lab](http://klab.tch.harvard.edu/publications/publications.html#sthash.dUJc7Kpv.dpbs). I also spend time at the Berekeley [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/) as a visiting researcher with ongoing collaborations. I'm supported by the NSF Graduate Research Fellowship.
+* I've paused (for the forseeable future) my PhD research investigating the extent to which there is convergence between machine learning and neuroscience. This work was done through the "Systems, Synthetic and Quantitative Biology" Program at Harvard in the [Kreiman Lab](http://klab.tch.harvard.edu/publications/publications.html#sthash.dUJc7Kpv.dpbs) and supported by the NSF Graduate Research Fellowship. I also spent time at the Berekeley [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/) as a visiting researcher.
 * I graduated from Duke University in May 2020 with a self-made major in "Minds and Machines: Biological and Artificial Intelligence". I was lucky to attend as a [Robertson Scholar](https://robertsonscholars.org/profiles/trenton-bricken/), which provided full funding during all four years, including summer experiences.
 * During my time at Duke, I spent a year (June 2018 - May 2019) doing research in [Dr. Michael Lynch's Lab](https://lynchlab.pratt.duke.edu) attempting to use machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. Afterwards, I was affiliated with [Dr. Debora Marks's Lab](https://marks.hms.harvard.edu) at Harvard Medical School, first as a summer intern and then throughout my Senior year including my [Senior Thesis](https://github.com/TrentBrick/learning-protein-landscapes) research.
 
@@ -25,13 +24,13 @@ Have any feedback for me? Please consider filling out [this](https://forms.gle/V
 ***Trenton Bricken***\*, Rylan Schaeffer, Bruno Olshausen, Gabriel Kreiman
 \*(First author)<br>
 ICML, May 2023<br>
-[pending-public-release]
+[[paper](https://proceedings.mlr.press/v202/bricken23a/bricken23a.pdf)]
 
 **Sparse Distributed Memory is a Continual Learner**<br>
 ***Trenton Bricken***\*, Xander Davies, Deepak Singh, Dmitry Krotov, Gabriel Kreiman
 \*(First author)<br>
 ICLR, September 2022<br>
-[[paper](https://arxiv.org/abs/2303.11934) [[tweet-thread](https://twitter.com/TrentonBricken/status/1639302453295476737?s=20)]]
+[[paper](https://arxiv.org/abs/2303.11934)] [[tweet-thread](https://twitter.com/TrentonBricken/status/1639302453295476737?s=20)]
 
 **Attention Approximates Sparse Distributed Memory**<br>
 ***Trenton Bricken***\*, Cengiz Pehlevan<br>
@@ -61,9 +60,16 @@ Ge Liu\*, Brandon Carter\*, ***Trenton Bricken***, Siddhartha Jain, Mathias Viar
 
 My Google Scholar profile can be found [here](https://scholar.google.com/citations?user=CP6aLusAAAAJ&hl=en).
 
+## Invited Talks:
+
+* [Stanford CS 25: Transformers United V2](https://web.stanford.edu/class/cs25/) - March 2023
+* Vector Symbolic Architectures Webinar Series - September 2022, [[public-link](https://www.youtube.com/watch?v=DrJ2SRdMPUg)]
+* [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/) - May 2022
+* MIT Center for Brains Minds+ Machines - November 2021, [[public-link](https://www.youtube.com/watch?v=THIIk7LR9_8&ab_channel=MITCBMM)]
+
 ## Curriculum Vitae:
 
-[My CV (last updated on Sept. 30, 2022)](../documents/Trenton-Bricken-CV.pdf)
+[My CV (last updated on Feb. 25, 2023)](../documents/Trenton-Bricken-CV.pdf)
 
 ## Past Projects (in reverse chronological order):
 
