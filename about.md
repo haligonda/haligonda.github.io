@@ -21,13 +21,13 @@ Have any feedback for me? Please consider filling out [this](https://forms.gle/V
 ## Publications (in reverse chronological order):
 
 **Emergence of Sparse Representations from Noise**<br>
-***Trenton Bricken***\*, Rylan Schaeffer, Bruno Olshausen, Gabriel Kreiman
+***Trenton Bricken***\*, Rylan Schaeffer, Bruno Olshausen, Gabriel Kreiman<br>
 \*(First author)<br>
 ICML, May 2023<br>
 [[paper](https://proceedings.mlr.press/v202/bricken23a/bricken23a.pdf)]
 
 **Sparse Distributed Memory is a Continual Learner**<br>
-***Trenton Bricken***\*, Xander Davies, Deepak Singh, Dmitry Krotov, Gabriel Kreiman
+***Trenton Bricken***\*, Xander Davies, Deepak Singh, Dmitry Krotov, Gabriel Kreiman<br>
 \*(First author)<br>
 ICLR, September 2022<br>
 [[paper](https://arxiv.org/abs/2303.11934)] [[tweet-thread](https://twitter.com/TrentonBricken/status/1639302453295476737?s=20)]
@@ -63,9 +63,9 @@ My Google Scholar profile can be found [here](https://scholar.google.com/citatio
 ## Invited Talks:
 
 * [Stanford CS 25: Transformers United V2](https://web.stanford.edu/class/cs25/) - March 2023
-* Vector Symbolic Architectures Webinar Series - September 2022, [[public-link](https://www.youtube.com/watch?v=DrJ2SRdMPUg)]
+* [Vector Symbolic Architectures Webinar Series](https://sites.google.com/ltu.se/vsaonline) - September 2022, [[public-link](https://www.youtube.com/watch?v=DrJ2SRdMPUg)]
 * [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/) - May 2022
-* MIT Center for Brains Minds+ Machines - November 2021, [[public-link](https://www.youtube.com/watch?v=THIIk7LR9_8&ab_channel=MITCBMM)]
+* [MIT Center for Brains Minds+ Machines](https://cbmm.mit.edu/) - November 2021, [[public-link](https://www.youtube.com/watch?v=THIIk7LR9_8&ab_channel=MITCBMM)]
 
 ## Curriculum Vitae:
 
