@@ -6,7 +6,7 @@ permalink: /about/
 
 <!--- ![Trenton B. Bricken](../images/TrentonBricken.jpg){:style="width: 200px; float: right; padding-left: 20px"}-->
 
- I'm a Member of Technical Staff on the Mechanistic Interpretability team at [Anthropic](https://www.anthropic.com/). A nice overview of our mission can be found [here](https://transformer-circuits.pub/2023/interpretability-dreams/index.html). I'm currently working on [using dictionary learning to disentangle superposition in deep neural networks](https://transformer-circuits.pub/2023/may-update/index.html#superposition-dictionary).
+ I'm a Member of Technical Staff on the Mechanistic Interpretability team at [Anthropic](https://www.anthropic.com/). A nice overview of our mission can be found [here](https://transformer-circuits.pub/2023/interpretability-dreams/index.html). I'm currently working on [using dictionary learning to disentangle superposition in deep neural networks](https://transformer-circuits.pub/2023/monosemantic-features/index.html).
 
 Information about me:
 * I've paused (for the forseeable future) my PhD research investigating the extent to which there is convergence between machine learning and neuroscience. This work was done through the "Systems, Synthetic and Quantitative Biology" Program at Harvard in the [Kreiman Lab](http://klab.tch.harvard.edu/publications/publications.html#sthash.dUJc7Kpv.dpbs) and supported by the NSF Graduate Research Fellowship. I also spent time at the Berekeley [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/) as a visiting researcher.
@@ -19,6 +19,13 @@ If the world was void of both interesting research questions and global catastro
 Have any feedback for me? Please consider filling out [this](https://forms.gle/VcY3vQgkdf6c69dr7) anonymous feedback form so I can learn and grow.
 
 ## Publications (in reverse chronological order):
+
+**Towards Monosemanticity: Decomposing Language Models With Dictionary Learning**<br>
+***Trenton Bricken***\*, Adly Templeton\*, Joshua Batson\*, Brian Chen\*, Adam Jermyn\*, Tom Conerly, Nicholas L Turner, Cem Anil, Carson Denison, Amanda Askell, Robert Lasenby, Yifan Wu, Shauna Kravec, Nicholas Schiefer, Tim Maxwell, Nicholas Joseph, Alex Tamkin, Karina Nguyen, Brayden McLean, Josiah E Burke, Tristan Hume, Shan Carter, Tom Henighan, Chris Olah<br>
+\*(Core Contributor)<br>
+Anthropic, October 2023<br>
+[[paper](https://transformer-circuits.pub/2023/monosemantic-features/index.html)] [[blog-post](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)] [[tweet-thread](https://x.com/AnthropicAI/status/1709986949711200722?s=20)]
+
 
 **Emergence of Sparse Representations from Noise**<br>
 ***Trenton Bricken***\*, Rylan Schaeffer, Bruno Olshausen, Gabriel Kreiman<br>
@@ -62,7 +69,7 @@ My Google Scholar profile can be found [here](https://scholar.google.com/citatio
 
 ## Invited Talks:
 
-* [Stanford CS 25: Transformers United V2](https://web.stanford.edu/class/cs25/) - March 2023
+* [Stanford CS 25: Transformers United V2](https://web.stanford.edu/class/cs25/) - March 2023, [[public-link](https://www.youtube.com/watch?v=L4DC7e6g2iI&ab_channel=StanfordOnline)]
 * [Vector Symbolic Architectures Webinar Series](https://sites.google.com/ltu.se/vsaonline) - September 2022, [[public-link](https://www.youtube.com/watch?v=DrJ2SRdMPUg)]
 * [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/) - May 2022
 * [MIT Center for Brains Minds+ Machines](https://cbmm.mit.edu/) - November 2021, [[public-link](https://www.youtube.com/watch?v=THIIk7LR9_8&ab_channel=MITCBMM)]
