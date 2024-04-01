@@ -6,10 +6,10 @@ permalink: /about/
 
 <!--- ![Trenton B. Bricken](../images/TrentonBricken.jpg){:style="width: 200px; float: right; padding-left: 20px"}-->
 
- I'm a Member of Technical Staff on the Mechanistic Interpretability team at [Anthropic](https://www.anthropic.com/). A nice overview of our mission can be found [here](https://transformer-circuits.pub/2023/interpretability-dreams/index.html). I'm currently working on [using dictionary learning to disentangle superposition in deep neural networks](https://transformer-circuits.pub/2023/monosemantic-features/index.html).
+ I'm a Member of Technical Staff on the Mechanistic Interpretability team at [Anthropic](https://www.anthropic.com/). A nice overview of our mission can be found [here](https://transformer-circuits.pub/2023/interpretability-dreams/index.html). I'm currently working on [using dictionary learning to disentangle superposition in artificial neural networks](https://transformer-circuits.pub/2023/monosemantic-features/index.html).
 
 Information about me:
-* I've paused (for the forseeable future) my PhD research investigating the extent to which there is convergence between machine learning and neuroscience. This work was done through the "Systems, Synthetic and Quantitative Biology" Program at Harvard in the [Kreiman Lab](http://klab.tch.harvard.edu/publications/publications.html#sthash.dUJc7Kpv.dpbs) and supported by the NSF Graduate Research Fellowship. I also spent time at the Berekeley [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/) as a visiting researcher.
+* I've paused (for the forseeable future) my PhD research. I was investigating the extent to which there is convergence between machine learning and neuroscience. This work was done through the "Systems, Synthetic and Quantitative Biology" Program at Harvard in the [Kreiman Lab](http://klab.tch.harvard.edu/publications/publications.html#sthash.dUJc7Kpv.dpbs) and supported by the NSF Graduate Research Fellowship. I also spent time at the Berkeley [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/) as a visiting researcher.
 * I graduated from Duke University in May 2020 with a self-made major in "Minds and Machines: Biological and Artificial Intelligence". I was lucky to attend as a [Robertson Scholar](https://robertsonscholars.org/profiles/trenton-bricken/), which provided full funding during all four years, including summer experiences.
 * During my time at Duke, I spent a year (June 2018 - May 2019) doing research in [Dr. Michael Lynch's Lab](https://lynchlab.pratt.duke.edu) attempting to use machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. Afterwards, I was affiliated with [Dr. Debora Marks's Lab](https://marks.hms.harvard.edu) at Harvard Medical School, first as a summer intern and then throughout my Senior year including my [Senior Thesis](https://github.com/TrentBrick/learning-protein-landscapes) research.
 
@@ -25,7 +25,6 @@ Have any feedback for me? Please consider filling out [this](https://forms.gle/V
 \*(Core Contributor)<br>
 Anthropic, October 2023<br>
 [[paper](https://transformer-circuits.pub/2023/monosemantic-features/index.html)] [[blog-post](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)] [[tweet-thread](https://x.com/AnthropicAI/status/1709986949711200722?s=20)]
-
 
 **Emergence of Sparse Representations from Noise**<br>
 ***Trenton Bricken***\*, Rylan Schaeffer, Bruno Olshausen, Gabriel Kreiman<br>
@@ -73,6 +72,14 @@ My Google Scholar profile can be found [here](https://scholar.google.com/citatio
 * [Vector Symbolic Architectures Webinar Series](https://sites.google.com/ltu.se/vsaonline) - September 2022, [[public-link](https://www.youtube.com/watch?v=DrJ2SRdMPUg)]
 * [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/) - May 2022
 * [MIT Center for Brains Minds+ Machines](https://cbmm.mit.edu/) - November 2021, [[public-link](https://www.youtube.com/watch?v=THIIk7LR9_8&ab_channel=MITCBMM)]
+
+## Podcasts:
+
+* [Dwarkesh Podcast](https://www.dwarkeshpatel.com/podcast):<br>
+
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/UTuuTTnjxMQ?si=h5v-7OqUiqnXq4xI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ## Curriculum Vitae:
 
