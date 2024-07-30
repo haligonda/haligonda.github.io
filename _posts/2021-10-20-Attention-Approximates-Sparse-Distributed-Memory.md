@@ -67,7 +67,7 @@ This work raises two big picture questions that we can’t yet answer but are mo
 
 The full paper can be found [here](https://arxiv.org/abs/2111.05498).
 
-This has been my first, first author paper and not only defined my first year of graduate school but also set the scene for the rest of my PhD. I am working on a number of follow up projects seeing to what extent SDM can explain fundamentals of cognition and deep learning. Outreach for potential collaborations is very welcome and my email is brickentrenton [at] gmail.com :).
+This has been my first, first author paper and not only defined my first year of graduate school but also set the scene for the rest of my PhD. I am working on a number of follow up projects seeing to what extent SDM can explain fundamentals of cognition and deep learning.
 
 *Thanks to Dr. Gabriel Kreiman, Alex Cuozzo, Miles Turpin, Dr. Pentti Kanerva, Joe Choo-Choy, Dr. Beren Millidge, Jacob Zavatone-Veth, Blake Bordelon, Nathan Rollins, Alan Amin, Max Farrens, David Rein, Sam Eure, Grace Bricken, and Davis Brown for providing invaluable inspiration, discussions and feedback. Special thanks to Miles Turpin for help working with the Transformer model experiments.*
 

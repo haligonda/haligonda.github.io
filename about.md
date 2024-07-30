@@ -20,6 +20,12 @@ Have any feedback for me? Please consider filling out [this](https://forms.gle/V
 
 ## Publications (in reverse chronological order):
 
+**Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet**<br>
+Adly Templeton\*, Tom Conerly\*, Jonathan Marcus, Jack Lindsey, ***Trenton Bricken***, Brian Chen, Adam Pearce, Craig Citro, Emmanuel Ameisen, Andy Jones, Hoagy Cunningham, Nicholas L Turner, Callum McDougall, Monte MacDiarmid, Alex Tamkin, Esin Durmus, Tristan Hume, Francesco Mosconi, C. Daniel Freeman, Theodore R. Sumers, Edward Rees, Joshua Batson, Adam Jermyn, Shan Carter, Chris Olah, Tom Henighan<br>
+\*(Core Contributor)<br>
+Anthropic, May 2024<br>
+[[paper](https://transformer-circuits.pub/2024/scaling-monosemanticity/)] [[blog-post](https://www.anthropic.com/news/mapping-mind-language-model)] [[tweet-thread](https://x.com/AnthropicAI/status/1792935506587656625)]
+
 **Towards Monosemanticity: Decomposing Language Models With Dictionary Learning**<br>
 ***Trenton Bricken***\*, Adly Templeton\*, Joshua Batson\*, Brian Chen\*, Adam Jermyn\*, Tom Conerly, Nicholas L Turner, Cem Anil, Carson Denison, Amanda Askell, Robert Lasenby, Yifan Wu, Shauna Kravec, Nicholas Schiefer, Tim Maxwell, Nicholas Joseph, Alex Tamkin, Karina Nguyen, Brayden McLean, Josiah E Burke, Tristan Hume, Shan Carter, Tom Henighan, Chris Olah<br>
 \*(Core Contributor)<br>
@@ -81,10 +87,6 @@ My Google Scholar profile can be found [here](https://scholar.google.com/citatio
   <iframe width="560" height="315" src="https://www.youtube.com/embed/UTuuTTnjxMQ?si=h5v-7OqUiqnXq4xI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-## Curriculum Vitae:
-
-[My CV (last updated on Feb. 25, 2023)](../documents/Trenton-Bricken-CV.pdf)
-
 ## Past Projects (in reverse chronological order):
 
 * [Upside Down Free Energy](https://github.com/TrentBrick/Upside-Down-Free-Energy) - Fall 2020 - Motivated by progress in "Upside Down" supervised reinforcement learning, I tried to connect it Friston's Free Energy Principle (FEP) and develop more hierarchical versions of FEP. This required first implementing benchmarks of the existing "Upside Down" RL algorithms (see next entry). I was starting to get somewhat interesting results but RL is [really hard](https://arxiv.org/pdf/1709.06560.pdf) and I started down the rabbit hole of [Sparse Distributed Memory](https://arxiv.org/abs/2111.05498). See the [GitHub repository](https://github.com/TrentBrick/Upside-Down-Free-Energy) for a draft PDF write up. Thanks to Beren Millidge and Alec Tschantz for their supervision and discussions about this project.
@@ -108,10 +110,4 @@ Website: <https://marks.hms.harvard.edu/sars-cov-2>
 
 ### Other Locations on the Interwebs
 
-I am pretty active on [Twitter](https://twitter.com/TrentonBricken) and sometimes upload my film photography to [Instagram](https://www.instagram.com/blitz_analog) and to my [portfolio](https://blitz-analog.github.io/).
-
-### Get in Touch
-
-If any of the things I have mentioned are interesting to you please reach out! I love to meet new people.
-
-My email is: lastname firstname at gmail dot com
+I am pretty active on [Twitter](https://twitter.com/TrentonBricken) where you can DM me if you're trying to get in touch. I sometimes upload my film photography to [Instagram](https://www.instagram.com/blitz_analog) and to my [portfolio](https://blitz-analog.github.io/).
