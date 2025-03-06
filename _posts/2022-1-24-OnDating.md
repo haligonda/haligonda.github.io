@@ -8,7 +8,7 @@ categories: [Misc]
 
 *Accumulated thoughts on finding life partners.*
 
-Note: as of 2024 my thoughts on this post have updated a bit. I think great relationships are made, not found. But at the same time people don't change all that much. Figuring out if more patience, forgiveness, and dedication will solve the inevitable problems every relationship hits, or if the root issue is deeper, is key to figure out next steps.
+Note: As of 2024 my thoughts on this post have updated a bit. I think great relationships are build, not found. But at the same time people don't change all that much. I think the real challenge with any existing relationship is figuring out if more patience or forgiveness or dedication will solve the inevitable problems every relationship hits, or if the root issue is deeper.
 
 ---
 
