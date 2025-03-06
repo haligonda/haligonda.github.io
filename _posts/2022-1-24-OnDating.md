@@ -8,6 +8,8 @@ categories: [Misc]
 
 *Accumulated thoughts on finding life partners.*
 
+Note: as of 2024 my thoughts on this post have updated a bit. I think great relationships are made, not found. But at the same time people don't change all that much. Figuring out if more patience, forgiveness, and dedication will solve the inevitable problems every relationship hits, or if the root issue is deeper, is key to figure out next steps.
+
 ---
 
 I see a number of blog posts and books like [this](https://www.benkuhn.net/outliers/), [this](https://applieddivinitystudies.com/career-timing/), and [this](https://www.trentonbricken.com/Algorithms-To-Live-By/) that will develop an interesting theory and then relate it to the dating problem but in a cursory fashion, as a subset of a more abstract problem. Here I try to aggregate these pieces together into a series of considerations that may be useful?
