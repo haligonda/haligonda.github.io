@@ -20,6 +20,21 @@ Have any feedback for me? Please consider filling out [this](https://forms.gle/V
 
 ## Publications (in reverse chronological order):
 
+**Insights on Crosscoder Model Diffing**<br>
+Siddharth Mishra-Sharma, ***Trenton Bricken***, Jack Lindsey, Adam Jermyn, Jonathan Marcus, Kelley Rivoire, Christopher Olah, Thomas Henighan<br>
+Anthropic, February 2025<br>
+[[paper](https://transformer-circuits.pub/2025/crosscoder-diffing-update/index.html)]
+
+**Stage-Wise Model Diffing**<br>
+***Trenton Bricken***, Siddharth Mishra-Sharma, Jonathan Marcus, Adam Jermyn, Christopher Olah, Kelley Rivoire, Thomas Henighan<br>
+Anthropic, December 2024<br>
+[[paper](https://transformer-circuits.pub/2024/model-diffing/index.html)] [[tweet-thread](https://x.com/TrentonBricken/status/1867102627588346350)]
+
+**Using Dictionary Learning Features as Classifiers**<br>
+***Trenton Bricken***, Jonathan Marcus, Siddharth Mishra-Sharma, Meg Tong, Ethan Perez, Mrinank Sharma, Kelley Rivoire, Thomas Henighan; edited by Adam Jermyn<br>
+Anthropic, October 2024<br>
+[[paper](https://transformer-circuits.pub/2024/features-as-classifiers/index.html)] [[tweet-thread](https://x.com/TrentonBricken/status/1846652943300436030)]
+
 **Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet**<br>
 Adly Templeton\*, Tom Conerly\*, Jonathan Marcus, Jack Lindsey, ***Trenton Bricken***, Brian Chen, Adam Pearce, Craig Citro, Emmanuel Ameisen, Andy Jones, Hoagy Cunningham, Nicholas L Turner, Callum McDougall, Monte MacDiarmid, Alex Tamkin, Esin Durmus, Tristan Hume, Francesco Mosconi, C. Daniel Freeman, Theodore R. Sumers, Edward Rees, Joshua Batson, Adam Jermyn, Shan Carter, Chris Olah, Tom Henighan<br>
 \*(Core Contributor)<br>
