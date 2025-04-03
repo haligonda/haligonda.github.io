@@ -39,7 +39,7 @@ Sam Zimmerman, Kelley Rivoire, Thomas Conerly, Chris Olah, Joshua Batson*<br>
 Anthropic, March 2025<br>
 [[paper](https://transformer-circuits.pub/2025/attribution-graphs/methods.html)] [[blog-post](https://www.anthropic.com/research/tracing-thoughts-language-model)] [[tweet-thread](https://x.com/AnthropicAI/status/1905303835892990278)]
 
-**Auditing language models for hidden objectives**<br>
+**Auditing Language Models for Hidden Objectives**<br>
 Samuel Marks, Johannes Treutlein, ***Trenton Bricken***, Jack Lindsey, Jonathan Marcus, Siddharth Mishra-Sharma, Daniel Ziegler, Emmanuel Ameisen, Joshua Batson, Tim Belonax, Samuel R. Bowman, Shan Carter, Brian Chen, Hoagy Cunningham, Carson Denison, Florian Dietz, Satvik Golechha, Akbir Khan, Jan Kirchner, Jan Leike, Austin Meek, Kei Nishimura-Gasparian, Euan Ong, Christopher Olah, Adam Pearce, Fabien Roger, Jeanne Salle, Andy Shih, Meg Tong, Drake Thomas, Kelley Rivoire, Adam Jermyn, Monte MacDiarmid, Tom Henighan, Evan Hubinger<br>
 Anthropic, March 2025<br>
 [[paper](https://arxiv.org/abs/2503.10965)] [[tweet-thread](https://x.com/AnthropicAI/status/1900217234825634236)]
