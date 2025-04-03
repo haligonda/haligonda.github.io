@@ -6,12 +6,12 @@ permalink: /about/
 
 <!--- ![Trenton B. Bricken](../images/TrentonBricken.jpg){:style="width: 200px; float: right; padding-left: 20px"}-->
 
- I'm a Member of Technical Staff on the Mechanistic Interpretability team at [Anthropic](https://www.anthropic.com/). A nice overview of our mission can be found [here](https://transformer-circuits.pub/2023/interpretability-dreams/index.html). I'm currently working on [using dictionary learning to disentangle superposition in artificial neural networks](https://transformer-circuits.pub/2023/monosemantic-features/index.html).
+I'm a Member of Technical Staff on the Mechanistic Interpretability team at [Anthropic](https://www.anthropic.com/). A nice overview of our mission can be found [here](https://transformer-circuits.pub/2023/interpretability-dreams/index.html). I'm currently working on [using dictionary learning to disentangle superposition in artificial neural networks](https://transformer-circuits.pub/2023/monosemantic-features/index.html).
 
 Information about me:
-* I've paused (for the forseeable future) my PhD research. I was investigating the extent to which there is convergence between machine learning and neuroscience. This work was done through the "Systems, Synthetic and Quantitative Biology" Program at Harvard in the [Kreiman Lab](http://klab.tch.harvard.edu/publications/publications.html#sthash.dUJc7Kpv.dpbs) and supported by the NSF Graduate Research Fellowship. I also spent time at the Berkeley [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/) as a visiting researcher.
+* I have a PhD in Systems Biology from Harvard. My thesis was on "Sparse Representations in Biological and Artificial Neural Networks" in the [Kreiman Lab](http://klab.tch.harvard.edu/publications/publications.html#sthash.dUJc7Kpv.dpbs) with support from the NSF Graduate Research Fellowship. I also spent time at the Berkeley [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/) as a visiting researcher.
 * I graduated from Duke University in May 2020 with a self-made major in "Minds and Machines: Biological and Artificial Intelligence". I was lucky to attend as a [Robertson Scholar](https://robertsonscholars.org/profiles/trenton-bricken/), which provided full funding during all four years, including summer experiences.
-* During my time at Duke, I spent a year (June 2018 - May 2019) doing research in [Dr. Michael Lynch's Lab](https://lynchlab.pratt.duke.edu) attempting to use machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. Afterwards, I was affiliated with [Dr. Debora Marks's Lab](https://marks.hms.harvard.edu) at Harvard Medical School, first as a summer intern and then throughout my Senior year including my [Senior Thesis](https://github.com/TrentBrick/learning-protein-landscapes) research.
+* During my time at Duke, I spent a year doing research in [Dr. Michael Lynch's Lab](https://lynchlab.pratt.duke.edu) attempting to use machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. Afterwards, I was affiliated with [Dr. Debora Marks's Lab](https://marks.hms.harvard.edu) at Harvard Medical School, first as a summer intern and then throughout my Senior year including my [Senior Thesis](https://github.com/TrentBrick/learning-protein-landscapes) research.
 
 I am involved in the movement/philosophy/set of ideas that is [Effective Altruism](https://www.effectivealtruism.org). I am also a fan of prediction markets and make public forecasts on Metaculus [here](https://www.metaculus.com/accounts/profile/118139/).
 If the world was void of both interesting research questions and global catastrophic risks(!), you'd find me backpacking around the world with my [film camera](https://blitz-analog.github.io/). I still try to do this when I have time off and get the chance to travel somewhere cool.
@@ -19,6 +19,30 @@ If the world was void of both interesting research questions and global catastro
 Have any feedback for me? Please consider filling out [this](https://forms.gle/VcY3vQgkdf6c69dr7) anonymous feedback form so I can learn and grow.
 
 ## Publications (in reverse chronological order):
+
+**On the Biology of a Large Language Model**<br>
+Jack Lindsey†, Wes Gurnee*, Emmanuel Ameisen*, Brian Chen*, Adam Pearce*, Nicholas L. Turner*, Craig Citro*,
+David Abrahams, Shan Carter, Basil Hosmer, Jonathan Marcus, Michael Sklar, Adly Templeton,
+***Trenton Bricken***, Callum McDougall, Hoagy Cunningham, Thomas Henighan, Adam Jermyn, Andy Jones, Andrew Persic, Zhenyi Qi, T. Ben Thompson,
+Sam Zimmerman, Kelley Rivoire, Thomas Conerly, Chris Olah, Joshua Batson*<br>
+\† Lead Contributor<br>
+\*(Core Contributor)<br>
+Anthropic, March 2025<br>
+[[paper](https://arxiv.org/abs/2503.10965)] [[blog-post](https://www.anthropic.com/research/tracing-thoughts-language-model)] [[tweet-thread](https://x.com/AnthropicAI/status/1905303835892990278)]
+
+**Circuit Tracing: Revealing Computational Graphs in Language Models**<br>
+Emmanuel Ameisen*, Jack Lindsey*, Adam Pearce*, Wes Gurnee*, Nicholas L. Turner*, Brian Chen*, Craig Citro*,
+David Abrahams, Shan Carter, Basil Hosmer, Jonathan Marcus, Michael Sklar, Adly Templeton,
+***Trenton Bricken***, Callum McDougall, Hoagy Cunningham, Thomas Henighan, Adam Jermyn, Andy Jones, Andrew Persic, Zhenyi Qi, T. Ben Thompson,
+Sam Zimmerman, Kelley Rivoire, Thomas Conerly, Chris Olah, Joshua Batson*<br>
+\*(Core Contributor)<br>
+Anthropic, March 2025<br>
+[[paper](https://transformer-circuits.pub/2025/attribution-graphs/methods.html)] [[blog-post](https://www.anthropic.com/research/tracing-thoughts-language-model)] [[tweet-thread](https://x.com/AnthropicAI/status/1905303835892990278)]
+
+**Auditing language models for hidden objectives**<br>
+Samuel Marks, Johannes Treutlein, ***Trenton Bricken***, Jack Lindsey, Jonathan Marcus, Siddharth Mishra-Sharma, Daniel Ziegler, Emmanuel Ameisen, Joshua Batson, Tim Belonax, Samuel R. Bowman, Shan Carter, Brian Chen, Hoagy Cunningham, Carson Denison, Florian Dietz, Satvik Golechha, Akbir Khan, Jan Kirchner, Jan Leike, Austin Meek, Kei Nishimura-Gasparian, Euan Ong, Christopher Olah, Adam Pearce, Fabien Roger, Jeanne Salle, Andy Shih, Meg Tong, Drake Thomas, Kelley Rivoire, Adam Jermyn, Monte MacDiarmid, Tom Henighan, Evan Hubinger<br>
+Anthropic, March 2025<br>
+[[paper](https://arxiv.org/abs/2503.10965)] [[tweet-thread](https://x.com/AnthropicAI/status/1900217234825634236)]
 
 **Insights on Crosscoder Model Diffing**<br>
 Siddharth Mishra-Sharma, ***Trenton Bricken***, Jack Lindsey, Adam Jermyn, Jonathan Marcus, Kelley Rivoire, Christopher Olah, Thomas Henighan<br>
