@@ -21,7 +21,7 @@ Have any feedback for me? Please consider filling out [this](https://forms.gle/V
 ## Publications (in reverse chronological order):
 
 **On the Biology of a Large Language Model**<br>
-Jack Lindsey†, Wes Gurnee*, Emmanuel Ameisen*, Brian Chen*, Adam Pearce*, Nicholas L. Turner*, Craig Citro*,
+Jack Lindsey†, Wes Gurnee\*, Emmanuel Ameisen\*, Brian Chen\*, Adam Pearce\*, Nicholas L. Turner\*, Craig Citro\*,
 David Abrahams, Shan Carter, Basil Hosmer, Jonathan Marcus, Michael Sklar, Adly Templeton,
 ***Trenton Bricken***, Callum McDougall, Hoagy Cunningham, Thomas Henighan, Adam Jermyn, Andy Jones, Andrew Persic, Zhenyi Qi, T. Ben Thompson,
 Sam Zimmerman, Kelley Rivoire, Thomas Conerly, Chris Olah, Joshua Batson*<br>
@@ -31,7 +31,7 @@ Anthropic, March 2025<br>
 [[paper](https://arxiv.org/abs/2503.10965)] [[blog-post](https://www.anthropic.com/research/tracing-thoughts-language-model)] [[tweet-thread](https://x.com/AnthropicAI/status/1905303835892990278)]
 
 **Circuit Tracing: Revealing Computational Graphs in Language Models**<br>
-Emmanuel Ameisen*, Jack Lindsey*, Adam Pearce*, Wes Gurnee*, Nicholas L. Turner*, Brian Chen*, Craig Citro*,
+Emmanuel Ameisen\*, Jack Lindsey\*, Adam Pearce\*, Wes Gurnee\*, Nicholas L. Turner\*, Brian Chen\*, Craig Citro\*,
 David Abrahams, Shan Carter, Basil Hosmer, Jonathan Marcus, Michael Sklar, Adly Templeton,
 ***Trenton Bricken***, Callum McDougall, Hoagy Cunningham, Thomas Henighan, Adam Jermyn, Andy Jones, Andrew Persic, Zhenyi Qi, T. Ben Thompson,
 Sam Zimmerman, Kelley Rivoire, Thomas Conerly, Chris Olah, Joshua Batson*<br>
