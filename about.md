@@ -111,8 +111,9 @@ Ge Liu\*, Brandon Carter\*, ***Trenton Bricken***, Siddhartha Jain, Mathias Viar
 
 My Google Scholar profile can be found [here](https://scholar.google.com/citations?user=CP6aLusAAAAJ&hl=en).
 
-## Invited Talks:
+## Talks:
 
+* [My PhD Defense](https://youtu.be/dEFn6nnoC-8) - March 2025
 * [Stanford CS 25: Transformers United V2](https://web.stanford.edu/class/cs25/) - March 2023, [[public-link](https://www.youtube.com/watch?v=L4DC7e6g2iI&ab_channel=StanfordOnline)]
 * [Vector Symbolic Architectures Webinar Series](https://sites.google.com/ltu.se/vsaonline) - September 2022, [[public-link](https://www.youtube.com/watch?v=DrJ2SRdMPUg)]
 * [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/) - May 2022
