@@ -71,7 +71,7 @@ I think I called over a dozen different city departments as a Byzantine nightmar
 </div>
 <br>
 
-The worst dysfunction was inside the hospital and went beyond the general horrors of the US medical system. Even with multiple fractures and an inability to lift themselves out of bed, the person couldn’t be admitted for pain management because this route of admission had been abused so many times by the SF homeless community. Getting admitted based upon pain management provides a de facto free supply of opioids and makes it very hard for the hospital to discharge you. Because of this refusal to admit, a parade of increasingly hostile nurses would appear every 12 hours and try to get the injured person to get out of bed and into outpatient care. This only resulted in pain-induced vomiting and almost passing out from a plummeting blood pressure.
+The worst dysfunction was inside the hospital and went beyond the general horrors of the US medical system. I'll avoid any details but some of these unique problems stem from SF having such a large homeless community. For example, in SF it is especially hard to help patients with pain management because, once admitted, this gives access to an exploitable de facto free supply of opioids.
 
 Maybe now you have an idea of why I struggle to give a sound-bite for SF. SF is wonderful, SF is weird, SF is lawless. I plan to keep living here for the foreseeable future. The combination of being at the heart of the AI takeoff and incredible nature makes it a great place to be for now. But sometimes it does feel like a roll of the dice.
 
