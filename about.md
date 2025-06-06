@@ -11,7 +11,7 @@ I'm a Member of Technical Staff on the Mechanistic Interpretability team at [Ant
 Information about me:
 * I have a PhD in Systems Biology from Harvard. My thesis was on "Sparse Representations in Biological and Artificial Neural Networks" in the [Kreiman Lab](http://klab.tch.harvard.edu/publications/publications.html#sthash.dUJc7Kpv.dpbs) with support from the NSF Graduate Research Fellowship. I also spent time at the Berkeley [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/) as a visiting researcher.
 * I graduated from Duke University in May 2020 with a self-made major in "Minds and Machines: Biological and Artificial Intelligence". I was lucky to attend as a [Robertson Scholar](https://robertsonscholars.org/profiles/trenton-bricken/), which provided full funding during all four years, including summer experiences.
-* During my time at Duke, I spent a year doing research in [Dr. Michael Lynch's Lab](https://lynchlab.pratt.duke.edu) attempting to use machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. Afterwards, I was affiliated with [Dr. Debora Marks's Lab](https://marks.hms.harvard.edu) at Harvard Medical School, first as a summer intern and then throughout my Senior year including my [Senior Thesis](https://github.com/TrentBrick/learning-protein-landscapes) research.
+* At Duke, I spent a year doing research in [Dr. Michael Lynch's Lab](https://lynchlab.pratt.duke.edu) attempting to use machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. Afterwards, I was affiliated with [Dr. Debora Marks's Lab](https://marks.hms.harvard.edu) at Harvard Medical School applying deep learning to [protein design](https://github.com/TrentBrick/learning-protein-landscapes).
 
 I am involved in the movement/philosophy/set of ideas that is [Effective Altruism](https://www.effectivealtruism.org). I am also a fan of prediction markets and make public forecasts on Metaculus [here](https://www.metaculus.com/accounts/profile/118139/).
 If the world was void of both interesting research questions and global catastrophic risks(!), you'd find me backpacking around the world with my [film camera](https://blitz-analog.github.io/). I still try to do this when I have time off and get the chance to travel somewhere cool.
@@ -121,7 +121,13 @@ My Google Scholar profile can be found [here](https://scholar.google.com/citatio
 
 ## Podcasts:
 
-* [Dwarkesh Podcast](https://www.dwarkeshpatel.com/podcast):<br>
+* [Dwarkesh Podcast 2025 Episode](https://www.dwarkeshpatel.com/podcast):<br>
+
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/64lXQP6cs5M?si=oKj2GeM6QqTXY30C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+* [Dwarkesh Podcast 2024 Episode](https://www.dwarkeshpatel.com/podcast):<br>
 
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/UTuuTTnjxMQ?si=h5v-7OqUiqnXq4xI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -150,4 +156,4 @@ Website: <https://marks.hms.harvard.edu/sars-cov-2>
 
 ### Other Locations on the Interwebs
 
-I am pretty active on [Twitter](https://twitter.com/TrentonBricken) where you can DM me if you're trying to get in touch. I sometimes upload my film photography to [Instagram](https://www.instagram.com/blitz_analog) and to my [portfolio](https://blitz-analog.github.io/).
+I am pretty active on [Twitter](https://twitter.com/TrentonBricken). My DMs are open and you should feel free to reach out but I can't promise I'll be good at replying! I sometimes upload my film photography to [Instagram](https://www.instagram.com/blitz_analog) and to my [portfolio](https://blitz-analog.github.io/).
