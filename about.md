@@ -6,7 +6,7 @@ permalink: /about/
 
 <!--- ![Trenton B. Bricken](../images/TrentonBricken.jpg){:style="width: 200px; float: right; padding-left: 20px"}-->
 
-I'm a Member of Technical Staff on the Mechanistic Interpretability team at [Anthropic](https://www.anthropic.com/). A nice overview of our mission can be found [here](https://transformer-circuits.pub/2023/interpretability-dreams/index.html). I'm currently working on [using dictionary learning to disentangle superposition in artificial neural networks](https://transformer-circuits.pub/2023/monosemantic-features/index.html).
+I'm a Member of Technical Staff on the Alignment Science team at [Anthropic](https://www.anthropic.com/). I'm currently [enabling Claude to automatically audit and detect misalignment](https://alignment.anthropic.com/2025/automated-auditing/).
 
 Information about me:
 * I have a PhD in Systems Biology from Harvard. My thesis was on "Sparse Representations in Biological and Artificial Neural Networks" in the [Kreiman Lab](http://klab.tch.harvard.edu/publications/publications.html#sthash.dUJc7Kpv.dpbs) with support from the NSF Graduate Research Fellowship. I also spent time at the Berkeley [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/) as a visiting researcher.
@@ -19,6 +19,16 @@ If the world was void of both interesting research questions and global catastro
 Have any feedback for me? Please consider filling out [this](https://forms.gle/VcY3vQgkdf6c69dr7) anonymous feedback form so I can learn and grow.
 
 ## Publications (in reverse chronological order):
+
+**Findings from a Pilot Anthropic—OpenAI Alignment Evaluation Exercise**<br>
+Samuel R. Bowman, Megha Srivastava, Jon Kutasov, Rowan Wang, ***Trenton Bricken***, Benjamin Wright, Ethan Perez, and Nicholas Carlini<br>
+Anthropic, August 2025<br>
+[[paper](https://alignment.anthropic.com/2025/openai-findings/)] [[tweet-thread](https://x.com/sleepinyourhat/status/1960749648110395467)]
+
+**Building and evaluating alignment auditing agents**<br>
+***Trenton Bricken***, Rowan Wang, Sam Bowman, Euan Ong, Johannes Treutlein, Jeff Wu, Evan Hubinger, Samuel Marks<br>
+Anthropic, July 2025<br>
+[[paper](https://alignment.anthropic.com/2025/automated-auditing/)] [[tweet-thread](https://x.com/AnthropicAI/status/1948433493102403876)]
 
 **On the Biology of a Large Language Model**<br>
 Jack Lindsey†, Wes Gurnee\*, Emmanuel Ameisen\*, Brian Chen\*, Adam Pearce\*, Nicholas L. Turner\*, Craig Citro\*,
